@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-search-filters.jpg)
+
 ## Purpose
 
 Search by image with best-guess labeling and easy pivot to text search on low confidence.

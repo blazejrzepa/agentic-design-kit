@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-risk-bias-fraud.jpg)
+
 ## Purpose
 
 Surface potential bias/fairness flags on outputs with explainable cues and remediation actions.

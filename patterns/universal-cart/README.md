@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-commerce-pack.jpg)
+
 ## Purpose
 
 Cross-merchant cart assembled by an agent with per-seller checkout paths.

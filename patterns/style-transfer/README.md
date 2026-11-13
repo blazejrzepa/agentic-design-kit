@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-media-tools.jpg)
+
 ## Purpose
 
 Apply a reference style to content without changing structure (Shape of AI Restyle).

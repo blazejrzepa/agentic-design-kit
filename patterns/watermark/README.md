@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
+
 ## Purpose
 
 Human/machine-readable identifiers on AI-generated media at export.

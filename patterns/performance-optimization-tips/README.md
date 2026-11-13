@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-variants-theme-gesture.jpg)
+
 ## Purpose
 
 Contextual tips to reduce cost/latency (shorter context, cheaper model, cache).

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-commerce-pack.jpg)
+
 ## Purpose
 
 One-tap purchase from AI recommendation with explicit price, seller, and confirmation.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-commerce-pack.jpg)
+
 ## Purpose
 
 AI-tailored checkout fields/offers with disclosure and easy decline of personalization.

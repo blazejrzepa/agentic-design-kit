@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-batch-queue.jpg)
+
 ## Purpose
 
 Queue many files/rows for the same AI job with per-item status and aggregate cancel.

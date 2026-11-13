@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-canvas-graph.jpg)
+
 ## Purpose
 
 Pan/zoom workspace for AI artifacts, nodes, and spatial agent work beyond a linear chat.

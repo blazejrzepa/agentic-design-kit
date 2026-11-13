@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-parameters-style.jpg)
+
 ## Purpose
 
 One-click expand/improve the user prompt before send, with editable preview.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-workflow-builder.jpg)
+
 ## Purpose
 
 Node/step builder for multi-tool agent workflows with inspectable edges and HITL nodes.

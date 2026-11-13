@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-batch-queue.jpg)
+
 ## Purpose
 
 AI completes form fields from context with per-field accept.

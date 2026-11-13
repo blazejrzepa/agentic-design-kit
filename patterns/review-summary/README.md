@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
+
 ## Purpose
 
 AI distillation of reviews with citations back to individual reviews.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-wayfinders.jpg)
+
 ## Purpose
 
 Lightweight alerts pointing users to AI actions they can take, especially when new.

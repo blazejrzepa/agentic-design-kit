@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-search-filters.jpg)
+
 ## Purpose
 
 Meaning-based retrieval across catalog/docs with relevance cues and facet refine.

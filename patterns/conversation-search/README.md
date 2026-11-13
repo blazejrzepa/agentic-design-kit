@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-search-filters.jpg)
+
 ## Purpose
 
 Search across threads/messages with filters (date, model, tags) and jump-to-hit.

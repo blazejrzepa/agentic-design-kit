@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
+
 ## Purpose
 
 Schedule recurring/deferred agent jobs with next-run visibility and cancel.

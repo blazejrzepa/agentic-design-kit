@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-inpainting-magic.jpg)
+
 ## Purpose
 
 Natural-language edit of an image/region (“make the sky dusk”) with preview.

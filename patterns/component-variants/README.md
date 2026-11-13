@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-variants-theme-gesture.jpg)
+
 ## Purpose
 
 Generate multiple UI/component variants side-by-side for comparison and pick.

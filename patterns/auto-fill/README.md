@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-batch-queue.jpg)
+
 ## Purpose
 
 Extend one prompt across multiple fields/inputs at once (Shape of AI).

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
+
 ## Purpose
 
 Brand-level AI identity: avatar, color, iconography, name, personality — dense, non-slop.

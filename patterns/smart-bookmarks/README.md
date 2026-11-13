@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-recs-code.jpg)
+
 ## Purpose
 
 AI-suggested bookmarks/anchors in long outputs or sessions.

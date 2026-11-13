@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-risk-bias-fraud.jpg)
+
 ## Purpose
 
 Flag risky AI-assisted transactions/actions with score, reasons, and block/allow.

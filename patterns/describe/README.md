@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
+
 ## Purpose
 
 Decompose content into fundamental tokens/suggested prompt structure.

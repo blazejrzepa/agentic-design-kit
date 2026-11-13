@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
+
 ## Purpose
 
 Multi-step auth for connectors/tools (OAuth → scopes → confirm) with clear progress and failure recovery.

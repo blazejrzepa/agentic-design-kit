@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-recs-code.jpg)
+
 ## Purpose
 
 Ranked AI recommendations with reason chips and dismiss/feedback.

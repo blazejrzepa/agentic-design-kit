@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-parameters-style.jpg)
+
 ## Purpose
 
 Dense controls for image gen: aspect, seed, steps, refs — with cost estimate.

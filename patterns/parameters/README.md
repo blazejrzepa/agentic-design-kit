@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-parameters-style.jpg)
+
 ## Purpose
 
 Expose generation constraints (temperature, length, seed) next to the prompt.

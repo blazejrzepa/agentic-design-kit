@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-agent-ops.jpg)
+
 ## Purpose
 
 Show success rate, latency, cost, and failure reasons for agent runs so operators can tune autonomy.

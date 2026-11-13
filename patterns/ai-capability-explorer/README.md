@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-canvas-graph.jpg)
+
 ## Purpose
 
 Interactive map of what the AI can do (modes, tools, limits) for onboarding and discovery.

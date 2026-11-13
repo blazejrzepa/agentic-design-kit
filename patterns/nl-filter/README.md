@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-search-filters.jpg)
+
 ## Purpose
 
 Turn a phrase into editable structured facets (filters) users can correct.

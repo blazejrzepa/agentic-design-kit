@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
+
 ## Purpose
 
 Honest labels when a reply/result came from cache vs fresh inference (speed + cost expectations).

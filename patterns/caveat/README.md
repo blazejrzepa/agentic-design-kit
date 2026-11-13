@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
+
 ## Purpose
 
 Inform users about model/tech shortcomings or risks inline.

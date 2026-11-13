@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-parameters-style.jpg)
+
 ## Purpose
 
 Preset and saved styles for tone/aesthetic reuse (Shape of AI Tuners).

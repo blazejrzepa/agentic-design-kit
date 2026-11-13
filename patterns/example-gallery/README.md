@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-wayfinders.jpg)
+
 ## Purpose
 
 Share sample generations, prompts, and parameters to educate and inspire first use.

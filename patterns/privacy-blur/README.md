@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-media-tools.jpg)
+
 ## Purpose
 
 Blur/redact sensitive regions in images or transcripts before AI or sharing.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-variants-theme-gesture.jpg)
+
 ## Purpose
 
 Blend between two styles/references with a slider before generate.

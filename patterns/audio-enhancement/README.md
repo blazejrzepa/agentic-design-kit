@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-audio-lang.jpg)
+
 ## Purpose
 
 Controls to denoise, normalize, or enhance uploaded/recorded audio before AI processing.

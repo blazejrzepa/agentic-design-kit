@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-recs-code.jpg)
+
 ## Purpose
 
 User or AI tags on threads for organization, routing, and later retrieval.

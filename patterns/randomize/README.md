@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-wayfinders.jpg)
+
 ## Purpose
 
 Low-friction kickstart with randomized prompt/params for playful exploration.

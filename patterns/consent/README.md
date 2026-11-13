@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
+
 ## Purpose
 
 Capture informed permission before recording, training, or processing others’ data.

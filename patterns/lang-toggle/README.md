@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-audio-lang.jpg)
+
 ## Purpose
 
 Switch input/output language for AI with clear source/target labels.

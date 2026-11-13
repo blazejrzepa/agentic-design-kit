@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-media-tools.jpg)
+
 ## Purpose
 
 One-click subject cutout with before/after preview and undo before commit.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-madlibs-templates.jpg)
+
 ## Purpose
 
 Structured prompt templates fillable by user or pre-filled by AI (Madlibs-adjacent).

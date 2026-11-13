@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
+
 ## Purpose
 
 Jump-to-latest control when the user scrolled up during streaming chat.

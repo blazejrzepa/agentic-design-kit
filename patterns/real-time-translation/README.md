@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-audio-lang.jpg)
+
 ## Purpose
 
 Live translate speech/text with source/target labels and interrupt.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-follow-up-feedback.jpg)
+
 ## Purpose
 
 Ask for missing info when the initial prompt is insufficient (Shape of AI Wayfinder).

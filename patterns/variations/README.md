@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-branches-variations.jpg)
+
 ## Purpose
 
 Trace multiple result variations and choose the best (Shape of AI Governors).

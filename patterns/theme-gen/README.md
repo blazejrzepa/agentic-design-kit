@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-variants-theme-gesture.jpg)
+
 ## Purpose
 
 Generate design tokens/theme from prompt while respecting host design system constraints.

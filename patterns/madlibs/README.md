@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-madlibs-templates.jpg)
+
 ## Purpose
 
 Slot-based generative forms that preserve format/accuracy across runs.

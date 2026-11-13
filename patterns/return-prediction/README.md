@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-risk-bias-fraud.jpg)
+
 ## Purpose
 
 Predict return likelihood for items with reasons to inform merchandising/support.

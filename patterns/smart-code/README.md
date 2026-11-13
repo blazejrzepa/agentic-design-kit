@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-recs-code.jpg)
+
 ## Purpose
 
 Code-aware AI assists (explain, test, fix) scoped to selection with preview.

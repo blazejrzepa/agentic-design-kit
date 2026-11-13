@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-canvas-graph.jpg)
+
 ## Purpose
 
 Visual/list graph of entities and relations grounding an AI answer for exploration.

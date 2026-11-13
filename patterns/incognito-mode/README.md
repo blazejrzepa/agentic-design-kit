@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
+
 ## Purpose
 
 Interact with AI outside of memory — clear toggle and session badge.

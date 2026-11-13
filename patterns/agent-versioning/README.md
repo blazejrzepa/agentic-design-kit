@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-agent-ops.jpg)
+
 ## Purpose
 
 Pin, compare, and roll back agent/prompt/tool configs so runs stay reproducible.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
+
 ## Purpose
 
 Forecast stock/demand with confidence range and recommended actions.

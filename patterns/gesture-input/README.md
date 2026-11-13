@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-variants-theme-gesture.jpg)
+
 ## Purpose
 
 Capture gestures/strokes as AI input (canvas, AR, mobile) with clear recognition feedback.

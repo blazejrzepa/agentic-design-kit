@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-branches-variations.jpg)
+
 ## Purpose
 
 Confirm intent on complicated prompts via a cheap sample before full generation.

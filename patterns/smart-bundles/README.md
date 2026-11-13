@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-commerce-pack.jpg)
+
 ## Purpose
 
 AI-grouped product/content bundles with “why these” explanation.

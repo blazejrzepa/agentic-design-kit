@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-risk-bias-fraud.jpg)
+
 ## Purpose
 
 Show AI-influenced price suggestions with rationale and human override before publish.

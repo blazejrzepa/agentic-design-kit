@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-commerce-pack.jpg)
+
 ## Purpose
 
 Subscribe to AI-monitored price drops with threshold controls.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
+
 ## Purpose
 
 Subtle always-on cues that AI is watching/listening/acting without stealing focus (glow, status LED, edge rail).

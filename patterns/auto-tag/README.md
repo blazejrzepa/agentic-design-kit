@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-recs-code.jpg)
+
 ## Purpose
 
 AI suggests tags/labels on content; user confirms or edits before they stick.

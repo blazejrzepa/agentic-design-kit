@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-media-tools.jpg)
+
 ## Purpose
 
 Upscale controls with target resolution, cost/time estimate, and preview.

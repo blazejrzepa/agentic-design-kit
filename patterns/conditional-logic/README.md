@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-workflow-builder.jpg)
+
 ## Purpose
 
 Visual if/then branches in agent workflows so users can inspect and edit decision rules.

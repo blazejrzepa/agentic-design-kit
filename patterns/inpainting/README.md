@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-inpainting-magic.jpg)
+
 ## Purpose
 
 Mask a region and regenerate only that area; preview before apply (Shape of AI + Playground).

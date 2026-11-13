@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
+
 ## Purpose
 
 Metrics on AI outputs (views, exports, ratings) for product/ops loops.

@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-agent-ops.jpg)
+
 ## Purpose
 
 Browse and install third-party agents/skills with capability, cost, and permission previews before enable.

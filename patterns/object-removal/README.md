@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-media-tools.jpg)
+
 ## Purpose
 
 Select object(s) in an image and erase/inpaint them with undo.

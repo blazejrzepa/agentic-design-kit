@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-branches-variations.jpg)
+
 ## Purpose
 
 Iterative prompting with retained footprints back to the original (Shape of AI Governors).

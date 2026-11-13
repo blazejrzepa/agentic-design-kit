@@ -5,6 +5,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-audio-lang.jpg)
+
 ## Purpose
 
 Consent-gated voice clone setup with sample playback and clear disclosure.
