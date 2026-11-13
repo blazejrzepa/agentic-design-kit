@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · HF model inference widget](../../assets/screenshots/external/saasframe/hugging-face-model-details-and-inference-widget.webp)
 ## Purpose
 
 Render UI for a **tool call lifecycle**: args preparing → output ready → error — so GenUI never flashes empty or looks finished while still loading.

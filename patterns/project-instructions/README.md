@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · OpenAI assistant created](../../assets/screenshots/external/saasframe/openai-assistant-created.webp)
 ## Purpose
 
 Show which **repo instruction files** the agent loaded (`Using: 2 AGENTS.md`) so hosts and humans know the brief in force.

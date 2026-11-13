@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-rate-limit.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Dust trial usage in sidebar](../../assets/screenshots/external/saasframe/dust-chat-interface.webp)
 ## Purpose
 
 Warn **before** the wall: remaining requests, reset time, live token/cost/ETA meters during a run. Soft warning + upgrade/queue path beats a post-hoc hard error after lost work.

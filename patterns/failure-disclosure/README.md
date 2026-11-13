@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Lightdash unsupported field in analysis](../../assets/screenshots/external/saasframe/lightdash-ai-analysis.webp)
 ## Purpose
 
 Say clearly when the system **cannot answer**, a **tool failed**, or an action is out of scope — then offer a concrete next step (draft instead, hand off, retry, narrow query). Never fake success.

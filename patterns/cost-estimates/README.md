@@ -7,6 +7,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Dust trial message meter](../../assets/screenshots/external/saasframe/dust-chat-interface.webp)
 ## Purpose
 
 Show estimated spend **where decisions are made** (prompt, model picker, plan steps). Lift the black box of metered AI usage.

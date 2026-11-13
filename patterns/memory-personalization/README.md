@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · OpenAI create an assistant](../../assets/screenshots/external/saasframe/openai-create-an-assistant.webp)
 ## Purpose
 
 Let users shape **tone / instructions / profile** and control **inferred memory** without feeling surveilled. Separate declared prefs from learned facts; make off-ramps honest (pause vs reset).

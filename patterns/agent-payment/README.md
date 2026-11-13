@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-agent-payment.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom set AI chatbot live](../../assets/screenshots/external/saasframe/intercom-set-ai-chatbot-live.webp)
 ## Purpose
 
 Gate agent spend: **one-charge approval**, standing **spending limits**, named **merchant of record**, scoped **virtual card**, and an **activity log**. Money moves only after an explicit human gate.

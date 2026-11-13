@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Unabyss context chat research](../../assets/screenshots/external/saasframe/unabyss-context-chat.webp)
 ## Purpose
 
 Long-running research streams an **Activity timeline** (searches, reads) with source count, then a completion line + report artifact.

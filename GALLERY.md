@@ -66,15 +66,20 @@ Visual index of `assets/screenshots/kit/`. Every pattern README links at least o
 
 ## External product captures (SaaSFrame AI)
 
-Real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — linked from pattern READMEs as **Source references**. Index: [`assets/screenshots/external/saasframe/README.md`](assets/screenshots/external/saasframe/README.md).
+**50+** real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — AI Chat · Prompt Input · Copilot · Generation State. Full index: [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Linked from **30+** pattern READMEs as **Source references**.
 
 | Preview | File | Kit patterns |
 |---------|------|--------------|
 | ![](assets/screenshots/external/saasframe/front-ai-suggested-reply.webp) | `front-ai-suggested-reply.webp` | `suggested-reply`, `citations` |
 | ![](assets/screenshots/external/saasframe/lightdash-ai-analysis.webp) | `lightdash-ai-analysis.webp` | `dual-speed-layout`, `artifact-pane`, `follow-up` |
 | ![](assets/screenshots/external/saasframe/claude-new-chat.webp) | `claude-new-chat.webp` | `copilot-input`, `suggestions` |
-| ![](assets/screenshots/external/saasframe/dust-chat-interface.webp) | `dust-chat-interface.webp` | `context-chip`, `copilot-input` |
+| ![](assets/screenshots/external/saasframe/claude-chat-feed.webp) | `claude-chat-feed.webp` | `response-versions` |
+| ![](assets/screenshots/external/saasframe/dust-chat-interface.webp) | `dust-chat-interface.webp` | `context-chip`, `rate-limit-meter` |
+| ![](assets/screenshots/external/saasframe/tines-workflow-workspace.webp) | `tines-workflow-workspace.webp` | `workflow-builder` |
+| ![](assets/screenshots/external/saasframe/intercom-setup-ai-chatbot.webp) | `intercom-setup-ai-chatbot.webp` | `human-handoff` |
+| ![](assets/screenshots/external/saasframe/hume-ai-text-to-speech-playground.webp) | `hume-ai-text-to-speech-playground.webp` | `voice-transcript` |
 | ![](assets/screenshots/external/saasframe/profound-loading-screen.webp) | `profound-loading-screen.webp` | `generation-lifecycle` |
+| ![](assets/screenshots/external/saasframe/hugging-face-model-details-and-inference-widget.webp) | `hugging-face-model-details…webp` | `tool-render-states` |
 
 OG cards (AI Design Guide / AI SDK / CopilotKit): [`assets/screenshots/external/`](assets/screenshots/external/).
 

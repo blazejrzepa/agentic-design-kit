@@ -8,6 +8,11 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Claude recent chats list](../../assets/screenshots/external/saasframe/claude-recent-chats.webp)
+![SaaSFrame · Unabyss context chat](../../assets/screenshots/external/saasframe/unabyss-context-chat.webp)
 ## Purpose
 
 Dispatcher for **parallel agent sessions** grouped by status: Needs input · Working · Completed · Failed — human answers whichever is blocked.

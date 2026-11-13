@@ -9,6 +9,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Tines onboarding workflow runbook](../../assets/screenshots/external/saasframe/tines-onboarding-workflow-runbook.webp)
 ## Purpose
 
 Show the agent’s intended steps **before** committing compute or side effects. Two modes:

@@ -9,6 +9,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Claude chat feed](../../assets/screenshots/external/saasframe/claude-chat-feed.webp)
 ## Purpose
 
 Iterate on an answer **without destroying** prior drafts: `N/N` version navigation, Regenerate / Try again, reshape (Longer / Shorter), and selection-scoped fixes via `inline-action`.

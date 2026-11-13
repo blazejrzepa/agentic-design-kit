@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-smart-diff.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Claude recent chats history](../../assets/screenshots/external/saasframe/claude-recent-chats.webp)
 ## Purpose
 
 Named snapshots before destructive agent steps. One-click **Restore here** with a clear label of what state returns. Pairs with reversibility marking on high-blast-radius tools.

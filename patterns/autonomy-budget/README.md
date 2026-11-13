@@ -9,6 +9,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-autonomy-budget.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom AI chatbot overview](../../assets/screenshots/external/saasframe/intercom-ai-chatbot-overview.webp)
 ## Purpose
 
 Bound unattended agent work by **actions, time, and spend**. Surface live meters; stop at cap; escalate to `mandate-approval-card` when a step exceeds the remaining budget or risk tier.

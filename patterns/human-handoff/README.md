@@ -8,6 +8,15 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom AI chatbot setup / escalate](../../assets/screenshots/external/saasframe/intercom-setup-ai-chatbot.webp)
+
+### Source notes (SaaSFrame · Intercom)
+
+- Escalation / go-live is a first-class path when the agent can’t resolve — keep outcome labels honest.
+
 ## Purpose
 
 Escalate from AI to a human (or trusted external app) with **context preserved**: transcript summary, reason, and clear who is speaking after the handoff. Never imply the bot finished what only a human can do.

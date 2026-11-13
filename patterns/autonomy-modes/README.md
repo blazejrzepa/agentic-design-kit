@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom AI chatbot overview](../../assets/screenshots/external/saasframe/intercom-ai-chatbot-overview.webp)
 ## Purpose
 
 Always-visible mode for how much the agent may do: **Plan** (read-only) · **Ask / accept edits** · **Auto** — cycled by shortcut, labeled in the status bar.

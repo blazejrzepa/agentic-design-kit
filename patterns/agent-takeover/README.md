@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Voiceflow work with Atlas](../../assets/screenshots/external/saasframe/voiceflow-work-with-atlas.webp)
 ## Purpose
 
 User watches the agent’s **remote browser/computer** and can **Take control** (login, CAPTCHA, payment), then hand control back.

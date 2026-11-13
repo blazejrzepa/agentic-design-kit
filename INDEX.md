@@ -113,7 +113,7 @@
 | External AI (SDK · CopilotKit · SaaSFrame · AI Design Guide) | Mapped in [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) — **15** new runtime patterns |
 | Collect UI · Landbook · Lapa | Visual ref only (not agent patterns) — Part F in external taxonomy |
 | Kit folders | **118** under `patterns/` (core + runtime + extended catalog) |
-| Screenshots | **54** kit mockups + **20** SaaSFrame product captures in [`GALLERY.md`](GALLERY.md) / `assets/screenshots/external/saasframe/` — wired into 18 pattern READMEs |
+| Screenshots | **54** kit mockups + **52** SaaSFrame AI captures — wired into **45** pattern READMEs ([`GALLERY.md`](GALLERY.md) · `assets/screenshots/external/saasframe/`) |
 | README depth | All patterns include When / Purpose / Snippet (+ Do-Don't) |
 
 Extended IDs: `TAXONOMY-PLAYGROUND.md` · `TAXONOMY-EXTERNAL.md` · matching slug.

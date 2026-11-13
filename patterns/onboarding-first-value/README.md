@@ -11,10 +11,15 @@
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
 
+
+
 ## Source references (external)
 
 ![SaaSFrame · Voiceflow empty / onboarding](../../assets/screenshots/external/saasframe/voiceflow-playbooks-empty-state.webp)
 ![SaaSFrame · Claude new chat first value](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
+![SaaSFrame · Voiceflow Atlas website step](../../assets/screenshots/external/saasframe/voiceflow-atlas-onboarding-website-step.webp)
+![SaaSFrame · Voiceflow Atlas integrations](../../assets/screenshots/external/saasframe/voiceflow-atlas-onboarding-integrations-step.webp)
+![SaaSFrame · EigenPal set up AI agent](../../assets/screenshots/external/saasframe/eigenpal-set-up-a-new-ai-agent.webp)
 ## Purpose
 
 Get a new user from entry → **first successful AI outcome** without a blank canvas or a blocking wizard that hides capability.

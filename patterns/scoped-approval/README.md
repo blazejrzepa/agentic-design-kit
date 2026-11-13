@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom set chatbot live](../../assets/screenshots/external/saasframe/intercom-set-ai-chatbot-live.webp)
 ## Purpose
 
 Approve a **risky action with scope**: Yes once · Yes for this pattern · escalate autonomy · No / amend — never a blanket “always allow everything”.

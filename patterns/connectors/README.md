@@ -11,9 +11,13 @@
 ---
 
 
+
+
 ## Source references (external)
 
 ![SaaSFrame · Lightdash empty chat + GitHub connect](../../assets/screenshots/external/saasframe/lightdash-ai-chat-feed.webp)
+![SaaSFrame · Voiceflow Atlas integrations](../../assets/screenshots/external/saasframe/voiceflow-atlas-onboarding-integrations-step.webp)
+![SaaSFrame · Intercom add chatbot content](../../assets/screenshots/external/saasframe/intercom-add-chatbot-content.webp)
 ## Purpose
 
 Link the agent to external systems of record (Drive, Slack, Jira…). Make **scope, permission, freshness, and read vs write** explicit. Treat retrieved content as **untrusted** (prompt-injection).

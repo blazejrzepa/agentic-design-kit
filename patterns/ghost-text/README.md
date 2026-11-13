@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · OpenAI empty playground](../../assets/screenshots/external/saasframe/openai-empty-playground.webp)
 ## Purpose
 
 Inline **suggested continuation** (ghost) accepted with Tab / word-by-word — distinct color token so it never looks like committed text.

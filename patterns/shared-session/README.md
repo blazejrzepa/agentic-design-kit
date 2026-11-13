@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-shared-session.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Claude recent chats](../../assets/screenshots/external/saasframe/claude-recent-chats.webp)
 ## Purpose
 
 Share an AI session URL with **permission tiers** (view / comment / edit), expiry, and optional live presence. AI threads often contain confidential uploads — make visibility explicit.

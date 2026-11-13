@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Glide AI app builder home](../../assets/screenshots/external/saasframe/glide-ai-app-builder-home.webp)
 ## Purpose
 
 Generate **N parallel attempts** and pick one in a comparison grid — not a chat stack. Control count + diversity (Refine / Explore / Reimagine).

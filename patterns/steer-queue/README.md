@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Tines workflow monitoring loading](../../assets/screenshots/external/saasframe/tines-workflow-monitoring-loading-state.webp)
 ## Purpose
 
 While the agent runs, the composer stays **busy but listening**: Enter queues; ⌘↵ steers now. Queued messages are editable / reorderable / removable.

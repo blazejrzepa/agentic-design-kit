@@ -9,18 +9,15 @@
 ---
 
 
+
+
 ## Source references (external)
 
 ![SaaSFrame · Profound loading / analysis](../../assets/screenshots/external/saasframe/profound-loading-screen.webp)
 ![SaaSFrame · Rankfender topics while generating](../../assets/screenshots/external/saasframe/rankfender-select-topics.webp)
 ![SaaSFrame · Hugging Face inference widget](../../assets/screenshots/external/saasframe/hugging-face-interactive-ai-space.webp)
-
-### Source notes (SaaSFrame AI Generation State)
-
-- Map labels to real ops (accepted / running / partial / complete / failed).
-- Keep task context visible during wait (Rankfender); don’t invent percentages.
-- Separate explanatory illustrations from live progress (Profound).
-
+![SaaSFrame · Rankfender generate brand book](../../assets/screenshots/external/saasframe/rankfender-generate-brand-book.webp)
+![SaaSFrame · Tines monitoring loading](../../assets/screenshots/external/saasframe/tines-workflow-monitoring-loading-state.webp)
 ## Purpose
 
 Name the **real job lifecycle** between submit and usable output: accepted → queued → running → partial → complete / failed / cancelled — without fake progress or theatrical “thinking” copy.

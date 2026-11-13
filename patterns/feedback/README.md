@@ -8,6 +8,10 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-follow-up-feedback.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Intercom review AI chatbot](../../assets/screenshots/external/saasframe/intercom-review-ai-chatbot.webp)
 ## Purpose
 
 Tight thumbs / comment capture on AI answers without breaking density. Route negative feedback into repair (`response-versions`, `clarify-before-act`) instead of a dead-end.

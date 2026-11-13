@@ -8,6 +8,16 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · EigenPal set up new AI agent](../../assets/screenshots/external/saasframe/eigenpal-set-up-a-new-ai-agent.webp)
+![SaaSFrame · Voiceflow Atlas onboarding brief](../../assets/screenshots/external/saasframe/voiceflow-atlas-onboarding-brief-review.webp)
+
+### Source notes
+
+- Agent setup and Atlas-style onboarding briefs are clarify gates before tools run.
+
 ## Purpose
 
 When the agent cannot (or should not) act yet: **state the limit**, ask a **tight questionnaire**, then either draft → approve (`mandate-approval-card`) or **hand off** to a trusted external app — never fake a completed action.

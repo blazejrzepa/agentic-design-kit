@@ -7,6 +7,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Front AI draft labeled Suggested reply](../../assets/screenshots/external/saasframe/front-ai-suggested-reply.webp)
 ## Purpose
 
 Label AI actors and AI-authored/edited content so users never mistake bots for humans or synthetic text for human authorship (Fin “AI” badge, iA Writer opacity affordance).

@@ -8,6 +8,15 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-voice-transcript.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Hume AI TTS playground](../../assets/screenshots/external/saasframe/hume-ai-text-to-speech-playground.webp)
+
+### Source notes
+
+- Voice / TTS playgrounds still need Stop + live transcript; keep modality controls next to the composer.
+
 ## Purpose
 
 Show **listening / processing / speaking** state with a live transcript and a single barge-in control. Confirm destructive voice commands; always offer text fallback.

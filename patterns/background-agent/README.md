@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Tines workflow monitoring](../../assets/screenshots/external/saasframe/tines-workflow-monitoring-loading-state.webp)
 ## Purpose
 
 Fire a task that runs **remotely** while the user multitasks. Session card shows status (e.g. PR ready), worklog, changes, notify-when-done.
