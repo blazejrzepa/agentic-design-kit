@@ -7,6 +7,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-autonomy-budget.jpg)
+
 ## Purpose
 
 Bound unattended agent work by **actions, time, and spend**. Surface live meters; stop at cap; escalate to `mandate-approval-card` when a step exceeds the remaining budget or risk tier.

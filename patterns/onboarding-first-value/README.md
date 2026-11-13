@@ -8,6 +8,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
+
 ## Purpose
 
 Get a new user from entry → **first successful AI outcome** without a blank canvas or a blocking wizard that hides capability.

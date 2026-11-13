@@ -81,12 +81,14 @@ Host apps may restyle via tokens, not by loosening density.
 
 ---
 
-## 6. Host project wiring (example)
+## 6. Host project wiring
+
+See [`CONSUMING.md`](CONSUMING.md) and [`host-templates/AGENTS.snippet.md`](host-templates/AGENTS.snippet.md).
 
 ```text
 Host app (.cursorrules or AGENTS.md)
   → “AI UI: consult Agentic Design Kit INDEX.md first”
-  → path: ../agentic-design-kit or @org/agentic-design-kit
+  → path: vendor/agentic-design-kit or ../agentic-design-kit
 ```
 
 Prefer submodule, monorepo package, or documented absolute path — not copy-paste drift.

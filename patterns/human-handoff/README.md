@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
+
 ## Purpose
 
 Escalate from AI to a human (or trusted external app) with **context preserved**: transcript summary, reason, and clear who is speaking after the handoff. Never imply the bot finished what only a human can do.

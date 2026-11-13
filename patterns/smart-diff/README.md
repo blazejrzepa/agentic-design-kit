@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-diff.jpg)
+
 ## Purpose
 
 Highlight what the model changed vs baseline so reviewers can **Accept / Reject** surgically (docs, code, contracts). Prefer line/block granularity over all-or-nothing overwrite.

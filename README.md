@@ -9,7 +9,9 @@ Built so a coding agent can resolve the right pattern in **one index read + one 
 | File | Role |
 |------|------|
 | [`INDEX.md`](INDEX.md) | Pattern map (always open first) |
-| [`TAXONOMY.md`](TAXONOMY.md) | Full [shapeof.ai](https://www.shapeof.ai/) → kit mapping |
+| [`CONSUMING.md`](CONSUMING.md) | Wire kit into MyOS / host apps |
+| [`TAXONOMY.md`](TAXONOMY.md) | Shape of AI → kit mapping |
+| [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) | 160 Playground slugs → kit |
 | [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) | Agent operating protocol |
 | [`.cursorrules`](.cursorrules) | Visual + implementation law |
 | [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) | Shared design tokens |

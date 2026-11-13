@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-generative-ui.jpg)
+
 ## Purpose
 
 Render **interactive components** (tables, calculators, forms, charts) inside the answer — not only markdown. Prefer promoting rich UIs into `artifact-pane` when users will edit/reuse them.

@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
+
 ## Purpose
 
 Say clearly when the system **cannot answer**, a **tool failed**, or an action is out of scope — then offer a concrete next step (draft instead, hand off, retry, narrow query). Never fake success.

@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-smart-diff.jpg)
+
 ## Purpose
 
 Named snapshots before destructive agent steps. One-click **Restore here** with a clear label of what state returns. Pairs with reversibility marking on high-blast-radius tools.

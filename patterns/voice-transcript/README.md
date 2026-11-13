@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-voice-transcript.jpg)
+
 ## Purpose
 
 Show **listening / processing / speaking** state with a live transcript and a single barge-in control. Confirm destructive voice commands; always offer text fallback.

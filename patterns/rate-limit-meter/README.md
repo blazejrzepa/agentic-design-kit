@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-rate-limit.jpg)
+
 ## Purpose
 
 Warn **before** the wall: remaining requests, reset time, live token/cost/ETA meters during a run. Soft warning + upgrade/queue path beats a post-hoc hard error after lost work.

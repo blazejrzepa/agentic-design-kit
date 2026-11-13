@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-shared-session.jpg)
+
 ## Purpose
 
 Share an AI session URL with **permission tiers** (view / comment / edit), expiry, and optional live presence. AI threads often contain confidential uploads — make visibility explicit.

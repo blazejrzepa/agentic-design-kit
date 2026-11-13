@@ -8,6 +8,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
+
 ## Purpose
 
 3–6 ranked icebreakers that pre-fill or run a prompt. Forms: **static** (onboarding), **contextual** (page/doc), **adaptive** (user/team history).

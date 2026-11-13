@@ -6,6 +6,8 @@
 
 ---
 
+![Kit mockup](../../assets/screenshots/kit/kit-agent-payment.jpg)
+
 ## Purpose
 
 Gate agent spend: **one-charge approval**, standing **spending limits**, named **merchant of record**, scoped **virtual card**, and an **activity log**. Money moves only after an explicit human gate.
