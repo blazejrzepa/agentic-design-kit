@@ -11,6 +11,23 @@
 
 Apply a reference style to content without changing structure (Shape of AI Restyle).
 
+## When to use
+
+Apply a reference style to content without changing structure (Shape of AI Restyle).
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

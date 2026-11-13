@@ -11,6 +11,23 @@
 
 Decompose content into fundamental tokens/suggested prompt structure.
 
+## When to use
+
+User needs structure extracted from messy content.
+
+## When not to use
+
+Already-structured schemas.
+
+## Anatomy
+
+Token/chip decomposition · optional reassemble prompt
+
+## Do / Don't
+
+**Do:** Editable tokens; link back to source spans.  
+**Don't:** Black-box rewrite with no tokens visible.
+
 ## Snippet
 
 ```tsx

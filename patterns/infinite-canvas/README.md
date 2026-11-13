@@ -11,6 +11,23 @@
 
 Pan/zoom workspace for AI artifacts, nodes, and spatial agent work beyond a linear chat.
 
+## When to use
+
+Spatial work across many artifacts.
+
+## When not to use
+
+Short Q&A threads.
+
+## Anatomy
+
+Pan/zoom chrome · nodes · minimap optional
+
+## Do / Don't
+
+**Do:** Keyboard pan; clear selection; link to chat.  
+**Don't:** Lose objects off-canvas with no finder.
+
 ## Snippet
 
 ```tsx

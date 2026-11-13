@@ -11,6 +11,23 @@
 
 Slot-based generative forms that preserve format/accuracy across runs.
 
+## When to use
+
+Format must stay fixed across runs.
+
+## When not to use
+
+Freeform creative chat.
+
+## Anatomy
+
+Sentence with slots · validate · Generate
+
+## Do / Don't
+
+**Do:** Inline slots; preserve skeleton.  
+**Don't:** Break format silently on regenerate.
+
 ## Snippet
 
 ```tsx

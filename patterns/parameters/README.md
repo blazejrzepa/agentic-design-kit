@@ -11,6 +11,23 @@
 
 Expose generation constraints (temperature, length, seed) next to the prompt.
 
+## When to use
+
+Power users need temperature/length/seed control.
+
+## When not to use
+
+Consumer chat where model/effort picker is enough.
+
+## Anatomy
+
+Dense param rows · live cost hint · Reset
+
+## Do / Don't
+
+**Do:** Group advanced behind disclosure; sync with cost-estimates.  
+**Don't:** Expose raw JSON walls as the only UI.
+
 ## Snippet
 
 ```tsx

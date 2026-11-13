@@ -18,6 +18,23 @@ Target a selection (text, block, canvas node) with preset actions — shorten, e
 **Do:** scope word→block; contextual action ranking; preview before overwrite.  
 **Don't:** dump 20 generic actions; silent replace of factual claims.
 
+## When to use
+
+Target a selection (text, block, canvas node) with preset actions — shorten, expand, rewrite, tone, transform — without regenerating the whole document.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

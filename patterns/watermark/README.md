@@ -11,6 +11,23 @@
 
 Human/machine-readable identifiers on AI-generated media at export.
 
+## When to use
+
+Exporting synthetic media that could be mistaken as real.
+
+## When not to use
+
+Internal drafts never leaving the tool.
+
+## Anatomy
+
+Export toggle · visible + metadata mark
+
+## Do / Don't
+
+**Do:** Persist in file metadata; say so in UI.  
+**Don't:** Easy strip without warning.
+
 ## Snippet
 
 ```tsx

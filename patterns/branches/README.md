@@ -11,6 +11,23 @@
 
 Iterative prompting with retained footprints back to the original (Shape of AI Governors).
 
+## When to use
+
+Explore alternate paths without losing the trunk.
+
+## When not to use
+
+Linear FAQ bots.
+
+## Anatomy
+
+Branch chip · tree / list · jump to node
+
+## Do / Don't
+
+**Do:** Keep footprints; label branch intent.  
+**Don't:** Fork silently on every regenerate.
+
 ## Snippet
 
 ```tsx

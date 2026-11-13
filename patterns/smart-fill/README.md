@@ -11,6 +11,23 @@
 
 AI completes form fields from context with per-field accept.
 
+## When to use
+
+Forms can be completed from context.
+
+## When not to use
+
+Empty forms with no context.
+
+## Anatomy
+
+Suggested value · Accept · Edit
+
+## Do / Don't
+
+**Do:** Per-field accept; provenance.  
+**Don't:** Submit without user review on PII fields.
+
 ## Snippet
 
 ```tsx

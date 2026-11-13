@@ -11,6 +11,23 @@
 
 One-tap purchase from AI recommendation with explicit price, seller, and confirmation.
 
+## When to use
+
+AI recommends a purchase with one confirmed tap.
+
+## When not to use
+
+Browse-only discovery.
+
+## Anatomy
+
+Price · seller · Buy · receipt path
+
+## Do / Don't
+
+**Do:** Show merchant of record; confirm once.  
+**Don't:** One-tap buy without price visibility.
+
 ## Snippet
 
 ```tsx

@@ -11,6 +11,23 @@
 
 Low-friction kickstart with randomized prompt/params for playful exploration.
 
+## When to use
+
+Playful exploration; blank-canvas anxiety.
+
+## When not to use
+
+High-stakes / compliance flows.
+
+## Anatomy
+
+Surprise control · fills composer · optional seed
+
+## Do / Don't
+
+**Do:** Keep undo; show what changed.  
+**Don't:** Overwrite a long user draft without confirm.
+
 ## Snippet
 
 ```tsx

@@ -11,6 +11,23 @@
 
 Consent-gated voice clone setup with sample playback and clear disclosure.
 
+## When to use
+
+Product offers custom TTS voices.
+
+## When not to use
+
+Default system voices.
+
+## Anatomy
+
+Consent · sample · enroll · manage/delete
+
+## Do / Don't
+
+**Do:** Explicit consent; easy delete.  
+**Don't:** Clone without clear ownership UI.
+
 ## Snippet
 
 ```tsx

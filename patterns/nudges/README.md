@@ -11,6 +11,23 @@
 
 Lightweight alerts pointing users to AI actions they can take, especially when new.
 
+## When to use
+
+Users under-discover AI; empty or idle surfaces.
+
+## When not to use
+
+Power-user dense sessions mid-flow.
+
+## Anatomy
+
+Tip strip · CTA · dismiss
+
+## Do / Don't
+
+**Do:** One tip at a time; dismissible; tied to a real action.  
+**Don't:** Coach-mark tours that block the canvas.
+
 ## Snippet
 
 ```tsx

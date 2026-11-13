@@ -12,6 +12,23 @@
 
 Share an AI session URL with **permission tiers** (view / comment / edit), expiry, and optional live presence. AI threads often contain confidential uploads — make visibility explicit.
 
+## When to use
+
+Share an AI session URL with **permission tiers** (view / comment / edit), expiry, and optional live presence.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

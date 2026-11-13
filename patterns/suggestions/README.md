@@ -19,6 +19,23 @@
 **Do:** actionable on click; small ranked set; scope to blank/idle moments; confirm if costly.  
 **Don't:** show everywhere; 12+ options; irrelevant first-run spam.
 
+## When to use
+
+3–6 ranked icebreakers that pre-fill or run a prompt.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

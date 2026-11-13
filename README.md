@@ -10,6 +10,8 @@ Built so a coding agent can resolve the right pattern in **one index read + one 
 |------|------|
 | [`INDEX.md`](INDEX.md) | Pattern map (always open first) |
 | [`CONSUMING.md`](CONSUMING.md) | Wire kit into MyOS / host apps |
+| [`GALLERY.md`](GALLERY.md) | All kit screenshot packs |
+| [`COMPOSITIONS.md`](COMPOSITIONS.md) | Ready multi-pattern stacks |
 | [`TAXONOMY.md`](TAXONOMY.md) | Shape of AI → kit mapping |
 | [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) | 160 Playground slugs → kit |
 | [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) | Agent operating protocol |

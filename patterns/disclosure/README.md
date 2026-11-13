@@ -22,6 +22,23 @@ Label AI actors and AI-authored/edited content so users never mistake bots for h
 **Do:** name the actor every time; persist badges across human handoff; allow opt-out of AI.  
 **Don't:** fake human support; generic sparkle without saying what AI did.
 
+## When to use
+
+Label AI actors and AI-authored/edited content so users never mistake bots for humans or synthetic text for human authorship (Fin “AI” badge, iA Writer opacity affordance).
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

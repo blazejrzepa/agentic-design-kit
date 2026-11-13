@@ -11,6 +11,23 @@
 
 Share sample generations, prompts, and parameters to educate and inspire first use.
 
+## When to use
+
+First-run inspiration; show quality bar and prompt shape.
+
+## When not to use
+
+After the user has a clear task.
+
+## Anatomy
+
+Grid of samples · prompt/params peek · Use
+
+## Do / Don't
+
+**Do:** Show prompt + key params on hover; one-click reuse.  
+**Don't:** Orphan eye-candy without reusable prompts.
+
 ## Snippet
 
 ```tsx

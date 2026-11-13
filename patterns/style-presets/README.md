@@ -11,6 +11,23 @@
 
 Preset and saved styles for tone/aesthetic reuse (Shape of AI Tuners).
 
+## When to use
+
+Tone/aesthetic must be reusable.
+
+## When not to use
+
+One-off restyles (use inline-action).
+
+## Anatomy
+
+Preset chips · save current · manage list
+
+## Do / Don't
+
+**Do:** Named presets; scope (session vs account).  
+**Don't:** Invisible style that surprises later turns.
+
 ## Snippet
 
 ```tsx

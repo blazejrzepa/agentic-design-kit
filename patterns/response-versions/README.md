@@ -18,6 +18,23 @@ Iterate on an answer **without destroying** prior drafts: `N/N` version navigati
 **Do:** keep previous versions addressable; label rewrite mode/model; branch on user-message edit.  
 **Don't:** overwrite silently; force full regenerate for a one-paragraph fix.
 
+## When to use
+
+Iterate on an answer **without destroying** prior drafts: `N/N` version navigation, Regenerate / Try again, reshape (Longer / Shorter), and selection-scoped fixes via `inline-action`.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

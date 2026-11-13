@@ -20,6 +20,7 @@ When the user asks to **design, build, or refine** an AI UI element:
 4. **Read** anatomy, states, do/don't, snippet, and linked preview images if doing visual QA.
 5. **Apply** [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) and [`.cursorrules`](.cursorrules).
 6. **Implement** in the host app (MyOS, macOS shell, web). Prefer adapting the snippet over inventing a parallel component.
+7. For multi-surface jobs, check [`COMPOSITIONS.md`](COMPOSITIONS.md) before inventing a new stack.
 
 If the user names a **Shape of AI** pattern: open [`TAXONOMY.md`](TAXONOMY.md) Part A once.  
 If the user names an **AI UX Playground** slug/teardown: open [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) once (or Part B summary in `TAXONOMY.md`), map to kit ID(s), then implement.

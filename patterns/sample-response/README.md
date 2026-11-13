@@ -11,6 +11,23 @@
 
 Confirm intent on complicated prompts via a cheap sample before full generation.
 
+## When to use
+
+Full run is expensive; confirm direction first.
+
+## When not to use
+
+Cheap instant answers.
+
+## Anatomy
+
+Sample block · cost of full · Generate full
+
+## Do / Don't
+
+**Do:** Cheap sample; clear upgrade to full.  
+**Don't:** Charge full price for the sample.
+
 ## Snippet
 
 ```tsx

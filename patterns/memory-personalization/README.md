@@ -25,6 +25,23 @@ Let users shape **tone / instructions / profile** and control **inferred memory*
 **Do:** inspect / delete / prioritize memories; clear consequence copy on off.  
 **Don't:** bury memory with no off-ramp; mix surveillance-feeling fields into first-run without consent.
 
+## When to use
+
+Let users shape **tone / instructions / profile** and control **inferred memory** without feeling surveilled.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

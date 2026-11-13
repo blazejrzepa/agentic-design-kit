@@ -20,6 +20,23 @@ Model · context length · expected output · plan steps · tool loops · draft 
 **Do:** explicit unit (credits / $ / tokens); ranges for unknowns; update live while streaming.  
 **Don't:** bury estimate in settings; show $ only to non-technical users without credit mapping.
 
+## When to use
+
+Show estimated spend **where decisions are made** (prompt, model picker, plan steps).
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

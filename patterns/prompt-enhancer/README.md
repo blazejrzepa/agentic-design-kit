@@ -11,6 +11,23 @@
 
 One-click expand/improve the user prompt before send, with editable preview.
 
+## When to use
+
+Short prompts that need specificity before spend.
+
+## When not to use
+
+Already long system+user stacks.
+
+## Anatomy
+
+Enhance · diff preview · Replace / Insert
+
+## Do / Don't
+
+**Do:** Show before/after; keep original recoverable.  
+**Don't:** Auto-send enhanced prompt.
+
 ## Snippet
 
 ```tsx

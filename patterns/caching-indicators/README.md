@@ -11,6 +11,23 @@
 
 Honest labels when a reply/result came from cache vs fresh inference (speed + cost expectations).
 
+## When to use
+
+Honest labels when a reply/result came from cache vs fresh inference (speed + cost expectations).
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

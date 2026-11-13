@@ -11,6 +11,23 @@
 
 Inform users about model/tech shortcomings or risks inline.
 
+## When to use
+
+Known model/domain limits affect trust.
+
+## When not to use
+
+Every casual message.
+
+## Anatomy
+
+Inline banner · link to details · dismiss optional
+
+## Do / Don't
+
+**Do:** Specific, actionable caveats.  
+**Don't:** Generic legal wallpaper.
+
 ## Snippet
 
 ```tsx

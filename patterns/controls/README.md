@@ -25,6 +25,23 @@ Keep the human in the driver’s seat during generation: **Stop**, **Pause/Resum
 **Do:** fixed Stop position; graceful pause; queue editable.  
 **Don't:** hide Stop during stream; regenerate by overwriting without versioning.
 
+## When to use
+
+Keep the human in the driver’s seat during generation: **Stop**, **Pause/Resume**, **Queue** next tasks without canceling current work (Cursor / Replit pattern).
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

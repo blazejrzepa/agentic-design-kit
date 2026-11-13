@@ -27,6 +27,23 @@ Get a new user from entry → **first successful AI outcome** without a blank ca
 **Do:** show real capability fast; keep Skip on role/pricing; land on composer-as-home for agents.  
 **Don't:** empty dashboard; upsell-only first screen; wizard with no escape.
 
+## When to use
+
+Get a new user from entry → **first successful AI outcome** without a blank canvas or a blocking wizard that hides capability.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

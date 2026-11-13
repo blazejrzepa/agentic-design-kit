@@ -11,6 +11,23 @@
 
 Meaning-based retrieval across catalog/docs with relevance cues and facet refine.
 
+## When to use
+
+Meaning-based retrieval over catalogs/docs.
+
+## When not to use
+
+Exact SKU/ID lookup only.
+
+## Anatomy
+
+Query · ranked hits · score/why · refine
+
+## Do / Don't
+
+**Do:** Show relevance cue; allow facet override.  
+**Don't:** Fake precision scores without grounding.
+
 ## Snippet
 
 ```tsx

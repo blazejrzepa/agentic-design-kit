@@ -85,6 +85,7 @@
 | AI UX Playground | **160/160** in [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) — **0 catalog**; direct + composed |
 | Shape of AI | Wayfinders / tuners / governors / trust / identifiers folded into kit folders |
 | Kit folders | **103** under `patterns/` (core tables above + extended catalog) |
-| Screenshots | **103/103** READMEs link a kit mockup (`assets/screenshots/kit/`, 42 files) |
+| Screenshots | **103/103** READMEs link a kit mockup — see [`GALLERY.md`](GALLERY.md) |
+| README depth | All patterns include When / When not / Anatomy / Do-Don't + snippet |
 
 Extended IDs live as `patterns/<id>/README.md` — look up via `TAXONOMY-PLAYGROUND.md` or matching Playground slug.

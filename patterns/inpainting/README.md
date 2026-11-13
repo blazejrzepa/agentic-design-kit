@@ -11,6 +11,23 @@
 
 Mask a region and regenerate only that area; preview before apply (Shape of AI + Playground).
 
+## When to use
+
+Regional image regenerate without full redo.
+
+## When not to use
+
+Global restyle (use style-transfer).
+
+## Anatomy
+
+Mask · prompt · preview · Apply
+
+## Do / Don't
+
+**Do:** Before/after; undo; mask visible.  
+**Don't:** Invisible mask edits.
+
 ## Snippet
 
 ```tsx

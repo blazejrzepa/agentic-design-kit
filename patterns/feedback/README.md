@@ -12,6 +12,23 @@
 
 Tight thumbs / comment capture on AI answers without breaking density. Route negative feedback into repair (`response-versions`, `clarify-before-act`) instead of a dead-end.
 
+## When to use
+
+You need signal on answer quality without leaving the transcript.
+
+## When not to use
+
+Structured eval / annotation queues (use dedicated review tools).
+
+## Anatomy
+
+Helpful / Not helpful · optional one-line comment · routes to repair
+
+## Do / Don't
+
+**Do:** On downvote, offer Regenerate / Clarify next to the control.  
+**Don't:** Modal surveys after every message.
+
 ## Snippet
 
 ```tsx

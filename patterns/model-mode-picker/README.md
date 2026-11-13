@@ -25,6 +25,23 @@ Let users choose **model tier**, **effort/depth**, and **mode** before send — 
 - Menu that is mostly paywall locks (Perplexity Orchestrator free)  
 - Hiding limits until after send  
 
+## When to use
+
+Let users choose **model tier**, **effort/depth**, and **mode** before send — without forcing raw model IDs as the only language.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

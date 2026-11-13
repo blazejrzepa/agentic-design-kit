@@ -11,6 +11,23 @@
 
 Brand-level AI identity: avatar, color, iconography, name, personality — dense, non-slop.
 
+## When to use
+
+Product needs a recognizable AI actor.
+
+## When not to use
+
+Generic utilities with no persona.
+
+## Anatomy
+
+Avatar · name · color/icon rules
+
+## Do / Don't
+
+**Do:** Consistent identity with disclosure badges.  
+**Don't:** Purple AI-slop chrome or fake-human avatars in support.
+
 ## Snippet
 
 ```tsx

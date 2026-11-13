@@ -11,6 +11,23 @@
 
 Node/step builder for multi-tool agent workflows with inspectable edges and HITL nodes.
 
+## When to use
+
+Multi-step agent pipelines need authoring.
+
+## When not to use
+
+Single-tool chat.
+
+## Anatomy
+
+Nodes · edges · HITL nodes · run
+
+## Do / Don't
+
+**Do:** Inspectable steps; test single node.  
+**Don't:** Hidden branches that fire without preview.
+
 ## Snippet
 
 ```tsx

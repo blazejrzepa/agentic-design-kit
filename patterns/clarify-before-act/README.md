@@ -25,6 +25,23 @@ When the agent cannot (or should not) act yet: **state the limit**, ask a **tigh
 **Do:** smallest set of questions; editable draft; honest “I can’t complete X”.  
 **Don't:** imply booking/payment done; auto-send; one vague “Continue?”.
 
+## When to use
+
+When the agent cannot (or should not) act yet: **state the limit**, ask a **tight questionnaire**, then either draft → approve (`mandate-approval-card`) or **hand off** to a trusted external app — never fake a completed action.
+
+## When not to use
+
+Skip when a denser core kit pattern already covers the job (see Related).
+
+## Anatomy
+
+1) Trigger 2) Dense primary surface 3) Confirm / dismiss
+
+## Do / Don't
+
+**Do:** Keep Linear/Raycast density; keyboard where actions exist; reuse kit tokens.  
+**Don't:** Don't invent parallel chrome; don't hide irreversible effects.
+
 ## Snippet
 
 ```tsx

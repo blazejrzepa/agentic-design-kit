@@ -11,6 +11,23 @@
 
 Ask for missing info when the initial prompt is insufficient (Shape of AI Wayfinder).
 
+## When to use
+
+Initial prompt is underspecified; missing audience, constraints, or required fields.
+
+## When not to use
+
+User already gave a complete brief; or a full clarify-before-act questionnaire is needed for side effects.
+
+## Anatomy
+
+1) One clear question 2) Compact input / chips 3) Continue continues the same turn
+
+## Do / Don't
+
+**Do:** Ask the smallest question that unblocks generation; keep answers editable.  
+**Don't:** Stack five interrogations; restart the thread for one missing slot.
+
 ## Snippet
 
 ```tsx

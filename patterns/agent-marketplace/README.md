@@ -11,6 +11,23 @@
 
 Browse and install third-party agents/skills with capability, cost, and permission previews before enable.
 
+## When to use
+
+Third-party agents/skills are installable.
+
+## When not to use
+
+Single first-party agent.
+
+## Anatomy
+
+Card · caps · permissions · Install
+
+## Do / Don't
+
+**Do:** Show scopes and cost before enable.  
+**Don't:** Install with silent write permissions.
+
 ## Snippet
 
 ```tsx

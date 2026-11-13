@@ -11,6 +11,23 @@
 
 Trace multiple result variations and choose the best (Shape of AI Governors).
 
+## When to use
+
+User must pick among N generations.
+
+## When not to use
+
+Single deterministic tools.
+
+## Anatomy
+
+1…N nav · compare · select winner
+
+## Do / Don't
+
+**Do:** Keep losers addressable briefly; mark selected.  
+**Don't:** Drop non-selected forever with no undo.
+
 ## Snippet
 
 ```tsx
