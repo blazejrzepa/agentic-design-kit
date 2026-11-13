@@ -5,6 +5,32 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/variations)
+
+![variations og.png](../../assets/screenshots/shapeof/variations-og.png)
+
+![variations ex01 gov category.png](../../assets/screenshots/shapeof/variations-ex01-gov-category.png)
+
+![variations ex02 cleanshot 2025 10 12 at 14.35.00 2x.png](../../assets/screenshots/shapeof/variations-ex02-cleanshot-2025-10-12-at-14.35.00-2x.png)
+
+![variations ex03 cleanshot 2024 05 24 at 10.27.55 2x.png](../../assets/screenshots/shapeof/variations-ex03-cleanshot-2024-05-24-at-10.27.55-2x.png)
+
+![variations ex04 file wimi9cs403.png](../../assets/screenshots/shapeof/variations-ex04-file-wimi9cs403.png)
+
+![variations ex05 variants.png](../../assets/screenshots/shapeof/variations-ex05-variants.png)
+
+![variations ex06 cleanshot 2024 02 26 at 22.04.25 2x p 1600.png](../../assets/screenshots/shapeof/variations-ex06-cleanshot-2024-02-26-at-22.04.25-2x-p-1600.png)
+
+![variations ex07 flora.png](../../assets/screenshots/shapeof/variations-ex07-flora.png)
+
+![variations ex08 grammarly.png](../../assets/screenshots/shapeof/variations-ex08-grammarly.png)
+
+![variations card.webp](../../assets/screenshots/shapeof/variations-card.webp)
+
+<!-- shapeof-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-branches-variations.jpg)
 
 ## Purpose

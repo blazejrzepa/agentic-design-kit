@@ -11,6 +11,30 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/stream-of-thought)
+
+![stream of thought og.png](../../assets/screenshots/shapeof/stream-of-thought-og.png)
+
+![stream of thought ex01 gov category.png](../../assets/screenshots/shapeof/stream-of-thought-ex01-gov-category.png)
+
+![stream of thought ex02 chain_of_thought_accio.webp](../../assets/screenshots/shapeof/stream-of-thought-ex02-chain_of_thought_accio.webp)
+
+![stream of thought ex03 chain_of_thought_chatgptinline.webp](../../assets/screenshots/shapeof/stream-of-thought-ex03-chain_of_thought_chatgptinline.webp)
+
+![stream of thought ex04 chain_of_thought_grok.webp](../../assets/screenshots/shapeof/stream-of-thought-ex04-chain_of_thought_grok.webp)
+
+![stream of thought ex05 chain_of_thought_lovable2.webp](../../assets/screenshots/shapeof/stream-of-thought-ex05-chain_of_thought_lovable2.webp)
+
+![stream of thought ex06 chain_of_thought_perplexity.webp](../../assets/screenshots/shapeof/stream-of-thought-ex06-chain_of_thought_perplexity.webp)
+
+![stream of thought ex07 chain_of_thought_vo2.webp](../../assets/screenshots/shapeof/stream-of-thought-ex07-chain_of_thought_vo2.webp)
+
+![stream of thought card.webp](../../assets/screenshots/shapeof/stream-of-thought-card.webp)
+
+<!-- shapeof-captures:end -->
+
+
 
 ## Source references (external)
 

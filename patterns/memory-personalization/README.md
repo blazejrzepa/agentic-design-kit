@@ -8,6 +8,27 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/memory)
+
+![memory og.png](../../assets/screenshots/shapeof/memory-og.png)
+
+![memory ex01 gov category.png](../../assets/screenshots/shapeof/memory-ex01-gov-category.png)
+
+![memory ex02 memory_chatmemory 1.webp](../../assets/screenshots/shapeof/memory-ex02-memory_chatmemory-1.webp)
+
+![memory ex03 memory_inline_memory_gpt.webp](../../assets/screenshots/shapeof/memory-ex03-memory_inline_memory_gpt.webp)
+
+![memory ex04 memory_claudechats 1.webp](../../assets/screenshots/shapeof/memory-ex04-memory_claudechats-1.webp)
+
+![memory ex05 memory_geminimemory.webp](../../assets/screenshots/shapeof/memory-ex05-memory_geminimemory.webp)
+
+![memory ex06 memory_perplexintro.webp](../../assets/screenshots/shapeof/memory-ex06-memory_perplexintro.webp)
+
+![memory card.png](../../assets/screenshots/shapeof/memory-card.png)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

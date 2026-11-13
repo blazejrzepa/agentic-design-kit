@@ -5,6 +5,19 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/randomize)
+
+![randomize og.png](../../assets/screenshots/shapeof/randomize-og.png)
+
+![randomize ex01 krea random.png](../../assets/screenshots/shapeof/randomize-ex01-krea-random.png)
+
+![randomize ex02 random scenario.png](../../assets/screenshots/shapeof/randomize-ex02-random-scenario.png)
+
+![randomize card.webp](../../assets/screenshots/shapeof/randomize-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-wayfinders.jpg)
 
 ## Purpose

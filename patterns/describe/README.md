@@ -5,6 +5,29 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/describe)
+
+![describe og.png](../../assets/screenshots/shapeof/describe-og.png)
+
+![describe ex01 pattern action.webp](../../assets/screenshots/shapeof/describe-ex01-pattern-action.webp)
+
+![describe ex02 frame 121.png](../../assets/screenshots/shapeof/describe-ex02-frame-121.png)
+
+![describe ex03 decompose_openai.webp](../../assets/screenshots/shapeof/describe-ex03-decompose_openai.webp)
+
+![describe ex04 decompose_chatgpt.webp](../../assets/screenshots/shapeof/describe-ex04-decompose_chatgpt.webp)
+
+![describe ex05 decompose_ideogram.webp](../../assets/screenshots/shapeof/describe-ex05-decompose_ideogram.webp)
+
+![describe ex06 decompose_leonardo.webp](../../assets/screenshots/shapeof/describe-ex06-decompose_leonardo.webp)
+
+![describe ex07 decompose_midjourney2.webp](../../assets/screenshots/shapeof/describe-ex07-decompose_midjourney2.webp)
+
+![describe card.webp](../../assets/screenshots/shapeof/describe-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-auth-describe-analytics.jpg)
 
 ## Purpose

@@ -7,6 +7,31 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/cost-estimates)
+
+![cost estimates og.png](../../assets/screenshots/shapeof/cost-estimates-og.png)
+
+![cost estimates ex01 gov category.png](../../assets/screenshots/shapeof/cost-estimates-ex01-gov-category.png)
+
+![cost estimates ex02 cost_transparency_adobefirefly.webp](../../assets/screenshots/shapeof/cost-estimates-ex02-cost_transparency_adobefirefly.webp)
+
+![cost estimates ex03 cost_transparency_console_gallery.webp](../../assets/screenshots/shapeof/cost-estimates-ex03-cost_transparency_console_gallery.webp)
+
+![cost estimates ex04 cost_transparency_elevenlabs.webp](../../assets/screenshots/shapeof/cost-estimates-ex04-cost_transparency_elevenlabs.webp)
+
+![cost estimates ex05 cost_transparency_florafauna.webp](../../assets/screenshots/shapeof/cost-estimates-ex05-cost_transparency_florafauna.webp)
+
+![cost estimates ex06 cost_transparency_klingai.webp](../../assets/screenshots/shapeof/cost-estimates-ex06-cost_transparency_klingai.webp)
+
+![cost estimates ex07 cost_transparency_krea.webp](../../assets/screenshots/shapeof/cost-estimates-ex07-cost_transparency_krea.webp)
+
+![cost estimates ex08 cost_transparency_udio.webp](../../assets/screenshots/shapeof/cost-estimates-ex08-cost_transparency_udio.webp)
+
+![cost estimates card.webp](../../assets/screenshots/shapeof/cost-estimates-card.webp)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

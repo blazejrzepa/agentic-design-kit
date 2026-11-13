@@ -5,6 +5,25 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/gallery)
+
+![gallery og.png](../../assets/screenshots/shapeof/gallery-og.png)
+
+![gallery ex01 gallery_copyai.webp](../../assets/screenshots/shapeof/gallery-ex01-gallery_copyai.webp)
+
+![gallery ex02 gallery_elevenlabs.webp](../../assets/screenshots/shapeof/gallery-ex02-gallery_elevenlabs.webp)
+
+![gallery ex03 gallery_lindy.webp](../../assets/screenshots/shapeof/gallery-ex03-gallery_lindy.webp)
+
+![gallery ex04 gallery_lovable.webp](../../assets/screenshots/shapeof/gallery-ex04-gallery_lovable.webp)
+
+![gallery ex05 gallery_sora.webp](../../assets/screenshots/shapeof/gallery-ex05-gallery_sora.webp)
+
+![gallery card.webp](../../assets/screenshots/shapeof/gallery-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-wayfinders.jpg)
 
 ## Purpose

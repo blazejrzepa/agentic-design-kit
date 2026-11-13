@@ -5,6 +5,26 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/workflow)
+
+![workflow ex01 cofounder.png](../../assets/screenshots/shapeof/workflow-ex01-cofounder.png)
+
+![workflow ex02 copyai.png](../../assets/screenshots/shapeof/workflow-ex02-copyai.png)
+
+![workflow ex03 eachlabs.png](../../assets/screenshots/shapeof/workflow-ex03-eachlabs.png)
+
+![workflow ex04 lindy2.png](../../assets/screenshots/shapeof/workflow-ex04-lindy2.png)
+
+![workflow ex05 relay4.png](../../assets/screenshots/shapeof/workflow-ex05-relay4.png)
+
+![workflow ex06 respell5.png](../../assets/screenshots/shapeof/workflow-ex06-respell5.png)
+
+![workflow card.webp](../../assets/screenshots/shapeof/workflow-card.webp)
+
+<!-- shapeof-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-workflow-builder.jpg)
 
 

@@ -8,6 +8,27 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/suggestions)
+
+![suggestions og.png](../../assets/screenshots/shapeof/suggestions-og.png)
+
+![suggestions ex01 cleanshot 2024 02 28 at 12.47.28 2x.png](../../assets/screenshots/shapeof/suggestions-ex01-cleanshot-2024-02-28-at-12.47.28-2x.png)
+
+![suggestions ex02 cleanshot 2025 09 05 at 08.40.41 2x.png](../../assets/screenshots/shapeof/suggestions-ex02-cleanshot-2025-09-05-at-08.40.41-2x.png)
+
+![suggestions ex03 cleanshot 2025 10 09 at 16.09.30 2x.png](../../assets/screenshots/shapeof/suggestions-ex03-cleanshot-2025-10-09-at-16.09.30-2x.png)
+
+![suggestions ex04 cleanshot 2024 07 01 at 13.14.31 2x.png](../../assets/screenshots/shapeof/suggestions-ex04-cleanshot-2024-07-01-at-13.14.31-2x.png)
+
+![suggestions ex05 suggestions miro.png](../../assets/screenshots/shapeof/suggestions-ex05-suggestions-miro.png)
+
+![suggestions ex06 cleanshot 2024 03 20 at 07.16.02 2x.png](../../assets/screenshots/shapeof/suggestions-ex06-cleanshot-2024-03-20-at-07.16.02-2x.png)
+
+![suggestions card.webp](../../assets/screenshots/shapeof/suggestions-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
 

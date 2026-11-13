@@ -5,6 +5,23 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/templates)
+
+![templates og.png](../../assets/screenshots/shapeof/templates-og.png)
+
+![templates ex01 coda template.jpeg](../../assets/screenshots/shapeof/templates-ex01-coda-template.jpeg)
+
+![templates ex02 62ab3353dc11277708b39deb_jasper repetitive content.png](../../assets/screenshots/shapeof/templates-ex02-62ab3353dc11277708b39deb_jasper-repetitive-content.png)
+
+![templates ex03 writer.png](../../assets/screenshots/shapeof/templates-ex03-writer.png)
+
+![templates ex04 cleanshot 2024 02 28 at 13.09.01 2x.png](../../assets/screenshots/shapeof/templates-ex04-cleanshot-2024-02-28-at-13.09.01-2x.png)
+
+![templates card.webp](../../assets/screenshots/shapeof/templates-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-madlibs-templates.jpg)
 
 ## Purpose

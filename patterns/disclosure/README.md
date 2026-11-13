@@ -7,6 +7,31 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/disclosure)
+
+![disclosure og.png](../../assets/screenshots/shapeof/disclosure-og.png)
+
+![disclosure ex01 trust.jpg](../../assets/screenshots/shapeof/disclosure-ex01-trust.jpg)
+
+![disclosure ex02 identifiers_name_fin.webp](../../assets/screenshots/shapeof/disclosure-ex02-identifiers_name_fin.webp)
+
+![disclosure ex03 cleanshot 2024 02 28 at 15.10.28 2x.png](../../assets/screenshots/shapeof/disclosure-ex03-cleanshot-2024-02-28-at-15.10.28-2x.png)
+
+![disclosure ex04 disclosure_character.webp](../../assets/screenshots/shapeof/disclosure-ex04-disclosure_character.webp)
+
+![disclosure ex05 cleanshot 2024 05 19 at 09.01.00 2x.png](../../assets/screenshots/shapeof/disclosure-ex05-cleanshot-2024-05-19-at-09.01.00-2x.png)
+
+![disclosure ex06 disclosure_productboard_linked.webp](../../assets/screenshots/shapeof/disclosure-ex06-disclosure_productboard_linked.webp)
+
+![disclosure ex07 disclosure_tactiq.webp](../../assets/screenshots/shapeof/disclosure-ex07-disclosure_tactiq.webp)
+
+![disclosure ex08 disclosure_tiktok_ai_policy.webp](../../assets/screenshots/shapeof/disclosure-ex08-disclosure_tiktok_ai_policy.webp)
+
+![disclosure card.png](../../assets/screenshots/shapeof/disclosure-card.png)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

@@ -7,6 +7,31 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/controls)
+
+![controls og.png](../../assets/screenshots/shapeof/controls-og.png)
+
+![controls ex01 gov category.png](../../assets/screenshots/shapeof/controls-ex01-gov-category.png)
+
+![controls ex02 controls_bolt.webp](../../assets/screenshots/shapeof/controls-ex02-controls_bolt.webp)
+
+![controls ex03 controls_chatgpt_running.webp](../../assets/screenshots/shapeof/controls-ex03-controls_chatgpt_running.webp)
+
+![controls ex04 controls_claude.webp](../../assets/screenshots/shapeof/controls-ex04-controls_claude.webp)
+
+![controls ex05 controls_julius.webp](../../assets/screenshots/shapeof/controls-ex05-controls_julius.webp)
+
+![controls ex06 controls_perplexity.webp](../../assets/screenshots/shapeof/controls-ex06-controls_perplexity.webp)
+
+![controls ex07 controls_cleanshot_2025 09 20_at_11_32_02_2x_copy.webp](../../assets/screenshots/shapeof/controls-ex07-controls_cleanshot_2025-09-20_at_11_32_02_2x_copy.webp)
+
+![controls ex08 controls_replit_queue_2.webp](../../assets/screenshots/shapeof/controls-ex08-controls_replit_queue_2.webp)
+
+![controls card.webp](../../assets/screenshots/shapeof/controls-card.webp)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

@@ -9,6 +9,31 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/inline-action)
+
+![inline action og.png](../../assets/screenshots/shapeof/inline-action-og.png)
+
+![inline action ex01 pattern action.webp](../../assets/screenshots/shapeof/inline-action-ex01-pattern-action.webp)
+
+![inline action ex02 inputs_inline_action_jira.avif](../../assets/screenshots/shapeof/inline-action-ex02-inputs_inline_action_jira.avif)
+
+![inline action ex03 inputs_inline_action_figmamake.avif](../../assets/screenshots/shapeof/inline-action-ex03-inputs_inline_action_figmamake.avif)
+
+![inline action ex04 inputs_inline_action_github.avif](../../assets/screenshots/shapeof/inline-action-ex04-inputs_inline_action_github.avif)
+
+![inline action ex05 isaac.webp](../../assets/screenshots/shapeof/inline-action-ex05-isaac.webp)
+
+![inline action ex06 inputs_inline_action_lovable.avif](../../assets/screenshots/shapeof/inline-action-ex06-inputs_inline_action_lovable.avif)
+
+![inline action ex07 inputs_inline_action_sourcetable.avif](../../assets/screenshots/shapeof/inline-action-ex07-inputs_inline_action_sourcetable.avif)
+
+![inline action ex08 inputs_inline_action_wordo.avif](../../assets/screenshots/shapeof/inline-action-ex08-inputs_inline_action_wordo.avif)
+
+![inline action card.webp](../../assets/screenshots/shapeof/inline-action-card.webp)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

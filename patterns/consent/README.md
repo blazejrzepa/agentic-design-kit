@@ -5,6 +5,29 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/consent)
+
+![consent og.png](../../assets/screenshots/shapeof/consent-og.png)
+
+![consent ex01 trust.jpg](../../assets/screenshots/shapeof/consent-ex01-trust.jpg)
+
+![consent ex02 cleanshot 2025 09 01 at 13.33.36 2x.png](../../assets/screenshots/shapeof/consent-ex02-cleanshot-2025-09-01-at-13.33.36-2x.png)
+
+![consent ex03 fireflies.webp](../../assets/screenshots/shapeof/consent-ex03-fireflies.webp)
+
+![consent ex04 gong.webp](../../assets/screenshots/shapeof/consent-ex04-gong.webp)
+
+![consent ex05 cleanshot 2025 08 31 at 13.56.56 2x.png](../../assets/screenshots/shapeof/consent-ex05-cleanshot-2025-08-31-at-13.56.56-2x.png)
+
+![consent ex06 limitless.webp](../../assets/screenshots/shapeof/consent-ex06-limitless.webp)
+
+![consent ex07 notion consent.png](../../assets/screenshots/shapeof/consent-ex07-notion-consent.png)
+
+![consent card.webp](../../assets/screenshots/shapeof/consent-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
 
 ## Purpose

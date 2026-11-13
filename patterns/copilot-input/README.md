@@ -11,6 +11,25 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/open-input)
+
+![open input og.png](../../assets/screenshots/shapeof/open-input-og.png)
+
+![open input ex01 pattern action.webp](../../assets/screenshots/shapeof/open-input-ex01-pattern-action.webp)
+
+![open input ex02 inputs_open_input_julius.avif](../../assets/screenshots/shapeof/open-input-ex02-inputs_open_input_julius.avif)
+
+![open input ex03 inputs_open_input_lovable.avif](../../assets/screenshots/shapeof/open-input-ex03-inputs_open_input_lovable.avif)
+
+![open input ex04 inputs_open_input_personal.avif](../../assets/screenshots/shapeof/open-input-ex04-inputs_open_input_personal.avif)
+
+![open input card.webp](../../assets/screenshots/shapeof/open-input-card.webp)
+
+<!-- shapeof-captures:end -->
+
+
+
 
 
 

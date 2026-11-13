@@ -9,6 +9,25 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/action-plan)
+
+![action plan og.png](../../assets/screenshots/shapeof/action-plan-og.png)
+
+![action plan ex01 gov category.png](../../assets/screenshots/shapeof/action-plan-ex01-gov-category.png)
+
+![action plan ex02 governors_plan_of_action_cursor.webp](../../assets/screenshots/shapeof/action-plan-ex02-governors_plan_of_action_cursor.webp)
+
+![action plan ex03 governors_plan_of_action_gamma.webp](../../assets/screenshots/shapeof/action-plan-ex03-governors_plan_of_action_gamma.webp)
+
+![action plan ex04 governors_plan_of_action_replit.webp](../../assets/screenshots/shapeof/action-plan-ex04-governors_plan_of_action_replit.webp)
+
+![action plan ex05 governors_plan_of_action_zapier.webp](../../assets/screenshots/shapeof/action-plan-ex05-governors_plan_of_action_zapier.webp)
+
+![action plan card.webp](../../assets/screenshots/shapeof/action-plan-card.webp)
+
+<!-- shapeof-captures:end -->
+
 
 ## Source references (external)
 

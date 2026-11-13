@@ -5,6 +5,25 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/preset-styles)
+
+![preset styles og.png](../../assets/screenshots/shapeof/preset-styles-og.png)
+
+![preset styles ex01 tuner bg.webp](../../assets/screenshots/shapeof/preset-styles-ex01-tuner-bg.webp)
+
+![preset styles ex02 cleanshot 2024 07 02 at 12.25.34 2x p 1600.png](../../assets/screenshots/shapeof/preset-styles-ex02-cleanshot-2024-07-02-at-12.25.34-2x-p-1600.png)
+
+![preset styles ex03 eleven style gallery.png](../../assets/screenshots/shapeof/preset-styles-ex03-eleven-style-gallery.png)
+
+![preset styles ex04 style gallery gamma.png](../../assets/screenshots/shapeof/preset-styles-ex04-style-gallery-gamma.png)
+
+![preset styles ex05 styleg allery udio2.png](../../assets/screenshots/shapeof/preset-styles-ex05-styleg-allery-udio2.png)
+
+![preset styles card.webp](../../assets/screenshots/shapeof/preset-styles-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-parameters-style.jpg)
 
 ## Purpose

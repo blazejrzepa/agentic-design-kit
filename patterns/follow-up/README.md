@@ -5,6 +5,15 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/follow-up)
+
+![follow up og.png](../../assets/screenshots/shapeof/follow-up-og.png)
+
+![follow up card.webp](../../assets/screenshots/shapeof/follow-up-card.webp)
+
+<!-- shapeof-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-follow-up-feedback.jpg)
 
 

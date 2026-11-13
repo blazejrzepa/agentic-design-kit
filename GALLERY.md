@@ -64,6 +64,42 @@ Visual index of `assets/screenshots/kit/`. Every pattern README links at least o
 | ![](assets/screenshots/kit/kit-best-of-n.jpg) | `kit-best-of-n.jpg` | `best-of-n` |
 | ![](assets/screenshots/kit/kit-project-instructions.jpg) | `kit-project-instructions.jpg` | `project-instructions` |
 
+
+## Shape of AI — full page captures
+
+**~835** files from **60** pattern pages (sitemap crawl of [shapeof.ai/patterns/*](https://www.shapeof.ai/)).  
+Index: [`assets/screenshots/shapeof/MANIFEST.md`](assets/screenshots/shapeof/MANIFEST.md) · JSON: `manifest.json`.
+
+Examples already linked in pattern READMEs via `<!-- shapeof-captures -->` blocks (OG + up to 8 examples each).
+
+| Slug | Files on disk (approx) |
+|------|------------------------|
+| `regenerate` | 15 |
+| `voice-and-tone` | 14 |
+| `modes` | 14 |
+| `citations` | 13 |
+| `verification` | 13 |
+| `draft-mode` | 12 |
+| `references` | 12 |
+| `disclosure` | 12 |
+| `data-ownership` | 12 |
+| `color` | 12 |
+| `name` | 12 |
+| `iconography` | 12 |
+| `prompt-enhancer` | 12 |
+| `attachments` | 11 |
+| `shared-vision` | 11 |
+| `restructure` | 11 |
+| `variations` | 11 |
+| `change-form` | 11 |
+| `madlibs` | 11 |
+| `cta` | 11 |
+| `parameters` | 10 |
+| `cost-estimates` | 10 |
+| `connectors` | 10 |
+| `personality` | 10 |
+| `inline-action` | 10 |
+
 ## External product captures (SaaSFrame AI)
 
 **50+** real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — AI Chat · Prompt Input · Copilot · Generation State. Full index: [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Linked from **30+** pattern READMEs as **Source references**.

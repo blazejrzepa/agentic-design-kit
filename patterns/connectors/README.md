@@ -10,6 +10,31 @@
 
 ---
 
+<!-- shapeof-captures:start -->
+**Shape of AI captures** · [source](https://www.shapeof.ai/patterns/connectors)
+
+![connectors og.png](../../assets/screenshots/shapeof/connectors-og.png)
+
+![connectors ex01 tuner bg.webp](../../assets/screenshots/shapeof/connectors-ex01-tuner-bg.webp)
+
+![connectors ex02 connectors_chatgpt.webp](../../assets/screenshots/shapeof/connectors-ex02-connectors_chatgpt.webp)
+
+![connectors ex03 connectors_chatgpt_dev.webp](../../assets/screenshots/shapeof/connectors-ex03-connectors_chatgpt_dev.webp)
+
+![connectors ex04 connectors_claude_connectors_panel.webp](../../assets/screenshots/shapeof/connectors-ex04-connectors_claude_connectors_panel.webp)
+
+![connectors ex05 connectors_cofounder.webp](../../assets/screenshots/shapeof/connectors-ex05-connectors_cofounder.webp)
+
+![connectors ex06 connectors_intercom2.webp](../../assets/screenshots/shapeof/connectors-ex06-connectors_intercom2.webp)
+
+![connectors ex07 connectors_perplexty.webp](../../assets/screenshots/shapeof/connectors-ex07-connectors_perplexty.webp)
+
+![connectors ex08 connectors_poke.webp](../../assets/screenshots/shapeof/connectors-ex08-connectors_poke.webp)
+
+![connectors card.webp](../../assets/screenshots/shapeof/connectors-card.webp)
+
+<!-- shapeof-captures:end -->
+
 
 
 
