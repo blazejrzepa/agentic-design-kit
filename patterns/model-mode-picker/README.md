@@ -33,6 +33,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![compare__design-the-composer__perplexity__model-selection__model-picker.webp](../../assets/screenshots/playground/compare__design-the-composer__perplexity__model-selection__model-picker.webp)
+
+![compare__model-mode-selection__perplexity__model-selection__model-picker.webp](../../assets/screenshots/playground/compare__model-mode-selection__perplexity__model-selection__model-picker.webp)
+
+![compare__model-mode-selection__grok__model-selection__model-picker.webp](../../assets/screenshots/playground/compare__model-mode-selection__grok__model-selection__model-picker.webp)
+
+![grok__composer__grok__model-selection__model-picker.webp](../../assets/screenshots/playground/grok__composer__grok__model-selection__model-picker.webp)
+
+![perplexity__composer__perplexity__model-selection__model-picker.webp](../../assets/screenshots/playground/perplexity__composer__perplexity__model-selection__model-picker.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__calm-default.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__calm-default.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__tools-modes.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__tools-modes.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__attachments.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__attachments.webp)
+
+<!-- playground-captures:end -->
+
+
 
 
 ## Source references (external)

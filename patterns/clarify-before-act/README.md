@@ -8,6 +8,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__human-loop__chatgpt__human-loop__scope-clarification.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__scope-clarification.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__handoff-to-user.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__handoff-to-user.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-clarification.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-clarification.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-draft-card.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-draft-card.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-export-handoff.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-export-handoff.webp)
+
+![gemini__human-loop__gemini__human-loop__clarifying-questions.webp](../../assets/screenshots/playground/gemini__human-loop__gemini__human-loop__clarifying-questions.webp)
+
+![gemini__human-loop__gemini__human-loop__approval-card.webp](../../assets/screenshots/playground/gemini__human-loop__gemini__human-loop__approval-card.webp)
+
+![gemini__human-loop__gemini__human-loop__send-gate.webp](../../assets/screenshots/playground/gemini__human-loop__gemini__human-loop__send-gate.webp)
+
+<!-- playground-captures:end -->
+
 
 ## Source references (external)
 

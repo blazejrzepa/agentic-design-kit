@@ -9,6 +9,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__output__chatgpt__output__in-thread-replies.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__in-thread-replies.webp)
+
+![chatgpt__output__chatgpt__output__reasoning-activity.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__reasoning-activity.webp)
+
+![chatgpt__output__chatgpt__output__response-versions.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__response-versions.webp)
+
+![chatgpt__output__chatgpt__output__positive-feedback.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__positive-feedback.webp)
+
+![chatgpt__output__chatgpt__output__negative-feedback.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__negative-feedback.webp)
+
+![chatgpt__output__chatgpt__output__share-message.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__share-message.webp)
+
+![chatgpt__output__chatgpt__output__overflow-actions.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__overflow-actions.webp)
+
+![chatgpt__output__chatgpt__output__selection-refinement.webp](../../assets/screenshots/playground/chatgpt__output__chatgpt__output__selection-refinement.webp)
+
+<!-- playground-captures:end -->
+
 
 ## Source references (external)
 

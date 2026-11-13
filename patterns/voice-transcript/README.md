@@ -6,6 +6,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![ai-meeting-notes__granola__meeting-notes__notepad-first.png](../../assets/screenshots/playground/ai-meeting-notes__granola__meeting-notes__notepad-first.png)
+
+![ai-meeting-notes__granola__meeting-notes__no-bot-pill.webp](../../assets/screenshots/playground/ai-meeting-notes__granola__meeting-notes__no-bot-pill.webp)
+
+![ai-meeting-notes__granola__meeting-notes__what-it-is.png](../../assets/screenshots/playground/ai-meeting-notes__granola__meeting-notes__what-it-is.png)
+
+![granola__meeting-notes__granola__meeting-notes__what-it-is.png](../../assets/screenshots/playground/granola__meeting-notes__granola__meeting-notes__what-it-is.png)
+
+![granola__meeting-notes__granola__meeting-notes__android-notes.png](../../assets/screenshots/playground/granola__meeting-notes__granola__meeting-notes__android-notes.png)
+
+![granola__meeting-notes__granola__meeting-notes__no-bot-pill.webp](../../assets/screenshots/playground/granola__meeting-notes__granola__meeting-notes__no-bot-pill.webp)
+
+![granola__meeting-notes__granola__meeting-notes__no-bot-humans.webp](../../assets/screenshots/playground/granola__meeting-notes__granola__meeting-notes__no-bot-humans.webp)
+
+![granola__meeting-notes__granola__meeting-notes__notepad-first.png](../../assets/screenshots/playground/granola__meeting-notes__granola__meeting-notes__notepad-first.png)
+
+<!-- playground-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-voice-transcript.jpg)
 
 

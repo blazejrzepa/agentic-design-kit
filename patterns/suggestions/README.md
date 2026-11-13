@@ -29,6 +29,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![ai-onboarding-first-value__notion__prompt-starter__1.webp](../../assets/screenshots/playground/ai-onboarding-first-value__notion__prompt-starter__1.webp)
+
+![ai-onboarding-first-value__notion__prompt-starter__2.webp](../../assets/screenshots/playground/ai-onboarding-first-value__notion__prompt-starter__2.webp)
+
+![compare__ai-onboarding-first-value__notion__prompt-starter__1.webp](../../assets/screenshots/playground/compare__ai-onboarding-first-value__notion__prompt-starter__1.webp)
+
+![compare__ai-onboarding-first-value__notion__prompt-starter__2.webp](../../assets/screenshots/playground/compare__ai-onboarding-first-value__notion__prompt-starter__2.webp)
+
+![notion__onboarding__notion__prompt-starter__1.webp](../../assets/screenshots/playground/notion__onboarding__notion__prompt-starter__1.webp)
+
+![notion__onboarding__notion__prompt-starter__2.webp](../../assets/screenshots/playground/notion__onboarding__notion__prompt-starter__2.webp)
+
+![lovable__onboarding__lovable__onboarding__theme-picker.webp](../../assets/screenshots/playground/lovable__onboarding__lovable__onboarding__theme-picker.webp)
+
+![lovable__onboarding__lovable__onboarding__name-step.webp](../../assets/screenshots/playground/lovable__onboarding__lovable__onboarding__name-step.webp)
+
+<!-- playground-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
 

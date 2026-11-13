@@ -1,0 +1,2852 @@
+{
+  "ai-meeting-notes": {
+    "url": "https://aiuxplayground.com/teardowns/ai-meeting-notes",
+    "files": [
+      {
+        "file": "ai-meeting-notes__granola__meeting-notes__notepad-first.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/notepad-first.png",
+        "bytes": 755664
+      },
+      {
+        "file": "ai-meeting-notes__granola__meeting-notes__no-bot-pill.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/no-bot-pill.webp",
+        "bytes": 53428
+      },
+      {
+        "file": "ai-meeting-notes__granola__meeting-notes__what-it-is.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/what-it-is.png",
+        "bytes": 120827
+      },
+      {
+        "file": "ai-meeting-notes__granola__logo.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/logo.png",
+        "bytes": 16886
+      }
+    ]
+  },
+  "ai-onboarding-first-value": {
+    "url": "https://aiuxplayground.com/teardowns/ai-onboarding-first-value",
+    "files": [
+      {
+        "file": "ai-onboarding-first-value__manus__onboarding__first-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/first-home.webp",
+        "bytes": 55650
+      },
+      {
+        "file": "ai-onboarding-first-value__manus__onboarding__pricing-upsell.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/pricing-upsell.webp",
+        "bytes": 132050
+      },
+      {
+        "file": "ai-onboarding-first-value__manus__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/role-picker.webp",
+        "bytes": 77386
+      },
+      {
+        "file": "ai-onboarding-first-value__lovable__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/role-picker.webp",
+        "bytes": 42206
+      },
+      {
+        "file": "ai-onboarding-first-value__lovable__onboarding__name-step.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/name-step.webp",
+        "bytes": 34200
+      },
+      {
+        "file": "ai-onboarding-first-value__lovable__onboarding__theme-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/theme-picker.webp",
+        "bytes": 33380
+      },
+      {
+        "file": "ai-onboarding-first-value__notion__prompt-starter__1.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/1.webp",
+        "bytes": 41876
+      },
+      {
+        "file": "ai-onboarding-first-value__notion__prompt-starter__2.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/2.webp",
+        "bytes": 49462
+      }
+    ]
+  },
+  "alexa-for-shopping/shopping": {
+    "url": "https://aiuxplayground.com/teardowns/alexa-for-shopping/shopping",
+    "files": [
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__logo.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/logo.png",
+        "bytes": 62370
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__welcome.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/welcome.webp",
+        "bytes": 42050
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__asin-cards.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/asin-cards.webp",
+        "bytes": 67344
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__added-to-cart.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/added-to-cart.webp",
+        "bytes": 62760
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-history.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/price-history.webp",
+        "bytes": 67302
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-alert-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/price-alert-chips.webp",
+        "bytes": 45070
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__alert-confirmed.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/alert-confirmed.webp",
+        "bytes": 52942
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__enable-auto-buy.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/enable-auto-buy.webp",
+        "bytes": 68400
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__auto-buy-confirmed.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/auto-buy-confirmed.webp",
+        "bytes": 60390
+      },
+      {
+        "file": "alexa-for-shopping__shopping__alexa-for-shopping__shopping__manage-alerts.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/manage-alerts.webp",
+        "bytes": 85304
+      }
+    ]
+  },
+  "chatgpt/citations": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/citations",
+    "files": [
+      {
+        "file": "chatgpt__citations__chatgpt__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/inline-citation-chips.webp",
+        "bytes": 128366
+      },
+      {
+        "file": "chatgpt__citations__chatgpt__citations__citation-popover.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/citation-popover.webp",
+        "bytes": 136278
+      },
+      {
+        "file": "chatgpt__citations__chatgpt__citations__multi-source-nav.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/multi-source-nav.webp",
+        "bytes": 135248
+      },
+      {
+        "file": "chatgpt__citations__chatgpt__citations__sources-sidebar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/sources-sidebar.webp",
+        "bytes": 232084
+      }
+    ]
+  },
+  "chatgpt/composer": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/composer",
+    "files": [
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/calm-default.webp",
+        "bytes": 27052
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__tools-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/tools-modes.webp",
+        "bytes": 38748
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/attachments.webp",
+        "bytes": 33946
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__deep-research.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/deep-research.webp",
+        "bytes": 62730
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__think-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/think-mode.webp",
+        "bytes": 22968
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__web-search.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/web-search.webp",
+        "bytes": 30110
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__image-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/image-mode.webp",
+        "bytes": 121938
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__tool-switching__image-aspect-ratio.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/image-aspect-ratio.webp",
+        "bytes": 113976
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__dictation__voice-input.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/dictation/voice-input.webp",
+        "bytes": 28636
+      },
+      {
+        "file": "chatgpt__composer__chatgpt__dictation__voice-session.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/dictation/voice-session.webp",
+        "bytes": 24638
+      }
+    ]
+  },
+  "chatgpt/human-loop": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/human-loop",
+    "files": [
+      {
+        "file": "chatgpt__human-loop__chatgpt__human-loop__scope-clarification.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/scope-clarification.webp",
+        "bytes": 92270
+      },
+      {
+        "file": "chatgpt__human-loop__chatgpt__human-loop__handoff-to-user.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/handoff-to-user.webp",
+        "bytes": 282584
+      },
+      {
+        "file": "chatgpt__human-loop__chatgpt__human-loop__email-clarification.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-clarification.webp",
+        "bytes": 62718
+      },
+      {
+        "file": "chatgpt__human-loop__chatgpt__human-loop__email-draft-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-draft-card.webp",
+        "bytes": 82216
+      },
+      {
+        "file": "chatgpt__human-loop__chatgpt__human-loop__email-export-handoff.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-export-handoff.webp",
+        "bytes": 87534
+      }
+    ]
+  },
+  "chatgpt/intelligent-ui": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/intelligent-ui",
+    "files": [
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__parts-list.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/parts-list.webp",
+        "bytes": 125926
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__sourced-photo.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/sourced-photo.webp",
+        "bytes": 134120
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__flow-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/flow-card.webp",
+        "bytes": 39292
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__gear-table.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/gear-table.webp",
+        "bytes": 78840
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__bill-splitter.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/bill-splitter.webp",
+        "bytes": 108388
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__clarifying-form.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/clarifying-form.webp",
+        "bytes": 267308
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__checklist-state.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/checklist-state.webp",
+        "bytes": 76824
+      },
+      {
+        "file": "chatgpt__intelligent-ui__chatgpt__intelligent-ui__layout-controls.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/layout-controls.webp",
+        "bytes": 76126
+      }
+    ]
+  },
+  "chatgpt/output": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/output",
+    "files": [
+      {
+        "file": "chatgpt__output__chatgpt__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/in-thread-replies.webp",
+        "bytes": 105430
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__reasoning-activity.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/reasoning-activity.webp",
+        "bytes": 169582
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/response-versions.webp",
+        "bytes": 112026
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__positive-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/positive-feedback.webp",
+        "bytes": 113484
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__negative-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/negative-feedback.webp",
+        "bytes": 45608
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__share-message.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/share-message.webp",
+        "bytes": 46390
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__overflow-actions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/overflow-actions.webp",
+        "bytes": 107832
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__selection-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/selection-refinement.webp",
+        "bytes": 110318
+      },
+      {
+        "file": "chatgpt__output__chatgpt__output__writing-blocks.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/writing-blocks.webp",
+        "bytes": 73636
+      }
+    ]
+  },
+  "chatgpt/personalization": {
+    "url": "https://aiuxplayground.com/teardowns/chatgpt/personalization",
+    "files": [
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__personalization-hub.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/personalization-hub.webp",
+        "bytes": 63872
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__style-tone-presets.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/style-tone-presets.webp",
+        "bytes": 74450
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__instant-save-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/instant-save-feedback.webp",
+        "bytes": 69556
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__characteristic-tuning.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/characteristic-tuning.webp",
+        "bytes": 66924
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__about-you-profile.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/about-you-profile.webp",
+        "bytes": 67722
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__memory-and-advanced.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/memory-and-advanced.webp",
+        "bytes": 77370
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__saved-memories-list.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/saved-memories-list.webp",
+        "bytes": 70938
+      },
+      {
+        "file": "chatgpt__personalization__chatgpt__personalization__memory-version-history.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/memory-version-history.webp",
+        "bytes": 77546
+      }
+    ]
+  },
+  "claude/artifacts": {
+    "url": "https://aiuxplayground.com/teardowns/claude/artifacts",
+    "files": [
+      {
+        "file": "claude__artifacts__claude__artifacts__artifact-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/artifact-card.webp",
+        "bytes": 92586
+      },
+      {
+        "file": "claude__artifacts__claude__artifacts__split-pane.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/split-pane.webp",
+        "bytes": 106530
+      },
+      {
+        "file": "claude__artifacts__claude__artifacts__code-view.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/code-view.webp",
+        "bytes": 185556
+      },
+      {
+        "file": "claude__artifacts__claude__artifacts__interactive-artifacts.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/interactive-artifacts.webp",
+        "bytes": 55418
+      },
+      {
+        "file": "claude__artifacts__claude__artifacts__publish-artifact.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/publish-artifact.webp",
+        "bytes": 69180
+      }
+    ]
+  },
+  "claude/composer": {
+    "url": "https://aiuxplayground.com/teardowns/claude/composer",
+    "files": [
+      {
+        "file": "claude__composer__claude__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/calm-default.webp",
+        "bytes": 31506
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/plus-menu.webp",
+        "bytes": 45148
+      },
+      {
+        "file": "claude__composer__claude__context-chips__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/context-chips/attachments.webp",
+        "bytes": 41146
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__skills-submenu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/skills-submenu.webp",
+        "bytes": 48426
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/model-picker.webp",
+        "bytes": 46588
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__effort-controls.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/effort-controls.webp",
+        "bytes": 60820
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__more-models.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/more-models.webp",
+        "bytes": 53792
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__voice-dictation.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/voice-dictation.webp",
+        "bytes": 32430
+      },
+      {
+        "file": "claude__composer__claude__tool-switching__voice-listening.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/voice-listening.webp",
+        "bytes": 17916
+      }
+    ]
+  },
+  "claude/output": {
+    "url": "https://aiuxplayground.com/teardowns/claude/output",
+    "files": [
+      {
+        "file": "claude__output__claude__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/in-thread-replies.webp",
+        "bytes": 151220
+      },
+      {
+        "file": "claude__output__claude__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/response-versions.webp",
+        "bytes": 143232
+      },
+      {
+        "file": "claude__output__claude__output__positive-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/positive-feedback.webp",
+        "bytes": 40876
+      },
+      {
+        "file": "claude__output__claude__output__negative-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/negative-feedback.webp",
+        "bytes": 45096
+      },
+      {
+        "file": "claude__output__claude__output__quote-selection.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/quote-selection.webp",
+        "bytes": 99052
+      },
+      {
+        "file": "claude__output__claude__output__quote-to-reply.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/quote-to-reply.webp",
+        "bytes": 82766
+      }
+    ]
+  },
+  "claude/personalization": {
+    "url": "https://aiuxplayground.com/teardowns/claude/personalization",
+    "files": [
+      {
+        "file": "claude__personalization__claude__personalization__profile-instructions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/profile-instructions.webp",
+        "bytes": 53360
+      },
+      {
+        "file": "claude__personalization__claude__personalization__work-role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/work-role-picker.webp",
+        "bytes": 62838
+      },
+      {
+        "file": "claude__personalization__claude__personalization__memory-capabilities.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-capabilities.webp",
+        "bytes": 94310
+      },
+      {
+        "file": "claude__personalization__claude__personalization__memory-import.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-import.webp",
+        "bytes": 52278
+      },
+      {
+        "file": "claude__personalization__claude__personalization__memory-empty-state.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-empty-state.webp",
+        "bytes": 96198
+      },
+      {
+        "file": "claude__personalization__claude__personalization__memory-off-ramp.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-off-ramp.webp",
+        "bytes": 40294
+      },
+      {
+        "file": "claude__personalization__claude__personalization__voice-style-presets.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/voice-style-presets.webp",
+        "bytes": 59984
+      }
+    ]
+  },
+  "commerce-shopping": {
+    "url": "https://aiuxplayground.com/teardowns/commerce-shopping",
+    "files": [
+      {
+        "file": "commerce-shopping__alexa-for-shopping__shopping__added-to-cart.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/added-to-cart.webp",
+        "bytes": 62760
+      },
+      {
+        "file": "commerce-shopping__alexa-for-shopping__shopping__asin-cards.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/asin-cards.webp",
+        "bytes": 67344
+      },
+      {
+        "file": "commerce-shopping__alexa-for-shopping__shopping__welcome.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/shopping/welcome.webp",
+        "bytes": 42050
+      },
+      {
+        "file": "commerce-shopping__alexa-for-shopping__logo.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/alexa-for-shopping/logo.png",
+        "bytes": 62370
+      },
+      {
+        "file": "commerce-shopping__perplexity__shopping__3.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/3.webp",
+        "bytes": 102680
+      },
+      {
+        "file": "commerce-shopping__perplexity__shopping__2.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/2.webp",
+        "bytes": 62720
+      },
+      {
+        "file": "commerce-shopping__perplexity__shopping__1.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/1.webp",
+        "bytes": 164540
+      }
+    ]
+  },
+  "compare/ai-onboarding-first-value": {
+    "url": "https://aiuxplayground.com/teardowns/compare/ai-onboarding-first-value",
+    "files": [
+      {
+        "file": "compare__ai-onboarding-first-value__notion__prompt-starter__1.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/1.webp",
+        "bytes": 41876
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__lovable__onboarding__theme-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/theme-picker.webp",
+        "bytes": 33380
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__manus__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/role-picker.webp",
+        "bytes": 77386
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__notion__prompt-starter__2.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/2.webp",
+        "bytes": 49462
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__lovable__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/role-picker.webp",
+        "bytes": 42206
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__manus__onboarding__first-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/first-home.webp",
+        "bytes": 55650
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__lovable__onboarding__connectors-intro.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/connectors-intro.webp",
+        "bytes": 129676
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__manus__onboarding__pricing-upsell.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/pricing-upsell.webp",
+        "bytes": 132050
+      },
+      {
+        "file": "compare__ai-onboarding-first-value__lovable__onboarding__name-step.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/name-step.webp",
+        "bytes": 34200
+      }
+    ]
+  },
+  "compare/design-the-composer": {
+    "url": "https://aiuxplayground.com/teardowns/compare/design-the-composer",
+    "files": [
+      {
+        "file": "compare__design-the-composer__chatgpt__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/calm-default.webp",
+        "bytes": 27052
+      },
+      {
+        "file": "compare__design-the-composer__claude__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/calm-default.webp",
+        "bytes": 31506
+      },
+      {
+        "file": "compare__design-the-composer__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "compare__design-the-composer__gemini__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/calm-default.webp",
+        "bytes": 33324
+      },
+      {
+        "file": "compare__design-the-composer__chatgpt__tool-switching__tools-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/tools-modes.webp",
+        "bytes": 38748
+      },
+      {
+        "file": "compare__design-the-composer__claude__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/plus-menu.webp",
+        "bytes": 45148
+      },
+      {
+        "file": "compare__design-the-composer__perplexity__tool-switching__computer-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-mode.webp",
+        "bytes": 39750
+      },
+      {
+        "file": "compare__design-the-composer__gemini__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/plus-menu.webp",
+        "bytes": 43134
+      },
+      {
+        "file": "compare__design-the-composer__chatgpt__tool-switching__deep-research.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/deep-research.webp",
+        "bytes": 62730
+      },
+      {
+        "file": "compare__design-the-composer__claude__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/model-picker.webp",
+        "bytes": 46588
+      },
+      {
+        "file": "compare__design-the-composer__perplexity__model-selection__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/model-selection/model-picker.webp",
+        "bytes": 47676
+      },
+      {
+        "file": "compare__design-the-composer__gemini__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/model-picker.webp",
+        "bytes": 43104
+      },
+      {
+        "file": "compare__design-the-composer__chatgpt__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/attachments.webp",
+        "bytes": 33946
+      },
+      {
+        "file": "compare__design-the-composer__claude__context-chips__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/context-chips/attachments.webp",
+        "bytes": 41146
+      },
+      {
+        "file": "compare__design-the-composer__perplexity__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/attachments.webp",
+        "bytes": 37300
+      },
+      {
+        "file": "compare__design-the-composer__gemini__multimodal__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/multimodal/attachments.webp",
+        "bytes": 28256
+      },
+      {
+        "file": "compare__design-the-composer__chatgpt__dictation__voice-input.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/dictation/voice-input.webp",
+        "bytes": 28636
+      },
+      {
+        "file": "compare__design-the-composer__claude__tool-switching__voice-dictation.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/voice-dictation.webp",
+        "bytes": 32430
+      },
+      {
+        "file": "compare__design-the-composer__perplexity__tool-switching__voice-listening.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/voice-listening.webp",
+        "bytes": 33044
+      }
+    ]
+  },
+  "compare/human-in-the-loop": {
+    "url": "https://aiuxplayground.com/teardowns/compare/human-in-the-loop",
+    "files": [
+      {
+        "file": "compare__human-in-the-loop__chatgpt__human-loop__scope-clarification.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/scope-clarification.webp",
+        "bytes": 92270
+      },
+      {
+        "file": "compare__human-in-the-loop__gemini__human-loop__clarifying-questions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/clarifying-questions.webp",
+        "bytes": 72824
+      },
+      {
+        "file": "compare__human-in-the-loop__perplexity__human-loop__connector-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/connector-chips.webp",
+        "bytes": 28602
+      },
+      {
+        "file": "compare__human-in-the-loop__chatgpt__human-loop__email-export-handoff.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-export-handoff.webp",
+        "bytes": 87534
+      },
+      {
+        "file": "compare__human-in-the-loop__gemini__human-loop__approval-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/approval-card.webp",
+        "bytes": 56096
+      },
+      {
+        "file": "compare__human-in-the-loop__perplexity__human-loop__tool-permissions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/tool-permissions.webp",
+        "bytes": 102898
+      },
+      {
+        "file": "compare__human-in-the-loop__chatgpt__human-loop__email-draft-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-draft-card.webp",
+        "bytes": 82216
+      },
+      {
+        "file": "compare__human-in-the-loop__chatgpt__human-loop__handoff-to-user.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/handoff-to-user.webp",
+        "bytes": 282584
+      },
+      {
+        "file": "compare__human-in-the-loop__gemini__human-loop__send-gate.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/send-gate.webp",
+        "bytes": 39220
+      }
+    ]
+  },
+  "compare/model-mode-selection": {
+    "url": "https://aiuxplayground.com/teardowns/compare/model-mode-selection",
+    "files": [
+      {
+        "file": "compare__model-mode-selection__claude__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/calm-default.webp",
+        "bytes": 31506
+      },
+      {
+        "file": "compare__model-mode-selection__gemini__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/calm-default.webp",
+        "bytes": 33324
+      },
+      {
+        "file": "compare__model-mode-selection__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "compare__model-mode-selection__grok__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/calm-default.webp",
+        "bytes": 21420
+      },
+      {
+        "file": "compare__model-mode-selection__claude__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/model-picker.webp",
+        "bytes": 46588
+      },
+      {
+        "file": "compare__model-mode-selection__gemini__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/model-picker.webp",
+        "bytes": 43104
+      },
+      {
+        "file": "compare__model-mode-selection__perplexity__model-selection__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/model-selection/model-picker.webp",
+        "bytes": 47676
+      },
+      {
+        "file": "compare__model-mode-selection__grok__model-selection__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/model-selection/model-picker.webp",
+        "bytes": 39248
+      },
+      {
+        "file": "compare__model-mode-selection__claude__tool-switching__effort-controls.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/effort-controls.webp",
+        "bytes": 60820
+      },
+      {
+        "file": "compare__model-mode-selection__gemini__tool-switching__thinking-level.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/thinking-level.webp",
+        "bytes": 49898
+      },
+      {
+        "file": "compare__model-mode-selection__perplexity__tool-switching__computer-models.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-models.webp",
+        "bytes": 42640
+      },
+      {
+        "file": "compare__model-mode-selection__perplexity__tool-switching__computer-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-mode.webp",
+        "bytes": 39750
+      }
+    ]
+  },
+  "compare/output-artifacts-refinement": {
+    "url": "https://aiuxplayground.com/teardowns/compare/output-artifacts-refinement",
+    "files": [
+      {
+        "file": "compare__output-artifacts-refinement__chatgpt__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/in-thread-replies.webp",
+        "bytes": 105430
+      },
+      {
+        "file": "compare__output-artifacts-refinement__claude__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/in-thread-replies.webp",
+        "bytes": 151220
+      },
+      {
+        "file": "compare__output-artifacts-refinement__perplexity__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/structured-answers.webp",
+        "bytes": 118070
+      },
+      {
+        "file": "compare__output-artifacts-refinement__gemini__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/structured-answers.webp",
+        "bytes": 128784
+      },
+      {
+        "file": "compare__output-artifacts-refinement__chatgpt__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/response-versions.webp",
+        "bytes": 112026
+      },
+      {
+        "file": "compare__output-artifacts-refinement__claude__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/response-versions.webp",
+        "bytes": 143232
+      },
+      {
+        "file": "compare__output-artifacts-refinement__perplexity__output__rewrite-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/rewrite-modes.webp",
+        "bytes": 105050
+      },
+      {
+        "file": "compare__output-artifacts-refinement__gemini__output__response-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/response-refinement.webp",
+        "bytes": 106900
+      },
+      {
+        "file": "compare__output-artifacts-refinement__chatgpt__output__selection-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/selection-refinement.webp",
+        "bytes": 110318
+      },
+      {
+        "file": "compare__output-artifacts-refinement__claude__output__quote-to-reply.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/quote-to-reply.webp",
+        "bytes": 82766
+      },
+      {
+        "file": "compare__output-artifacts-refinement__perplexity__output__selection-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/selection-refinement.webp",
+        "bytes": 111372
+      },
+      {
+        "file": "compare__output-artifacts-refinement__gemini__output__section-export.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/section-export.webp",
+        "bytes": 114998
+      },
+      {
+        "file": "compare__output-artifacts-refinement__chatgpt__output__share-message.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/share-message.webp",
+        "bytes": 46390
+      },
+      {
+        "file": "compare__output-artifacts-refinement__claude__artifacts__artifact-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/artifact-card.webp",
+        "bytes": 92586
+      },
+      {
+        "file": "compare__output-artifacts-refinement__perplexity__output__export-answer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/export-answer.webp",
+        "bytes": 104112
+      },
+      {
+        "file": "compare__output-artifacts-refinement__gemini__output__overflow-actions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/overflow-actions.webp",
+        "bytes": 103476
+      }
+    ]
+  },
+  "compare/personalization-memory": {
+    "url": "https://aiuxplayground.com/teardowns/compare/personalization-memory",
+    "files": [
+      {
+        "file": "compare__personalization-memory__chatgpt__personalization__personalization-hub.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/personalization-hub.webp",
+        "bytes": 63872
+      },
+      {
+        "file": "compare__personalization-memory__claude__personalization__profile-instructions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/profile-instructions.webp",
+        "bytes": 53360
+      },
+      {
+        "file": "compare__personalization-memory__perplexity__personalization__profile-form.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/profile-form.webp",
+        "bytes": 56920
+      },
+      {
+        "file": "compare__personalization-memory__chatgpt__personalization__style-tone-presets.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/style-tone-presets.webp",
+        "bytes": 74450
+      },
+      {
+        "file": "compare__personalization-memory__perplexity__personalization__response-length.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/response-length.webp",
+        "bytes": 79764
+      },
+      {
+        "file": "compare__personalization-memory__chatgpt__personalization__about-you-profile.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/about-you-profile.webp",
+        "bytes": 67722
+      },
+      {
+        "file": "compare__personalization-memory__claude__personalization__work-role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/work-role-picker.webp",
+        "bytes": 62838
+      },
+      {
+        "file": "compare__personalization-memory__chatgpt__personalization__memory-and-advanced.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/memory-and-advanced.webp",
+        "bytes": 77370
+      },
+      {
+        "file": "compare__personalization-memory__claude__personalization__memory-capabilities.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-capabilities.webp",
+        "bytes": 94310
+      },
+      {
+        "file": "compare__personalization-memory__perplexity__personalization__memory-settings.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/memory-settings.webp",
+        "bytes": 58592
+      },
+      {
+        "file": "compare__personalization-memory__chatgpt__personalization__memory-version-history.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/memory-version-history.webp",
+        "bytes": 77546
+      },
+      {
+        "file": "compare__personalization-memory__claude__personalization__memory-off-ramp.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-off-ramp.webp",
+        "bytes": 40294
+      }
+    ]
+  },
+  "compare/pricing-upgrade": {
+    "url": "https://aiuxplayground.com/teardowns/compare/pricing-upgrade",
+    "files": [
+      {
+        "file": "compare__pricing-upgrade__manus__onboarding__pricing-upsell.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/pricing-upsell.webp",
+        "bytes": 132050
+      },
+      {
+        "file": "compare__pricing-upgrade__deepseek__tool-switching__instant-expert-toggle.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/instant-expert-toggle.webp",
+        "bytes": 24240
+      },
+      {
+        "file": "compare__pricing-upgrade__perplexity__tool-switching__computer-models.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-models.webp",
+        "bytes": 42640
+      },
+      {
+        "file": "compare__pricing-upgrade__lovable__onboarding__company-size.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/company-size.webp",
+        "bytes": 39408
+      },
+      {
+        "file": "compare__pricing-upgrade__manus__onboarding__credits-explainer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/credits-explainer.webp",
+        "bytes": 54916
+      },
+      {
+        "file": "compare__pricing-upgrade__deepseek__tool-switching__attach-limits.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/attach-limits.webp",
+        "bytes": 34094
+      }
+    ]
+  },
+  "compare/trust-privacy-settings": {
+    "url": "https://aiuxplayground.com/teardowns/compare/trust-privacy-settings",
+    "files": [
+      {
+        "file": "compare__trust-privacy-settings__chatgpt__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/inline-citation-chips.webp",
+        "bytes": 128366
+      },
+      {
+        "file": "compare__trust-privacy-settings__perplexity__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/inline-citation-chips.webp",
+        "bytes": 118070
+      },
+      {
+        "file": "compare__trust-privacy-settings__chatgpt__citations__citation-popover.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/citation-popover.webp",
+        "bytes": 136278
+      },
+      {
+        "file": "compare__trust-privacy-settings__perplexity__citations__citation-popover.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/citation-popover.webp",
+        "bytes": 122144
+      },
+      {
+        "file": "compare__trust-privacy-settings__chatgpt__citations__sources-sidebar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/sources-sidebar.webp",
+        "bytes": 232084
+      },
+      {
+        "file": "compare__trust-privacy-settings__perplexity__citations__links-tab.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/links-tab.webp",
+        "bytes": 155024
+      },
+      {
+        "file": "compare__trust-privacy-settings__perplexity__citations__research-transparency.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/research-transparency.webp",
+        "bytes": 100606
+      },
+      {
+        "file": "compare__trust-privacy-settings__perplexity__citations__wrong-sources-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/wrong-sources-feedback.webp",
+        "bytes": 100874
+      }
+    ]
+  },
+  "deepseek/composer": {
+    "url": "https://aiuxplayground.com/teardowns/deepseek/composer",
+    "files": [
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/calm-default.webp",
+        "bytes": 26586
+      },
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__deepthink-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/deepthink-mode.webp",
+        "bytes": 31306
+      },
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__instant-expert-toggle.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/instant-expert-toggle.webp",
+        "bytes": 24240
+      },
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__attach-limits.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/attach-limits.webp",
+        "bytes": 34094
+      },
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__file-attachment.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/file-attachment.webp",
+        "bytes": 24794
+      },
+      {
+        "file": "deepseek__composer__deepseek__tool-switching__expert-armed.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/expert-armed.webp",
+        "bytes": 25912
+      }
+    ]
+  },
+  "design-the-composer": {
+    "url": "https://aiuxplayground.com/teardowns/design-the-composer",
+    "files": [
+      {
+        "file": "design-the-composer__qwen__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/plus-menu.webp",
+        "bytes": 30138
+      },
+      {
+        "file": "design-the-composer__qwen__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/model-picker.webp",
+        "bytes": 34698
+      },
+      {
+        "file": "design-the-composer__qwen__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/calm-default.webp",
+        "bytes": 16242
+      },
+      {
+        "file": "design-the-composer__z-ai__tool-switching__advanced-search.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/advanced-search.webp",
+        "bytes": 48410
+      },
+      {
+        "file": "design-the-composer__z-ai__tool-switching__search-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/search-menu.webp",
+        "bytes": 53230
+      },
+      {
+        "file": "design-the-composer__z-ai__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/calm-default.webp",
+        "bytes": 43368
+      },
+      {
+        "file": "design-the-composer__kimi__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/plus-menu.webp",
+        "bytes": 31560
+      },
+      {
+        "file": "design-the-composer__kimi__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/model-picker.webp",
+        "bytes": 31162
+      },
+      {
+        "file": "design-the-composer__kimi__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/calm-default.webp",
+        "bytes": 40748
+      },
+      {
+        "file": "design-the-composer__manus__tool-switching__skills-submenu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/skills-submenu.webp",
+        "bytes": 65186
+      },
+      {
+        "file": "design-the-composer__manus__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/plus-menu.webp",
+        "bytes": 51438
+      },
+      {
+        "file": "design-the-composer__manus__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/calm-default.webp",
+        "bytes": 74782
+      },
+      {
+        "file": "design-the-composer__deepseek__tool-switching__instant-expert-toggle.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/instant-expert-toggle.webp",
+        "bytes": 24240
+      },
+      {
+        "file": "design-the-composer__deepseek__tool-switching__deepthink-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/deepthink-mode.webp",
+        "bytes": 31306
+      },
+      {
+        "file": "design-the-composer__deepseek__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/calm-default.webp",
+        "bytes": 26586
+      },
+      {
+        "file": "design-the-composer__claude__context-chips__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/context-chips/attachments.webp",
+        "bytes": 41146
+      },
+      {
+        "file": "design-the-composer__claude__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/plus-menu.webp",
+        "bytes": 45148
+      },
+      {
+        "file": "design-the-composer__claude__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/calm-default.webp",
+        "bytes": 31506
+      },
+      {
+        "file": "design-the-composer__perplexity__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/attachments.webp",
+        "bytes": 37300
+      },
+      {
+        "file": "design-the-composer__perplexity__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/plus-menu.webp",
+        "bytes": 38218
+      },
+      {
+        "file": "design-the-composer__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "design-the-composer__google-ai-mode__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/attachments.webp",
+        "bytes": 25336
+      },
+      {
+        "file": "design-the-composer__google-ai-mode__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/plus-menu.webp",
+        "bytes": 32458
+      },
+      {
+        "file": "design-the-composer__google-ai-mode__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/calm-default.webp",
+        "bytes": 22794
+      },
+      {
+        "file": "design-the-composer__lovable__tool-switching__build-plan-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/build-plan-mode.webp",
+        "bytes": 59660
+      },
+      {
+        "file": "design-the-composer__lovable__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/plus-menu.webp",
+        "bytes": 61480
+      },
+      {
+        "file": "design-the-composer__lovable__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/calm-default.webp",
+        "bytes": 52202
+      },
+      {
+        "file": "design-the-composer__chatgpt__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/attachments.webp",
+        "bytes": 33946
+      },
+      {
+        "file": "design-the-composer__chatgpt__tool-switching__tools-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/tools-modes.webp",
+        "bytes": 38748
+      },
+      {
+        "file": "design-the-composer__chatgpt__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/tool-switching/calm-default.webp",
+        "bytes": 27052
+      },
+      {
+        "file": "design-the-composer__grok__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/plus-menu.webp",
+        "bytes": 27308
+      },
+      {
+        "file": "design-the-composer__grok__tool-switching__feature-discovery.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/feature-discovery.webp",
+        "bytes": 43948
+      },
+      {
+        "file": "design-the-composer__grok__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/calm-default.webp",
+        "bytes": 21420
+      },
+      {
+        "file": "design-the-composer__gemini__tool-switching__more-tools.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/more-tools.webp",
+        "bytes": 52418
+      },
+      {
+        "file": "design-the-composer__gemini__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/plus-menu.webp",
+        "bytes": 43134
+      },
+      {
+        "file": "design-the-composer__gemini__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/calm-default.webp",
+        "bytes": 33324
+      }
+    ]
+  },
+  "gemini/composer": {
+    "url": "https://aiuxplayground.com/teardowns/gemini/composer",
+    "files": [
+      {
+        "file": "gemini__composer__gemini__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/calm-default.webp",
+        "bytes": 33324
+      },
+      {
+        "file": "gemini__composer__gemini__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/plus-menu.webp",
+        "bytes": 43134
+      },
+      {
+        "file": "gemini__composer__gemini__tool-switching__more-tools.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/more-tools.webp",
+        "bytes": 52418
+      },
+      {
+        "file": "gemini__composer__gemini__multimodal__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/multimodal/attachments.webp",
+        "bytes": 28256
+      },
+      {
+        "file": "gemini__composer__gemini__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/model-picker.webp",
+        "bytes": 43104
+      },
+      {
+        "file": "gemini__composer__gemini__tool-switching__thinking-level.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/thinking-level.webp",
+        "bytes": 49898
+      },
+      {
+        "file": "gemini__composer__gemini__tool-switching__ready-to-send.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/ready-to-send.webp",
+        "bytes": 33720
+      }
+    ]
+  },
+  "gemini/human-loop": {
+    "url": "https://aiuxplayground.com/teardowns/gemini/human-loop",
+    "files": [
+      {
+        "file": "gemini__human-loop__gemini__human-loop__clarifying-questions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/clarifying-questions.webp",
+        "bytes": 72824
+      },
+      {
+        "file": "gemini__human-loop__gemini__human-loop__approval-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/approval-card.webp",
+        "bytes": 56096
+      },
+      {
+        "file": "gemini__human-loop__gemini__human-loop__send-gate.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/send-gate.webp",
+        "bytes": 39220
+      }
+    ]
+  },
+  "gemini/output": {
+    "url": "https://aiuxplayground.com/teardowns/gemini/output",
+    "files": [
+      {
+        "file": "gemini__output__gemini__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/structured-answers.webp",
+        "bytes": 128784
+      },
+      {
+        "file": "gemini__output__gemini__output__event-tables.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/event-tables.webp",
+        "bytes": 88334
+      },
+      {
+        "file": "gemini__output__gemini__output__section-export.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/section-export.webp",
+        "bytes": 114998
+      },
+      {
+        "file": "gemini__output__gemini__output__follow-up-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/follow-up-chips.webp",
+        "bytes": 107856
+      },
+      {
+        "file": "gemini__output__gemini__output__negative-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/negative-feedback.webp",
+        "bytes": 52168
+      },
+      {
+        "file": "gemini__output__gemini__output__response-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/response-refinement.webp",
+        "bytes": 106900
+      },
+      {
+        "file": "gemini__output__gemini__output__overflow-actions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/overflow-actions.webp",
+        "bytes": 103476
+      },
+      {
+        "file": "gemini__output__gemini__output__sources-sidebar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/sources-sidebar.webp",
+        "bytes": 186544
+      },
+      {
+        "file": "gemini__output__gemini__output__maps-split-pane.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/maps-split-pane.webp",
+        "bytes": 241616
+      }
+    ]
+  },
+  "google-ai-mode/composer": {
+    "url": "https://aiuxplayground.com/teardowns/google-ai-mode/composer",
+    "files": [
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/calm-default.webp",
+        "bytes": 22794
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/plus-menu.webp",
+        "bytes": 32458
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/attachments.webp",
+        "bytes": 25336
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__voice-input.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/voice-input.webp",
+        "bytes": 14944
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__lens-modal.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/lens-modal.webp",
+        "bytes": 37352
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__lens-results.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/lens-results.webp",
+        "bytes": 96386
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__canvas-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/canvas-mode.webp",
+        "bytes": 42074
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__create-images.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/create-images.webp",
+        "bytes": 36700
+      },
+      {
+        "file": "google-ai-mode__composer__google-ai-mode__tool-switching__contextual-starters.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-ai-mode/tool-switching/contextual-starters.webp",
+        "bytes": 158342
+      }
+    ]
+  },
+  "google-maps/ask-maps": {
+    "url": "https://aiuxplayground.com/teardowns/google-maps/ask-maps",
+    "files": [
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__empty-rail.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/empty-rail.webp",
+        "bytes": 308810
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__capability-explainer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/capability-explainer.webp",
+        "bytes": 287782
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__pins-from-query.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/pins-from-query.webp",
+        "bytes": 278850
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__place-in-rail.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/place-in-rail.webp",
+        "bytes": 292350
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__dual-place-chrome.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/dual-place-chrome.webp",
+        "bytes": 324524
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__review-grounding.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/review-grounding.webp",
+        "bytes": 274182
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__overview-map.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/overview-map.webp",
+        "bytes": 282936
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__mentioned-places.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/mentioned-places.webp",
+        "bytes": 357008
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__trip-plan.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/trip-plan.webp",
+        "bytes": 359944
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__sources.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/sources.webp",
+        "bytes": 356820
+      },
+      {
+        "file": "google-maps__ask-maps__google-maps__ask-maps__event-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/event-card.webp",
+        "bytes": 358462
+      }
+    ]
+  },
+  "granola/meeting-notes": {
+    "url": "https://aiuxplayground.com/teardowns/granola/meeting-notes",
+    "files": [
+      {
+        "file": "granola__meeting-notes__granola__logo.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/logo.png",
+        "bytes": 16886
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__what-it-is.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/what-it-is.png",
+        "bytes": 120827
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__android-notes.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/android-notes.png",
+        "bytes": 1137525
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__no-bot-pill.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/no-bot-pill.webp",
+        "bytes": 53428
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__no-bot-humans.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/no-bot-humans.webp",
+        "bytes": 598256
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__notepad-first.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/notepad-first.png",
+        "bytes": 755664
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__source-popover.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/source-popover.png",
+        "bytes": 612060
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__manage-templates.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/manage-templates.png",
+        "bytes": 305183
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__recipes-launch.jpg",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/recipes-launch.jpg",
+        "bytes": 528835
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__recipes-browse.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/recipes-browse.png",
+        "bytes": 490740
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__chat-home.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/chat-home.png",
+        "bytes": 174530
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__chat-answer.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/chat-answer.png",
+        "bytes": 3013804
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__sharing.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/sharing.png",
+        "bytes": 244641
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__brief.png",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/brief.png",
+        "bytes": 903015
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__calendar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/calendar.webp",
+        "bytes": 720428
+      },
+      {
+        "file": "granola__meeting-notes__granola__meeting-notes__private.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/granola/meeting-notes/private.webp",
+        "bytes": 401044
+      }
+    ]
+  },
+  "grok/composer": {
+    "url": "https://aiuxplayground.com/teardowns/grok/composer",
+    "files": [
+      {
+        "file": "grok__composer__grok__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/calm-default.webp",
+        "bytes": 21420
+      },
+      {
+        "file": "grok__composer__grok__tool-switching__feature-discovery.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/feature-discovery.webp",
+        "bytes": 43948
+      },
+      {
+        "file": "grok__composer__grok__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/plus-menu.webp",
+        "bytes": 27308
+      },
+      {
+        "file": "grok__composer__grok__multimodal__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/multimodal/attachments.webp",
+        "bytes": 23590
+      },
+      {
+        "file": "grok__composer__grok__multimodal__ready-to-send.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/multimodal/ready-to-send.webp",
+        "bytes": 23052
+      },
+      {
+        "file": "grok__composer__grok__tool-switching__skills-submenu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/skills-submenu.webp",
+        "bytes": 37750
+      },
+      {
+        "file": "grok__composer__grok__multimodal__skills-applied.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/multimodal/skills-applied.webp",
+        "bytes": 19794
+      },
+      {
+        "file": "grok__composer__grok__model-selection__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/model-selection/model-picker.webp",
+        "bytes": 39248
+      },
+      {
+        "file": "grok__composer__grok__tool-switching__voice-dictation.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/voice-dictation.webp",
+        "bytes": 20972
+      },
+      {
+        "file": "grok__composer__grok__tool-switching__voice-session.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/voice-session.webp",
+        "bytes": 23528
+      }
+    ]
+  },
+  "human-in-the-loop": {
+    "url": "https://aiuxplayground.com/teardowns/human-in-the-loop",
+    "files": [
+      {
+        "file": "human-in-the-loop__chatgpt__human-loop__email-clarification.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/email-clarification.webp",
+        "bytes": 62718
+      },
+      {
+        "file": "human-in-the-loop__chatgpt__human-loop__handoff-to-user.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/handoff-to-user.webp",
+        "bytes": 282584
+      },
+      {
+        "file": "human-in-the-loop__chatgpt__human-loop__scope-clarification.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/human-loop/scope-clarification.webp",
+        "bytes": 92270
+      },
+      {
+        "file": "human-in-the-loop__gemini__human-loop__send-gate.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/send-gate.webp",
+        "bytes": 39220
+      },
+      {
+        "file": "human-in-the-loop__gemini__human-loop__approval-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/approval-card.webp",
+        "bytes": 56096
+      },
+      {
+        "file": "human-in-the-loop__gemini__human-loop__clarifying-questions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/human-loop/clarifying-questions.webp",
+        "bytes": 72824
+      },
+      {
+        "file": "human-in-the-loop__perplexity__human-loop__connector-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/connector-chips.webp",
+        "bytes": 28602
+      },
+      {
+        "file": "human-in-the-loop__perplexity__human-loop__tool-permissions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/tool-permissions.webp",
+        "bytes": 102898
+      }
+    ]
+  },
+  "kimi/composer": {
+    "url": "https://aiuxplayground.com/teardowns/kimi/composer",
+    "files": [
+      {
+        "file": "kimi__composer__kimi__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/calm-default.webp",
+        "bytes": 40748
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/model-picker.webp",
+        "bytes": 31162
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/plus-menu.webp",
+        "bytes": 31560
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__web-search.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/web-search.webp",
+        "bytes": 28300
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__plugins.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/plugins.webp",
+        "bytes": 63056
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__skills-submenu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/skills-submenu.webp",
+        "bytes": 50032
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__slash-plugins.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/slash-plugins.webp",
+        "bytes": 50848
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__skills-applied.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/skills-applied.webp",
+        "bytes": 22960
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__swarm-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/swarm-mode.webp",
+        "bytes": 85282
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__websites-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/websites-mode.webp",
+        "bytes": 70900
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__docs-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/docs-mode.webp",
+        "bytes": 74568
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__sheets-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/sheets-mode.webp",
+        "bytes": 89794
+      },
+      {
+        "file": "kimi__composer__kimi__tool-switching__design-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/design-mode.webp",
+        "bytes": 46790
+      }
+    ]
+  },
+  "local-search-planning": {
+    "url": "https://aiuxplayground.com/teardowns/local-search-planning",
+    "files": [
+      {
+        "file": "local-search-planning__google-maps__ask-maps__pins-from-query.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/pins-from-query.webp",
+        "bytes": 278850
+      },
+      {
+        "file": "local-search-planning__google-maps__ask-maps__capability-explainer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/capability-explainer.webp",
+        "bytes": 287782
+      },
+      {
+        "file": "local-search-planning__google-maps__ask-maps__empty-rail.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/google-maps/ask-maps/empty-rail.webp",
+        "bytes": 308810
+      },
+      {
+        "file": "local-search-planning__gemini__output__section-export.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/section-export.webp",
+        "bytes": 114998
+      },
+      {
+        "file": "local-search-planning__gemini__output__event-tables.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/event-tables.webp",
+        "bytes": 88334
+      },
+      {
+        "file": "local-search-planning__gemini__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/structured-answers.webp",
+        "bytes": 128784
+      }
+    ]
+  },
+  "lovable/composer": {
+    "url": "https://aiuxplayground.com/teardowns/lovable/composer",
+    "files": [
+      {
+        "file": "lovable__composer__lovable__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/calm-default.webp",
+        "bytes": 52202
+      },
+      {
+        "file": "lovable__composer__lovable__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/plus-menu.webp",
+        "bytes": 61480
+      },
+      {
+        "file": "lovable__composer__lovable__tool-switching__build-plan-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/build-plan-mode.webp",
+        "bytes": 59660
+      },
+      {
+        "file": "lovable__composer__lovable__tool-switching__plan-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/plan-mode.webp",
+        "bytes": 54578
+      },
+      {
+        "file": "lovable__composer__lovable__tool-switching__voice-dictation.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/tool-switching/voice-dictation.webp",
+        "bytes": 54226
+      }
+    ]
+  },
+  "lovable/onboarding": {
+    "url": "https://aiuxplayground.com/teardowns/lovable/onboarding",
+    "files": [
+      {
+        "file": "lovable__onboarding__lovable__onboarding__theme-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/theme-picker.webp",
+        "bytes": 33380
+      },
+      {
+        "file": "lovable__onboarding__lovable__onboarding__name-step.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/name-step.webp",
+        "bytes": 34200
+      },
+      {
+        "file": "lovable__onboarding__lovable__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/role-picker.webp",
+        "bytes": 42206
+      },
+      {
+        "file": "lovable__onboarding__lovable__onboarding__company-size.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/company-size.webp",
+        "bytes": 39408
+      },
+      {
+        "file": "lovable__onboarding__lovable__onboarding__connectors-intro.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/connectors-intro.webp",
+        "bytes": 129676
+      }
+    ]
+  },
+  "manus/composer": {
+    "url": "https://aiuxplayground.com/teardowns/manus/composer",
+    "files": [
+      {
+        "file": "manus__composer__manus__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/calm-default.webp",
+        "bytes": 74782
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/plus-menu.webp",
+        "bytes": 51438
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__skills-submenu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/skills-submenu.webp",
+        "bytes": 65186
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__slash-skills.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/slash-skills.webp",
+        "bytes": 70422
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__cloud-computer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/cloud-computer.webp",
+        "bytes": 44008
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__mode-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/mode-chips.webp",
+        "bytes": 41554
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/model-picker.webp",
+        "bytes": 53726
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__voice-input.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/voice-input.webp",
+        "bytes": 40356
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__more-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/more-modes.webp",
+        "bytes": 52050
+      },
+      {
+        "file": "manus__composer__manus__tool-switching__slides-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/tool-switching/slides-mode.webp",
+        "bytes": 78320
+      }
+    ]
+  },
+  "manus/onboarding": {
+    "url": "https://aiuxplayground.com/teardowns/manus/onboarding",
+    "files": [
+      {
+        "file": "manus__onboarding__manus__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/role-picker.webp",
+        "bytes": 77386
+      },
+      {
+        "file": "manus__onboarding__manus__onboarding__pricing-upsell.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/pricing-upsell.webp",
+        "bytes": 132050
+      },
+      {
+        "file": "manus__onboarding__manus__onboarding__first-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/first-home.webp",
+        "bytes": 55650
+      },
+      {
+        "file": "manus__onboarding__manus__onboarding__credits-explainer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/credits-explainer.webp",
+        "bytes": 54916
+      },
+      {
+        "file": "manus__onboarding__manus__onboarding__feature-announcement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/feature-announcement.webp",
+        "bytes": 27532
+      }
+    ]
+  },
+  "manus/output": {
+    "url": "https://aiuxplayground.com/teardowns/manus/output",
+    "files": [
+      {
+        "file": "manus__output__manus__output__meeting-minutes-start.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/meeting-minutes-start.webp",
+        "bytes": 46072
+      },
+      {
+        "file": "manus__output__manus__output__recording-in-progress.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/recording-in-progress.webp",
+        "bytes": 44528
+      },
+      {
+        "file": "manus__output__manus__output__agent-working.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/agent-working.webp",
+        "bytes": 45702
+      },
+      {
+        "file": "manus__output__manus__output__task-complete.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/task-complete.webp",
+        "bytes": 92254
+      },
+      {
+        "file": "manus__output__manus__output__slides-deliverable.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/slides-deliverable.webp",
+        "bytes": 159118
+      }
+    ]
+  },
+  "model-mode-selection": {
+    "url": "https://aiuxplayground.com/teardowns/model-mode-selection",
+    "files": [
+      {
+        "file": "model-mode-selection__z-ai__tool-switching__advanced-search.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/advanced-search.webp",
+        "bytes": 48410
+      },
+      {
+        "file": "model-mode-selection__z-ai__tool-switching__search-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/search-menu.webp",
+        "bytes": 53230
+      },
+      {
+        "file": "model-mode-selection__z-ai__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/calm-default.webp",
+        "bytes": 43368
+      },
+      {
+        "file": "model-mode-selection__kimi__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/plus-menu.webp",
+        "bytes": 31560
+      },
+      {
+        "file": "model-mode-selection__kimi__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/model-picker.webp",
+        "bytes": 31162
+      },
+      {
+        "file": "model-mode-selection__kimi__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/kimi/tool-switching/calm-default.webp",
+        "bytes": 40748
+      },
+      {
+        "file": "model-mode-selection__deepseek__tool-switching__instant-expert-toggle.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/instant-expert-toggle.webp",
+        "bytes": 24240
+      },
+      {
+        "file": "model-mode-selection__deepseek__tool-switching__deepthink-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/deepthink-mode.webp",
+        "bytes": 31306
+      },
+      {
+        "file": "model-mode-selection__deepseek__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/calm-default.webp",
+        "bytes": 26586
+      },
+      {
+        "file": "model-mode-selection__claude__context-chips__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/context-chips/attachments.webp",
+        "bytes": 41146
+      },
+      {
+        "file": "model-mode-selection__claude__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/plus-menu.webp",
+        "bytes": 45148
+      },
+      {
+        "file": "model-mode-selection__claude__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/tool-switching/calm-default.webp",
+        "bytes": 31506
+      },
+      {
+        "file": "model-mode-selection__perplexity__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/attachments.webp",
+        "bytes": 37300
+      },
+      {
+        "file": "model-mode-selection__perplexity__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/plus-menu.webp",
+        "bytes": 38218
+      },
+      {
+        "file": "model-mode-selection__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "model-mode-selection__grok__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/plus-menu.webp",
+        "bytes": 27308
+      },
+      {
+        "file": "model-mode-selection__grok__tool-switching__feature-discovery.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/feature-discovery.webp",
+        "bytes": 43948
+      },
+      {
+        "file": "model-mode-selection__grok__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/grok/tool-switching/calm-default.webp",
+        "bytes": 21420
+      },
+      {
+        "file": "model-mode-selection__gemini__tool-switching__more-tools.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/more-tools.webp",
+        "bytes": 52418
+      },
+      {
+        "file": "model-mode-selection__gemini__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/plus-menu.webp",
+        "bytes": 43134
+      },
+      {
+        "file": "model-mode-selection__gemini__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/tool-switching/calm-default.webp",
+        "bytes": 33324
+      }
+    ]
+  },
+  "notion/onboarding": {
+    "url": "https://aiuxplayground.com/teardowns/notion/onboarding",
+    "files": [
+      {
+        "file": "notion__onboarding__notion__prompt-starter__1.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/1.webp",
+        "bytes": 41876
+      },
+      {
+        "file": "notion__onboarding__notion__prompt-starter__2.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/notion/prompt-starter/2.webp",
+        "bytes": 49462
+      }
+    ]
+  },
+  "output-artifacts-refinement": {
+    "url": "https://aiuxplayground.com/teardowns/output-artifacts-refinement",
+    "files": [
+      {
+        "file": "output-artifacts-refinement__chatgpt__intelligent-ui__flow-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/flow-card.webp",
+        "bytes": 39292
+      },
+      {
+        "file": "output-artifacts-refinement__chatgpt__intelligent-ui__sourced-photo.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/sourced-photo.webp",
+        "bytes": 134120
+      },
+      {
+        "file": "output-artifacts-refinement__chatgpt__intelligent-ui__parts-list.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/intelligent-ui/parts-list.webp",
+        "bytes": 125926
+      },
+      {
+        "file": "output-artifacts-refinement__qwen__output__image-to-video.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/image-to-video.webp",
+        "bytes": 72112
+      },
+      {
+        "file": "output-artifacts-refinement__qwen__output__image-output.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/image-output.webp",
+        "bytes": 74634
+      },
+      {
+        "file": "output-artifacts-refinement__qwen__output__prompt-expansion.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/prompt-expansion.webp",
+        "bytes": 105578
+      },
+      {
+        "file": "output-artifacts-refinement__gemini__output__section-export.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/section-export.webp",
+        "bytes": 114998
+      },
+      {
+        "file": "output-artifacts-refinement__gemini__output__event-tables.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/event-tables.webp",
+        "bytes": 88334
+      },
+      {
+        "file": "output-artifacts-refinement__gemini__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/gemini/output/structured-answers.webp",
+        "bytes": 128784
+      },
+      {
+        "file": "output-artifacts-refinement__manus__output__agent-working.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/agent-working.webp",
+        "bytes": 45702
+      },
+      {
+        "file": "output-artifacts-refinement__manus__output__recording-in-progress.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/recording-in-progress.webp",
+        "bytes": 44528
+      },
+      {
+        "file": "output-artifacts-refinement__manus__output__meeting-minutes-start.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/output/meeting-minutes-start.webp",
+        "bytes": 46072
+      },
+      {
+        "file": "output-artifacts-refinement__chatgpt__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/response-versions.webp",
+        "bytes": 112026
+      },
+      {
+        "file": "output-artifacts-refinement__chatgpt__output__reasoning-activity.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/reasoning-activity.webp",
+        "bytes": 169582
+      },
+      {
+        "file": "output-artifacts-refinement__chatgpt__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/output/in-thread-replies.webp",
+        "bytes": 105430
+      },
+      {
+        "file": "output-artifacts-refinement__claude__output__positive-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/positive-feedback.webp",
+        "bytes": 40876
+      },
+      {
+        "file": "output-artifacts-refinement__claude__output__response-versions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/response-versions.webp",
+        "bytes": 143232
+      },
+      {
+        "file": "output-artifacts-refinement__claude__output__in-thread-replies.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/output/in-thread-replies.webp",
+        "bytes": 151220
+      },
+      {
+        "file": "output-artifacts-refinement__perplexity__output__follow-ups.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/follow-ups.webp",
+        "bytes": 103860
+      },
+      {
+        "file": "output-artifacts-refinement__perplexity__output__research-steps.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/research-steps.webp",
+        "bytes": 100606
+      },
+      {
+        "file": "output-artifacts-refinement__perplexity__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/structured-answers.webp",
+        "bytes": 118070
+      },
+      {
+        "file": "output-artifacts-refinement__claude__artifacts__code-view.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/code-view.webp",
+        "bytes": 185556
+      },
+      {
+        "file": "output-artifacts-refinement__claude__artifacts__split-pane.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/split-pane.webp",
+        "bytes": 106530
+      },
+      {
+        "file": "output-artifacts-refinement__claude__artifacts__artifact-card.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/artifacts/artifact-card.webp",
+        "bytes": 92586
+      }
+    ]
+  },
+  "perplexity/citations": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/citations",
+    "files": [
+      {
+        "file": "perplexity__citations__perplexity__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/inline-citation-chips.webp",
+        "bytes": 118070
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__research-transparency.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/research-transparency.webp",
+        "bytes": 100606
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__sources-summary.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/sources-summary.webp",
+        "bytes": 103860
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__links-tab.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/links-tab.webp",
+        "bytes": 155024
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__wrong-sources-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/wrong-sources-feedback.webp",
+        "bytes": 100874
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__check-sources-selection.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/check-sources-selection.webp",
+        "bytes": 111372
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__sources-sidebar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/sources-sidebar.webp",
+        "bytes": 204498
+      },
+      {
+        "file": "perplexity__citations__perplexity__citations__citation-popover.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/citation-popover.webp",
+        "bytes": 122144
+      }
+    ]
+  },
+  "perplexity/composer": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/composer",
+    "files": [
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/plus-menu.webp",
+        "bytes": 38218
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/attachments.webp",
+        "bytes": 37300
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__connectors.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/connectors.webp",
+        "bytes": 42556
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__computer-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-mode.webp",
+        "bytes": 39750
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__computer-models.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/computer-models.webp",
+        "bytes": 42640
+      },
+      {
+        "file": "perplexity__composer__perplexity__model-selection__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/model-selection/model-picker.webp",
+        "bytes": 47676
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__voice-listening.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/voice-listening.webp",
+        "bytes": 33044
+      },
+      {
+        "file": "perplexity__composer__perplexity__tool-switching__voice-session.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/voice-session.webp",
+        "bytes": 28714
+      }
+    ]
+  },
+  "perplexity/human-loop": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/human-loop",
+    "files": [
+      {
+        "file": "perplexity__human-loop__perplexity__human-loop__connector-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/connector-chips.webp",
+        "bytes": 28602
+      },
+      {
+        "file": "perplexity__human-loop__perplexity__human-loop__tool-permissions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/human-loop/tool-permissions.webp",
+        "bytes": 102898
+      }
+    ]
+  },
+  "perplexity/output": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/output",
+    "files": [
+      {
+        "file": "perplexity__output__perplexity__output__structured-answers.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/structured-answers.webp",
+        "bytes": 118070
+      },
+      {
+        "file": "perplexity__output__perplexity__output__research-steps.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/research-steps.webp",
+        "bytes": 100606
+      },
+      {
+        "file": "perplexity__output__perplexity__output__follow-ups.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/follow-ups.webp",
+        "bytes": 103860
+      },
+      {
+        "file": "perplexity__output__perplexity__output__images-tab.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/images-tab.webp",
+        "bytes": 297640
+      },
+      {
+        "file": "perplexity__output__perplexity__output__export-answer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/export-answer.webp",
+        "bytes": 104112
+      },
+      {
+        "file": "perplexity__output__perplexity__output__rewrite-modes.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/rewrite-modes.webp",
+        "bytes": 105050
+      },
+      {
+        "file": "perplexity__output__perplexity__output__positive-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/positive-feedback.webp",
+        "bytes": 97610
+      },
+      {
+        "file": "perplexity__output__perplexity__output__negative-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/negative-feedback.webp",
+        "bytes": 100874
+      },
+      {
+        "file": "perplexity__output__perplexity__output__selection-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/output/selection-refinement.webp",
+        "bytes": 111372
+      }
+    ]
+  },
+  "perplexity/personalization": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/personalization",
+    "files": [
+      {
+        "file": "perplexity__personalization__perplexity__personalization__profile-form.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/profile-form.webp",
+        "bytes": 56920
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__date-of-birth.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/date-of-birth.webp",
+        "bytes": 30158
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__gender-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/gender-picker.webp",
+        "bytes": 30248
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__response-prefs-overview.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/response-prefs-overview.webp",
+        "bytes": 74478
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__response-length.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/response-length.webp",
+        "bytes": 79764
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__health-profile.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/health-profile.webp",
+        "bytes": 48706
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__health-goals.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/health-goals.webp",
+        "bytes": 39012
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__finance-watchlist.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/finance-watchlist.webp",
+        "bytes": 28258
+      },
+      {
+        "file": "perplexity__personalization__perplexity__personalization__memory-settings.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/memory-settings.webp",
+        "bytes": 58592
+      }
+    ]
+  },
+  "perplexity/shopping": {
+    "url": "https://aiuxplayground.com/teardowns/perplexity/shopping",
+    "files": [
+      {
+        "file": "perplexity__shopping__perplexity__shopping__1.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/1.webp",
+        "bytes": 164540
+      },
+      {
+        "file": "perplexity__shopping__perplexity__shopping__2.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/2.webp",
+        "bytes": 62720
+      },
+      {
+        "file": "perplexity__shopping__perplexity__shopping__3.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/3.webp",
+        "bytes": 102680
+      },
+      {
+        "file": "perplexity__shopping__perplexity__shopping__4.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/shopping/4.webp",
+        "bytes": 92014
+      }
+    ]
+  },
+  "personalization-memory": {
+    "url": "https://aiuxplayground.com/teardowns/personalization-memory",
+    "files": [
+      {
+        "file": "personalization-memory__perplexity__personalization__gender-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/gender-picker.webp",
+        "bytes": 30248
+      },
+      {
+        "file": "personalization-memory__perplexity__personalization__date-of-birth.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/date-of-birth.webp",
+        "bytes": 30158
+      },
+      {
+        "file": "personalization-memory__perplexity__personalization__profile-form.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/personalization/profile-form.webp",
+        "bytes": 56920
+      },
+      {
+        "file": "personalization-memory__claude__personalization__memory-capabilities.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/memory-capabilities.webp",
+        "bytes": 94310
+      },
+      {
+        "file": "personalization-memory__claude__personalization__work-role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/work-role-picker.webp",
+        "bytes": 62838
+      },
+      {
+        "file": "personalization-memory__claude__personalization__profile-instructions.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/claude/personalization/profile-instructions.webp",
+        "bytes": 53360
+      },
+      {
+        "file": "personalization-memory__chatgpt__personalization__instant-save-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/instant-save-feedback.webp",
+        "bytes": 69556
+      },
+      {
+        "file": "personalization-memory__chatgpt__personalization__style-tone-presets.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/style-tone-presets.webp",
+        "bytes": 74450
+      },
+      {
+        "file": "personalization-memory__chatgpt__personalization__personalization-hub.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/personalization/personalization-hub.webp",
+        "bytes": 63872
+      }
+    ]
+  },
+  "pricing-upgrade": {
+    "url": "https://aiuxplayground.com/teardowns/pricing-upgrade",
+    "files": [
+      {
+        "file": "pricing-upgrade__manus__onboarding__first-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/first-home.webp",
+        "bytes": 55650
+      },
+      {
+        "file": "pricing-upgrade__manus__onboarding__pricing-upsell.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/pricing-upsell.webp",
+        "bytes": 132050
+      },
+      {
+        "file": "pricing-upgrade__manus__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/manus/onboarding/role-picker.webp",
+        "bytes": 77386
+      },
+      {
+        "file": "pricing-upgrade__deepseek__tool-switching__instant-expert-toggle.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/instant-expert-toggle.webp",
+        "bytes": 24240
+      },
+      {
+        "file": "pricing-upgrade__deepseek__tool-switching__deepthink-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/deepthink-mode.webp",
+        "bytes": 31306
+      },
+      {
+        "file": "pricing-upgrade__deepseek__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/deepseek/tool-switching/calm-default.webp",
+        "bytes": 26586
+      },
+      {
+        "file": "pricing-upgrade__perplexity__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/attachments.webp",
+        "bytes": 37300
+      },
+      {
+        "file": "pricing-upgrade__perplexity__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/plus-menu.webp",
+        "bytes": 38218
+      },
+      {
+        "file": "pricing-upgrade__perplexity__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/tool-switching/calm-default.webp",
+        "bytes": 33638
+      },
+      {
+        "file": "pricing-upgrade__lovable__onboarding__role-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/role-picker.webp",
+        "bytes": 42206
+      },
+      {
+        "file": "pricing-upgrade__lovable__onboarding__name-step.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/name-step.webp",
+        "bytes": 34200
+      },
+      {
+        "file": "pricing-upgrade__lovable__onboarding__theme-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/lovable/onboarding/theme-picker.webp",
+        "bytes": 33380
+      }
+    ]
+  },
+  "qwen/composer": {
+    "url": "https://aiuxplayground.com/teardowns/qwen/composer",
+    "files": [
+      {
+        "file": "qwen__composer__qwen__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/calm-default.webp",
+        "bytes": 16242
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/model-picker.webp",
+        "bytes": 34698
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__plus-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/plus-menu.webp",
+        "bytes": 30138
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__attachments.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/attachments.webp",
+        "bytes": 17528
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__effort-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/effort-picker.webp",
+        "bytes": 18172
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__voice-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/voice-menu.webp",
+        "bytes": 20548
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__voice-session.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/voice-session.webp",
+        "bytes": 15236
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__voice-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/voice-picker.webp",
+        "bytes": 46788
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__dictation.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/dictation.webp",
+        "bytes": 22956
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__create-image-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/create-image-mode.webp",
+        "bytes": 104672
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__prompt-starters.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/prompt-starters.webp",
+        "bytes": 98686
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__image-model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/image-model-picker.webp",
+        "bytes": 101590
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__aspect-ratio.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/aspect-ratio.webp",
+        "bytes": 99990
+      },
+      {
+        "file": "qwen__composer__qwen__tool-switching__web-search-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/tool-switching/web-search-mode.webp",
+        "bytes": 34988
+      }
+    ]
+  },
+  "qwen/output": {
+    "url": "https://aiuxplayground.com/teardowns/qwen/output",
+    "files": [
+      {
+        "file": "qwen__output__qwen__output__prompt-expansion.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/prompt-expansion.webp",
+        "bytes": 105578
+      },
+      {
+        "file": "qwen__output__qwen__output__image-output.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/image-output.webp",
+        "bytes": 74634
+      },
+      {
+        "file": "qwen__output__qwen__output__image-to-video.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/image-to-video.webp",
+        "bytes": 72112
+      },
+      {
+        "file": "qwen__output__qwen__output__video-progress.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/video-progress.webp",
+        "bytes": 21612
+      },
+      {
+        "file": "qwen__output__qwen__output__video-preview.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/video-preview.webp",
+        "bytes": 119598
+      },
+      {
+        "file": "qwen__output__qwen__output__search-response.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/search-response.webp",
+        "bytes": 79710
+      },
+      {
+        "file": "qwen__output__qwen__output__thinking-sidebar.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/thinking-sidebar.webp",
+        "bytes": 145116
+      },
+      {
+        "file": "qwen__output__qwen__output__selection-refinement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/selection-refinement.webp",
+        "bytes": 82500
+      },
+      {
+        "file": "qwen__output__qwen__output__follow-ups.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/qwen/output/follow-ups.webp",
+        "bytes": 74288
+      }
+    ]
+  },
+  "trust-privacy-settings": {
+    "url": "https://aiuxplayground.com/teardowns/trust-privacy-settings",
+    "files": [
+      {
+        "file": "trust-privacy-settings__chatgpt__citations__multi-source-nav.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/multi-source-nav.webp",
+        "bytes": 135248
+      },
+      {
+        "file": "trust-privacy-settings__chatgpt__citations__citation-popover.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/citation-popover.webp",
+        "bytes": 136278
+      },
+      {
+        "file": "trust-privacy-settings__chatgpt__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/chatgpt/citations/inline-citation-chips.webp",
+        "bytes": 128366
+      },
+      {
+        "file": "trust-privacy-settings__perplexity__citations__sources-summary.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/sources-summary.webp",
+        "bytes": 103860
+      },
+      {
+        "file": "trust-privacy-settings__perplexity__citations__research-transparency.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/research-transparency.webp",
+        "bytes": 100606
+      },
+      {
+        "file": "trust-privacy-settings__perplexity__citations__inline-citation-chips.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/perplexity/citations/inline-citation-chips.webp",
+        "bytes": 118070
+      }
+    ]
+  },
+  "video-discovery": {
+    "url": "https://aiuxplayground.com/teardowns/video-discovery",
+    "files": [
+      {
+        "file": "video-discovery__youtube__ask-youtube__guide-answer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/guide-answer.webp",
+        "bytes": 134216
+      },
+      {
+        "file": "video-discovery__youtube__ask-youtube__answer-loading.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/answer-loading.webp",
+        "bytes": 27196
+      },
+      {
+        "file": "video-discovery__youtube__ask-youtube__empty-ask.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/empty-ask.webp",
+        "bytes": 57990
+      }
+    ]
+  },
+  "youtube/ask-youtube": {
+    "url": "https://aiuxplayground.com/teardowns/youtube/ask-youtube",
+    "files": [
+      {
+        "file": "youtube__ask-youtube__youtube__ask-youtube__empty-ask.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/empty-ask.webp",
+        "bytes": 57990
+      },
+      {
+        "file": "youtube__ask-youtube__youtube__ask-youtube__answer-loading.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/answer-loading.webp",
+        "bytes": 27196
+      },
+      {
+        "file": "youtube__ask-youtube__youtube__ask-youtube__guide-answer.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/guide-answer.webp",
+        "bytes": 134216
+      },
+      {
+        "file": "youtube__ask-youtube__youtube__ask-youtube__curated-picks.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/curated-picks.webp",
+        "bytes": 105984
+      },
+      {
+        "file": "youtube__ask-youtube__youtube__ask-youtube__answer-feedback.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/youtube/ask-youtube/answer-feedback.webp",
+        "bytes": 147974
+      }
+    ]
+  },
+  "z-ai/composer": {
+    "url": "https://aiuxplayground.com/teardowns/z-ai/composer",
+    "files": [
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__calm-default.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/calm-default.webp",
+        "bytes": 43368
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__search-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/search-menu.webp",
+        "bytes": 53230
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__advanced-search.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/advanced-search.webp",
+        "bytes": 48410
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__magic-design-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/magic-design-mode.webp",
+        "bytes": 108260
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__full-stack-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/full-stack-mode.webp",
+        "bytes": 114828
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__write-code-mode.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/write-code-mode.webp",
+        "bytes": 135866
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__model-picker.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/model-picker.webp",
+        "bytes": 56470
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__feature-announcement.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/feature-announcement.webp",
+        "bytes": 108604
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__glm-52-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/glm-52-home.webp",
+        "bytes": 86180
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__deep-think-menu.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/deep-think-menu.webp",
+        "bytes": 93120
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__category-pills.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/category-pills.webp",
+        "bytes": 102256
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__agent-home.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/agent-home.webp",
+        "bytes": 63506
+      },
+      {
+        "file": "z-ai__composer__z-ai__tool-switching__discord-connect.webp",
+        "src": "https://media.aiuxplayground.com/images/gallery/z-ai/tool-switching/discord-connect.webp",
+        "bytes": 32068
+      }
+    ]
+  }
+}

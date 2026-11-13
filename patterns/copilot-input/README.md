@@ -28,6 +28,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__composer__chatgpt__tool-switching__calm-default.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__calm-default.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__tools-modes.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__tools-modes.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__attachments.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__attachments.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__deep-research.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__deep-research.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__think-mode.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__think-mode.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__web-search.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__web-search.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__image-mode.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__image-mode.webp)
+
+![chatgpt__composer__chatgpt__tool-switching__image-aspect-ratio.webp](../../assets/screenshots/playground/chatgpt__composer__chatgpt__tool-switching__image-aspect-ratio.webp)
+
+<!-- playground-captures:end -->
+
+
 
 
 

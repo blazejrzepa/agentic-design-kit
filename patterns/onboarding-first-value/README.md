@@ -8,6 +8,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![ai-onboarding-first-value__manus__onboarding__first-home.webp](../../assets/screenshots/playground/ai-onboarding-first-value__manus__onboarding__first-home.webp)
+
+![ai-onboarding-first-value__manus__onboarding__pricing-upsell.webp](../../assets/screenshots/playground/ai-onboarding-first-value__manus__onboarding__pricing-upsell.webp)
+
+![ai-onboarding-first-value__manus__onboarding__role-picker.webp](../../assets/screenshots/playground/ai-onboarding-first-value__manus__onboarding__role-picker.webp)
+
+![ai-onboarding-first-value__lovable__onboarding__role-picker.webp](../../assets/screenshots/playground/ai-onboarding-first-value__lovable__onboarding__role-picker.webp)
+
+![ai-onboarding-first-value__lovable__onboarding__name-step.webp](../../assets/screenshots/playground/ai-onboarding-first-value__lovable__onboarding__name-step.webp)
+
+![ai-onboarding-first-value__lovable__onboarding__theme-picker.webp](../../assets/screenshots/playground/ai-onboarding-first-value__lovable__onboarding__theme-picker.webp)
+
+![lovable__onboarding__lovable__onboarding__theme-picker.webp](../../assets/screenshots/playground/lovable__onboarding__lovable__onboarding__theme-picker.webp)
+
+![lovable__onboarding__lovable__onboarding__name-step.webp](../../assets/screenshots/playground/lovable__onboarding__lovable__onboarding__name-step.webp)
+
+<!-- playground-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
 

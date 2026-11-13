@@ -34,6 +34,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__citations__chatgpt__citations__inline-citation-chips.webp](../../assets/screenshots/playground/chatgpt__citations__chatgpt__citations__inline-citation-chips.webp)
+
+![chatgpt__citations__chatgpt__citations__citation-popover.webp](../../assets/screenshots/playground/chatgpt__citations__chatgpt__citations__citation-popover.webp)
+
+![chatgpt__citations__chatgpt__citations__multi-source-nav.webp](../../assets/screenshots/playground/chatgpt__citations__chatgpt__citations__multi-source-nav.webp)
+
+![chatgpt__citations__chatgpt__citations__sources-sidebar.webp](../../assets/screenshots/playground/chatgpt__citations__chatgpt__citations__sources-sidebar.webp)
+
+![compare__trust-privacy-settings__chatgpt__citations__inline-citation-chips.webp](../../assets/screenshots/playground/compare__trust-privacy-settings__chatgpt__citations__inline-citation-chips.webp)
+
+![compare__trust-privacy-settings__perplexity__citations__inline-citation-chips.webp](../../assets/screenshots/playground/compare__trust-privacy-settings__perplexity__citations__inline-citation-chips.webp)
+
+![perplexity__citations__perplexity__citations__inline-citation-chips.webp](../../assets/screenshots/playground/perplexity__citations__perplexity__citations__inline-citation-chips.webp)
+
+![perplexity__citations__perplexity__citations__research-transparency.webp](../../assets/screenshots/playground/perplexity__citations__perplexity__citations__research-transparency.webp)
+
+<!-- playground-captures:end -->
+
+
 
 
 ## Source references (external)

@@ -8,6 +8,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__parts-list.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__parts-list.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__sourced-photo.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__sourced-photo.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__flow-card.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__flow-card.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__gear-table.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__gear-table.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__bill-splitter.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__bill-splitter.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__clarifying-form.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__clarifying-form.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__checklist-state.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__checklist-state.webp)
+
+![chatgpt__intelligent-ui__chatgpt__intelligent-ui__layout-controls.webp](../../assets/screenshots/playground/chatgpt__intelligent-ui__chatgpt__intelligent-ui__layout-controls.webp)
+
+<!-- playground-captures:end -->
+
 
 ## Source references (external)
 

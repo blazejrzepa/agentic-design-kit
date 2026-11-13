@@ -100,6 +100,15 @@ Examples already linked in pattern READMEs via `<!-- shapeof-captures -->` block
 | `personality` | 10 |
 | `inline-action` | 10 |
 
+## AI UX Playground — teardown galleries
+
+**514** captures from **56** teardown pages ([sitemap](https://aiuxplayground.com/sitemap.xml)).  
+Files: [`assets/screenshots/playground/`](assets/screenshots/playground/) · [`MANIFEST.md`](assets/screenshots/playground/MANIFEST.md).
+
+Example teardown: [Qwen composer](https://aiuxplayground.com/teardowns/qwen/composer) → `qwen__composer__qwen__tool-switching__*.webp`.
+
+Wired into kit READMEs via `<!-- playground-captures -->` (composer, citations, HITL, artifacts, onboarding, …).
+
 ## External product captures (SaaSFrame AI)
 
 **50+** real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — AI Chat · Prompt Input · Copilot · Generation State. Full index: [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Linked from **30+** pattern READMEs as **Source references**.

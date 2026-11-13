@@ -29,6 +29,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__personalization__chatgpt__personalization__personalization-hub.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__personalization-hub.webp)
+
+![chatgpt__personalization__chatgpt__personalization__style-tone-presets.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__style-tone-presets.webp)
+
+![chatgpt__personalization__chatgpt__personalization__instant-save-feedback.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__instant-save-feedback.webp)
+
+![chatgpt__personalization__chatgpt__personalization__characteristic-tuning.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__characteristic-tuning.webp)
+
+![chatgpt__personalization__chatgpt__personalization__about-you-profile.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__about-you-profile.webp)
+
+![chatgpt__personalization__chatgpt__personalization__memory-and-advanced.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__memory-and-advanced.webp)
+
+![chatgpt__personalization__chatgpt__personalization__saved-memories-list.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__saved-memories-list.webp)
+
+![chatgpt__personalization__chatgpt__personalization__memory-version-history.webp](../../assets/screenshots/playground/chatgpt__personalization__chatgpt__personalization__memory-version-history.webp)
+
+<!-- playground-captures:end -->
+
+
 
 ## Source references (external)
 

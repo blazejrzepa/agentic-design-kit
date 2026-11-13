@@ -8,6 +8,27 @@
 
 ---
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__welcome.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__welcome.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__asin-cards.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__asin-cards.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__added-to-cart.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__added-to-cart.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-history.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-history.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-alert-chips.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__price-alert-chips.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__alert-confirmed.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__alert-confirmed.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__enable-auto-buy.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__enable-auto-buy.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__auto-buy-confirmed.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__auto-buy-confirmed.webp)
+
+<!-- playground-captures:end -->
+
 
 ## Source references (external)
 

@@ -39,6 +39,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- playground-captures:start -->
+**AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
+
+![chatgpt__human-loop__chatgpt__human-loop__scope-clarification.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__scope-clarification.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__handoff-to-user.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__handoff-to-user.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-clarification.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-clarification.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-draft-card.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-draft-card.webp)
+
+![chatgpt__human-loop__chatgpt__human-loop__email-export-handoff.webp](../../assets/screenshots/playground/chatgpt__human-loop__chatgpt__human-loop__email-export-handoff.webp)
+
+![compare__human-in-the-loop__chatgpt__human-loop__scope-clarification.webp](../../assets/screenshots/playground/compare__human-in-the-loop__chatgpt__human-loop__scope-clarification.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__welcome.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__welcome.webp)
+
+![alexa-for-shopping__shopping__alexa-for-shopping__shopping__asin-cards.webp](../../assets/screenshots/playground/alexa-for-shopping__shopping__alexa-for-shopping__shopping__asin-cards.webp)
+
+<!-- playground-captures:end -->
+
+
 
 ## Source references (external)
 

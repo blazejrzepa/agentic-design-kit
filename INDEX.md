@@ -108,12 +108,12 @@
 
 | Source | Status |
 |--------|--------|
-| AI UX Playground | **160/160** in [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) — **0 catalog**; direct + composed |
+| AI UX Playground | **160/160** mapped · **514** teardown gallery captures in `assets/screenshots/playground/` |
 | Shape of AI | Wayfinders / tuners / governors / trust / identifiers folded into kit folders |
 | External AI (SDK · CopilotKit · SaaSFrame · AI Design Guide) | Mapped in [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) — **15** new runtime patterns |
 | Collect UI · Landbook · Lapa | Visual ref only (not agent patterns) — Part F in external taxonomy |
 | Kit folders | **152** under `patterns/` (core + runtime + Shape of AI stubs + extended) |
-| Screenshots | **570+** Shape of AI page captures (`assets/screenshots/shapeof/`) + kit mockups + SaaSFrame — see [`GALLERY.md`](GALLERY.md) · `shapeof/MANIFEST.md` |
+| Screenshots | Shape of AI (`shapeof/`) + **Playground teardowns** (`playground/`) + SaaSFrame + kit mockups — [`GALLERY.md`](GALLERY.md) |
 | README depth | All patterns include When / Purpose / Snippet (+ Do-Don't) |
 
 Extended IDs: `TAXONOMY-PLAYGROUND.md` · `TAXONOMY-EXTERNAL.md` · matching slug.
