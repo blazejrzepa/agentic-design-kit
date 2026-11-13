@@ -10,6 +10,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Lightdash empty chat + GitHub connect](../../assets/screenshots/external/saasframe/lightdash-ai-chat-feed.webp)
 ## Purpose
 
 Link the agent to external systems of record (Drive, Slack, Jira…). Make **scope, permission, freshness, and read vs write** explicit. Treat retrieved content as **untrusted** (prompt-injection).

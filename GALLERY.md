@@ -47,4 +47,35 @@ Visual index of `assets/screenshots/kit/`. Every pattern README links at least o
 | ![](assets/screenshots/kit/kit-auth-describe-analytics.jpg) | `kit-auth-describe-analytics.jpg` | auth / analytics pack |
 | ![](assets/screenshots/kit/kit-variants-theme-gesture.jpg) | `kit-variants-theme-gesture.jpg` | design variants pack |
 
-Agent tip: for visual QA open this file or the single pattern README — do not load all 42 binaries into context.
+## Agent runtime (external AI sources)
+
+| Preview | File | Patterns |
+|---------|------|----------|
+| ![](assets/screenshots/kit/kit-suggested-reply.jpg) | `kit-suggested-reply.jpg` | `suggested-reply` |
+| ![](assets/screenshots/kit/kit-copilot-surface.jpg) | `kit-copilot-surface.jpg` | `copilot-surface` |
+| ![](assets/screenshots/kit/kit-ghost-context.jpg) | `kit-ghost-context.jpg` | `ghost-text`, `context-chip` |
+| ![](assets/screenshots/kit/kit-generation-lifecycle.jpg) | `kit-generation-lifecycle.jpg` | `generation-lifecycle` |
+| ![](assets/screenshots/kit/kit-tool-render-states.jpg) | `kit-tool-render-states.jpg` | `tool-render-states` |
+| ![](assets/screenshots/kit/kit-scoped-approval.jpg) | `kit-scoped-approval.jpg` | `scoped-approval` |
+| ![](assets/screenshots/kit/kit-autonomy-steer.jpg) | `kit-autonomy-steer.jpg` | `autonomy-modes`, `steer-queue` |
+| ![](assets/screenshots/kit/kit-agent-inbox.jpg) | `kit-agent-inbox.jpg` | `agent-inbox`, `background-agent` |
+| ![](assets/screenshots/kit/kit-agent-takeover.jpg) | `kit-agent-takeover.jpg` | `agent-takeover` |
+| ![](assets/screenshots/kit/kit-deep-research-feed.jpg) | `kit-deep-research-feed.jpg` | `deep-research-feed` |
+| ![](assets/screenshots/kit/kit-best-of-n.jpg) | `kit-best-of-n.jpg` | `best-of-n` |
+| ![](assets/screenshots/kit/kit-project-instructions.jpg) | `kit-project-instructions.jpg` | `project-instructions` |
+
+## External product captures (SaaSFrame AI)
+
+Real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — linked from pattern READMEs as **Source references**. Index: [`assets/screenshots/external/saasframe/README.md`](assets/screenshots/external/saasframe/README.md).
+
+| Preview | File | Kit patterns |
+|---------|------|--------------|
+| ![](assets/screenshots/external/saasframe/front-ai-suggested-reply.webp) | `front-ai-suggested-reply.webp` | `suggested-reply`, `citations` |
+| ![](assets/screenshots/external/saasframe/lightdash-ai-analysis.webp) | `lightdash-ai-analysis.webp` | `dual-speed-layout`, `artifact-pane`, `follow-up` |
+| ![](assets/screenshots/external/saasframe/claude-new-chat.webp) | `claude-new-chat.webp` | `copilot-input`, `suggestions` |
+| ![](assets/screenshots/external/saasframe/dust-chat-interface.webp) | `dust-chat-interface.webp` | `context-chip`, `copilot-input` |
+| ![](assets/screenshots/external/saasframe/profound-loading-screen.webp) | `profound-loading-screen.webp` | `generation-lifecycle` |
+
+OG cards (AI Design Guide / AI SDK / CopilotKit): [`assets/screenshots/external/`](assets/screenshots/external/).
+
+Agent tip: for visual QA open this file or the single pattern README — do not load all binaries into context.

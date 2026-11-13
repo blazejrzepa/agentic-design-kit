@@ -8,6 +8,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Lightdash analysis artifact chart](../../assets/screenshots/external/saasframe/lightdash-ai-analysis.webp)
 ## Purpose
 
 Graduate a deliverable (doc, code, interactive UI, report) out of the message bubble into a **dedicated pane** users can edit, run, version, and ship — while chat remains the reasoning trail.

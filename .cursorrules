@@ -6,7 +6,7 @@ You are implementing UI from the Agentic Design Kit. Follow these rules strictly
 
 1. Always start at `INDEX.md`.
 2. Open only the matched `patterns/<id>/README.md`.
-3. If the user cites Shape of AI → `TAXONOMY.md`; Playground slug → `TAXONOMY-PLAYGROUND.md`; then implement the mapped kit pattern(s).
+3. If the user cites Shape of AI → `TAXONOMY.md`; Playground slug → `TAXONOMY-PLAYGROUND.md`; AI SDK / CopilotKit / SaaSFrame AI / AI Design Guide → `TAXONOMY-EXTERNAL.md`; then implement the mapped kit pattern(s).
 4. Use `tokens/tailwind.config.stub.js` for color, type, space, radius.
 5. Follow `AI-INSTRUCTIONS.md` for the full protocol.
 6. For visual QA, use `assets/screenshots/kit/` (not bulk `shapeof/` or `playground/`).

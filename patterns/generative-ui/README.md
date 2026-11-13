@@ -8,6 +8,11 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-generative-ui.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Glide AI analysis conversation](../../assets/screenshots/external/saasframe/glide-ai-business-analysis-conversation.webp)
+![SaaSFrame · EigenPal agent conversation](../../assets/screenshots/external/saasframe/eigenpal-test-an-ai-agent-conversation.webp)
 ## Purpose
 
 Render **interactive components** (tables, calculators, forms, charts) inside the answer — not only markdown. Prefer promoting rich UIs into `artifact-pane` when users will edit/reuse them.

@@ -1,0 +1,24 @@
+# External AI sources (priority order)
+
+## P0 — AI patterns / agent UI
+https://www.aidesign.guide/agentic-ux-patterns
+https://www.aidesign.guide/resources
+https://www.aidesign.guide/agents
+https://ai-sdk.dev/docs/introduction
+https://ai-sdk.dev/docs/ai-sdk-ui/overview
+https://ai-sdk.dev/docs/ai-sdk-ui/generative-user-interfaces
+https://ai-sdk.dev/docs/ai-sdk-ui/chatbot
+https://docs.copilotkit.ai/
+https://github.com/CopilotKit/CopilotKit
+https://github.com/CopilotKit/generative-ui
+https://www.saasframe.io/patterns
+https://www.saasframe.io/patterns/ai-chat
+https://www.saasframe.io/patterns/ai-copilot
+https://www.saasframe.io/patterns/ai-generation-state
+https://www.saasframe.io/patterns/prompt-input
+https://www.saasframe.io/patterns/citations-sources
+
+## P2 — visual inspiration only (not kit agent patterns)
+https://collectui.com/categories
+https://land-book.com/
+https://www.lapa.ninja/elements/

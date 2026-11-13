@@ -10,6 +10,11 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Voiceflow empty / onboarding](../../assets/screenshots/external/saasframe/voiceflow-playbooks-empty-state.webp)
+![SaaSFrame · Claude new chat first value](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
 ## Purpose
 
 Get a new user from entry → **first successful AI outcome** without a blank canvas or a blocking wizard that hides capability.

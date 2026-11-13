@@ -8,6 +8,11 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Claude model in composer](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
+![SaaSFrame · OpenAI Playground chat](../../assets/screenshots/external/saasframe/openai-playground-chat.webp)
 ## Purpose
 
 Let users choose **model tier**, **effort/depth**, and **mode** before send — without forcing raw model IDs as the only language. Show spend/latency tradeoffs at the moment of choice.

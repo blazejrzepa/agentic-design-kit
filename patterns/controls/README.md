@@ -7,6 +7,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Profound generation wait](../../assets/screenshots/external/saasframe/profound-loading-screen.webp)
 ## Purpose
 
 Keep the human in the driver’s seat during generation: **Stop**, **Pause/Resume**, **Queue** next tasks without canceling current work (Cursor / Replit pattern).

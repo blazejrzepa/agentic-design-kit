@@ -12,6 +12,16 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Lightdash chat + chart dual pane](../../assets/screenshots/external/saasframe/lightdash-ai-analysis.webp)
+
+### Source notes (SaaSFrame AI Chat · Lightdash)
+
+- Pair conversation with an inspectable artifact (chart) and state the analysis config (metric, filter, chart type).
+- Acknowledge unsupported parts of the request specifically (missing field ≠ silent omit).
+
 ## Purpose
 
 Split the agent workspace into two **time scales**:

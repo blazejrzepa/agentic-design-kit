@@ -11,6 +11,18 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Claude New Chat prompt input](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
+![SaaSFrame · Dust chat composer with @mention](../../assets/screenshots/external/saasframe/dust-chat-interface.webp)
+
+### Source notes (SaaSFrame Prompt Input / AI Chat)
+
+- Empty state must explain **scope** and available context (Lightdash names “AI Product Analyst”).
+- Expose attachments / model / assistant before send; preserve draft on failure.
+- Starters teach request shape; prefer editable fill over silent auto-submit for consequential actions.
+
 ## Purpose
 
 Floating, keyboard-first **intent bar** (and docked chat composer) for launching agent actions: natural language, fuzzy commands, `@` context, `/` slash, removable **scope chips**. Primary path is instant; secondary actions hide behind progressive disclosure (`+` / `⌘K`).

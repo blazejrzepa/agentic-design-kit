@@ -1,0 +1,18 @@
+# SaaSFrame patterns relevant to AI / agents
+ai-chat
+ai-copilot
+ai-generation-state
+prompt-input
+citations-sources
+chat-feed
+command-palette
+workflow-builder
+usage-indicator
+upgrade-prompt
+third-party-connection
+confirmation-dialog
+activity-log
+audit-log
+keyboard-shortcuts
+template
+empty-state

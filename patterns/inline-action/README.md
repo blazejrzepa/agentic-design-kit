@@ -9,6 +9,11 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · GraphCMS AI content generation](../../assets/screenshots/external/saasframe/graphcms-ai-content-generation-prompt.webp)
+![SaaSFrame · GraphCMS review generated content](../../assets/screenshots/external/saasframe/graphcms-review-ai-generated-content.webp)
 ## Purpose
 
 Target a selection (text, block, canvas node) with preset actions — shorten, expand, rewrite, tone, transform — without regenerating the whole document. Preview as a suggestion layer; commit only on Accept.

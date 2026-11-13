@@ -7,6 +7,15 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-follow-up-feedback.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Lightdash follow-ups beside chart](../../assets/screenshots/external/saasframe/lightdash-ai-analysis.webp)
+
+### Source notes (SaaSFrame · Lightdash)
+
+- Suggested follow-ups sit under the result; preserve relationship to the open artifact.
+
 ## Purpose
 
 Ask for missing info when the initial prompt is insufficient (Shape of AI Wayfinder).

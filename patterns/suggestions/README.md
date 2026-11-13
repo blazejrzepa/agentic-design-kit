@@ -10,6 +10,18 @@
 
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
+
+## Source references (external)
+
+![SaaSFrame · Claude starter categories](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
+![SaaSFrame · Tines AI starter prompts](../../assets/screenshots/external/saasframe/tines-ai-chat-starter-prompts.webp)
+![SaaSFrame · Unabyss empty chat](../../assets/screenshots/external/saasframe/unabyss-chat-empty-state.webp)
+
+### Source notes (SaaSFrame)
+
+- Starters belong to empty-state design; keep them representative of supported work.
+- Follow-ups after an answer should stay grounded in available data/result.
+
 ## Purpose
 
 3–6 ranked icebreakers that pre-fill or run a prompt. Forms: **static** (onboarding), **contextual** (page/doc), **adaptive** (user/team history).

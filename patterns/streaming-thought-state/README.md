@@ -11,6 +11,11 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Profound running prompts illustration](../../assets/screenshots/external/saasframe/profound-running-prompts.webp)
+![SaaSFrame · Rankfender analysis wait in task](../../assets/screenshots/external/saasframe/rankfender-select-topics.webp)
 ## Purpose
 
 Replace generic spinners with a **structured, streaming trace** of what the agent is doing: plan steps, tool calls, and optional reasoning. Builds trust, enables early cancel, and keeps layout stable while tokens arrive.

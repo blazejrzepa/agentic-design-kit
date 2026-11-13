@@ -9,6 +9,18 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Front sources on suggested reply](../../assets/screenshots/external/saasframe/front-ai-suggested-reply.webp)
+![SaaSFrame · Front collaborative source review](../../assets/screenshots/external/saasframe/front-collaborative-review-of-ai-reply.webp)
+
+### Source notes (SaaSFrame Citations)
+
+- Source list ≠ claim-level citation — name which you show.
+- Place evidence access next to the content under review (Front: Sources on the draft card).
+- Citations enable inspection; they do not auto-prove correctness.
+
 ## Purpose
 
 Ground claims in sources (PDF, web, DB, transcript). Support verify-in-place (hover quote) and explore (panel with metadata).

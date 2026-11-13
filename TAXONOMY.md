@@ -6,6 +6,7 @@
 |-----|------|
 | Shape of AI (this file, Part A) | below |
 | AI UX Playground **160 patterns 1:1** | [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) |
+| External AI sources (SDK · CopilotKit · SaaSFrame · AI Design Guide) | [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) |
 | Slug list / URLs | [`assets/references/`](assets/references/) |
 
 ---

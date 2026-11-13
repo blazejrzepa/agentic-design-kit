@@ -14,6 +14,10 @@
 
 ---
 
+
+## Source references (external)
+
+![SaaSFrame · Front Take over / Discard draft](../../assets/screenshots/external/saasframe/front-ai-suggested-reply.webp)
 ## Purpose
 
 Gate **irreversible, costly, or externally visible** agent actions. The card shows what will change (diff / args), why, and a **budget slider** for spend / blast-radius before the human issues a mandate: approve, edit, or reject.

@@ -1,7 +1,7 @@
 # Agentic Design Kit — Pattern Index
 
 > **Agent entrypoint.** Open only one `patterns/<id>/README.md`.  
-> Full maps: [`TAXONOMY.md`](TAXONOMY.md) (Shape of AI) · [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) (**160** Playground patterns)
+> Full maps: [`TAXONOMY.md`](TAXONOMY.md) (Shape of AI) · [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) (**160** Playground) · [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) (**AI SDK · CopilotKit · SaaSFrame · AI Design Guide**)
 
 **Tokens:** [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) · **Protocol:** [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) · **Rules:** [`.cursorrules`](.cursorrules)  
 **React:** [`packages/react`](packages/react) · **Demo:** `npm run demo`
@@ -58,6 +58,26 @@
 | `onboarding-first-value` | Role / wizard / point-of-work | [`patterns/onboarding-first-value/`](patterns/onboarding-first-value/) |
 | `memory-personalization` | Tone, memory, off-ramps | [`patterns/memory-personalization/`](patterns/memory-personalization/) |
 
+## Agent runtime & surfaces (external AI sources)
+
+| ID | Purpose | Path |
+|----|---------|------|
+| `copilot-surface` | Chat / sidebar / popup shell | [`patterns/copilot-surface/`](patterns/copilot-surface/) |
+| `context-chip` | What the agent can see | [`patterns/context-chip/`](patterns/context-chip/) |
+| `ghost-text` | Tab-accept inline suggestion | [`patterns/ghost-text/`](patterns/ghost-text/) |
+| `suggested-reply` | Draft beside live task | [`patterns/suggested-reply/`](patterns/suggested-reply/) |
+| `generation-lifecycle` | Queued → partial → complete | [`patterns/generation-lifecycle/`](patterns/generation-lifecycle/) |
+| `tool-render-states` | GenUI tool part phases | [`patterns/tool-render-states/`](patterns/tool-render-states/) |
+| `scoped-approval` | Yes / don’t-ask-again for scope | [`patterns/scoped-approval/`](patterns/scoped-approval/) |
+| `autonomy-modes` | Plan / ask / auto | [`patterns/autonomy-modes/`](patterns/autonomy-modes/) |
+| `steer-queue` | Queue or steer while running | [`patterns/steer-queue/`](patterns/steer-queue/) |
+| `agent-inbox` | Needs input / working / done | [`patterns/agent-inbox/`](patterns/agent-inbox/) |
+| `background-agent` | Cloud session + notify | [`patterns/background-agent/`](patterns/background-agent/) |
+| `agent-takeover` | Take control of agent browser | [`patterns/agent-takeover/`](patterns/agent-takeover/) |
+| `deep-research-feed` | Long research activity timeline | [`patterns/deep-research-feed/`](patterns/deep-research-feed/) |
+| `best-of-n` | Pick from parallel attempts | [`patterns/best-of-n/`](patterns/best-of-n/) |
+| `project-instructions` | Loaded AGENTS.md / CLAUDE.md | [`patterns/project-instructions/`](patterns/project-instructions/) |
+
 ---
 
 ## Quick routing
@@ -74,8 +94,13 @@
 | Can’t answer / escalate | `failure-disclosure` / `human-handoff` |
 | Voice listening | `voice-transcript` |
 | Share thread | `shared-session` |
+| Copilot sidebar / popup | `copilot-surface` |
+| Queue while running / Plan mode | `steer-queue` / `autonomy-modes` |
+| Cloud agent / agent inbox | `background-agent` / `agent-inbox` |
+| AI SDK tool UI / GenUI states | `tool-render-states` / `generative-ui` |
 | Any Playground slug | [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) |
 | Shape of AI name | [`TAXONOMY.md`](TAXONOMY.md) |
+| SaaSFrame / CopilotKit / AI SDK / AI Design Guide | [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) |
 
 ---
 
@@ -85,8 +110,10 @@
 |--------|--------|
 | AI UX Playground | **160/160** in [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) — **0 catalog**; direct + composed |
 | Shape of AI | Wayfinders / tuners / governors / trust / identifiers folded into kit folders |
-| Kit folders | **103** under `patterns/` (core tables above + extended catalog) |
-| Screenshots | **103/103** READMEs link a kit mockup — see [`GALLERY.md`](GALLERY.md) |
-| README depth | All patterns include When / When not / Anatomy / Do-Don't + snippet |
+| External AI (SDK · CopilotKit · SaaSFrame · AI Design Guide) | Mapped in [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) — **15** new runtime patterns |
+| Collect UI · Landbook · Lapa | Visual ref only (not agent patterns) — Part F in external taxonomy |
+| Kit folders | **118** under `patterns/` (core + runtime + extended catalog) |
+| Screenshots | **54** kit mockups + **20** SaaSFrame product captures in [`GALLERY.md`](GALLERY.md) / `assets/screenshots/external/saasframe/` — wired into 18 pattern READMEs |
+| README depth | All patterns include When / Purpose / Snippet (+ Do-Don't) |
 
-Extended IDs live as `patterns/<id>/README.md` — look up via `TAXONOMY-PLAYGROUND.md` or matching Playground slug.
+Extended IDs: `TAXONOMY-PLAYGROUND.md` · `TAXONOMY-EXTERNAL.md` · matching slug.

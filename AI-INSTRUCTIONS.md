@@ -23,7 +23,9 @@ When the user asks to **design, build, or refine** an AI UI element:
 7. For multi-surface jobs, check [`COMPOSITIONS.md`](COMPOSITIONS.md) before inventing a new stack.
 
 If the user names a **Shape of AI** pattern: open [`TAXONOMY.md`](TAXONOMY.md) Part A once.  
-If the user names an **AI UX Playground** slug/teardown: open [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) once (or Part B summary in `TAXONOMY.md`), map to kit ID(s), then implement.
+If the user names an **AI UX Playground** slug/teardown: open [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) once (or Part B summary in `TAXONOMY.md`), map to kit ID(s), then implement.  
+If the user names **AI SDK / CopilotKit / SaaSFrame AI / AI Design Guide / Agentic UX**: open [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) once, map to kit ID(s), then implement.  
+Collect UI / Landbook / Lapa Ninja → visual inspiration only (Part F); do not invent agent patterns from landing galleries.
 
 If no pattern fits: say so, propose the closest pattern, or ask before inventing a new folder under `patterns/`.
 
