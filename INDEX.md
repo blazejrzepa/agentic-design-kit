@@ -3,7 +3,8 @@
 > **Agent entrypoint.** Open only one `patterns/<id>/README.md`.  
 > Full maps: [`TAXONOMY.md`](TAXONOMY.md) (Shape of AI) · [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) (**160** Playground patterns)
 
-**Tokens:** [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) · **Protocol:** [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) · **Rules:** [`.cursorrules`](.cursorrules)
+**Tokens:** [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) · **Protocol:** [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) · **Rules:** [`.cursorrules`](.cursorrules)  
+**React:** [`packages/react`](packages/react) · **Demo:** `npm run demo`
 
 ---
 

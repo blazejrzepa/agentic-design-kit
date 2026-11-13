@@ -30,6 +30,17 @@ See [`INDEX.md`](INDEX.md) — **103** kit folders with README + React/Tailwind 
 - Kit mockups: [`assets/screenshots/kit/`](assets/screenshots/kit/)
 - External refs: [`shapeof/`](assets/screenshots/shapeof/) · [`playground/`](assets/screenshots/playground/)
 
+## Live demo (React)
+
+```bash
+npm install
+npm run demo
+```
+
+Opens Vite at `http://localhost:5173` — Dual-Speed + Thought + Clarify + Mandate + Copilot from `@agentic-design-kit/react`.
+
+Components: [`packages/react/src`](packages/react/src)
+
 ## Consume from another project
 
-Point host `AGENTS.md` / `.cursorrules` at this kit’s `INDEX.md`, then implement snippets with the shared Tailwind stub (merge tokens into the host config).
+See [`CONSUMING.md`](CONSUMING.md). Point host `AGENTS.md` at `INDEX.md`, merge `tokens/tailwind.config.stub.js`, optionally import `@agentic-design-kit/react`.

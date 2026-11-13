@@ -1,0 +1,54 @@
+:root {
+  --adk-canvas: #0c0d0f;
+  --adk-surface: #12141a;
+  --adk-surface-raised: #181b22;
+  --adk-surface-overlay: #1e222b;
+  --adk-hairline: rgba(255, 255, 255, 0.08);
+  --adk-hairline-strong: rgba(255, 255, 255, 0.14);
+  --adk-ink: #eceef2;
+  --adk-ink-muted: #9aa3b2;
+  --adk-ink-faint: #6b7380;
+  --adk-accent: #5b8cff;
+  --adk-accent-muted: rgba(91, 140, 255, 0.16);
+  --adk-accent-ink: #d7e4ff;
+  --adk-ok: #3ecf8e;
+  --adk-ok-muted: rgba(62, 207, 142, 0.14);
+  --adk-warn: #e6b84d;
+  --adk-warn-muted: rgba(230, 184, 77, 0.14);
+  --adk-danger: #f07178;
+  --adk-danger-muted: rgba(240, 113, 120, 0.14);
+  --adk-diff-add: rgba(62, 207, 142, 0.12);
+  --adk-diff-del: rgba(240, 113, 120, 0.12);
+  --adk-font-sans: ui-sans-serif, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+  --adk-font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+
+.adk-root {
+  color: var(--adk-ink);
+  font-family: var(--adk-font-sans);
+  font-size: 13px;
+  line-height: 18px;
+  background: var(--adk-canvas);
+}
+
+.adk-root * {
+  box-sizing: border-box;
+}
+
+.adk-root button,
+.adk-root input,
+.adk-root select {
+  font: inherit;
+  color: inherit;
+}
+
+.adk-root button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.adk-root kbd {
+  font-family: var(--adk-font-mono);
+  font-size: 10px;
+}

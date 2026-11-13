@@ -1,16 +1,32 @@
 {
   "name": "agentic-design-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "AI-optimized design system — centralized UI and AI-native UX patterns for agentic products.",
   "license": "UNLICENSED",
+  "workspaces": [
+    "packages/*",
+    "demo"
+  ],
+  "scripts": {
+    "demo": "npm run dev --workspace=agentic-design-kit-demo",
+    "demo:build": "npm run build --workspace=agentic-design-kit-demo",
+    "typecheck": "npm run build --workspace=agentic-design-kit-demo --if-present"
+  },
   "files": [
     "INDEX.md",
     "AI-INSTRUCTIONS.md",
+    "CONSUMING.md",
+    "COMPOSITIONS.md",
+    "GALLERY.md",
+    "TAXONOMY.md",
+    "TAXONOMY-PLAYGROUND.md",
     ".cursorrules",
     "tokens",
     "patterns",
-    "assets"
+    "assets",
+    "packages/react",
+    "host-templates"
   ],
   "keywords": [
     "design-system",

@@ -50,6 +50,22 @@ Optional Cursor rule file: copy kit `.cursorrules` lookup section into `.cursor/
 
 ---
 
-## 4. Verify
+## 4. React package (optional)
+
+```ts
+import {
+  DualSpeedLayout,
+  MandateApprovalCard,
+  StreamingThoughtState,
+  CopilotInput,
+} from "@agentic-design-kit/react";
+import "@agentic-design-kit/react/styles.css";
+```
+
+Path via workspace / submodule: `vendor/agentic-design-kit/packages/react`.
+
+Run the kit demo: `npm install && npm run demo` in the kit root.
+
+## 5. Verify
 
 Ask the host agent: “Build a HITL approval card for sending email” — it should open `INDEX.md` → `mandate-approval-card` only, not crawl the whole kit.
