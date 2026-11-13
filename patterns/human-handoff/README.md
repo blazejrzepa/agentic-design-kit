@@ -17,6 +17,18 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![intercom-setup-help-center.webp](../../assets/screenshots/external/saasframe/intercom-setup-help-center.webp)
+
+![intercom-setup-help-center-2.webp](../../assets/screenshots/external/saasframe/intercom-setup-help-center-2.webp)
+
+![intercom-setup-help-center-3.webp](../../assets/screenshots/external/saasframe/intercom-setup-help-center-3.webp)
+
+<!-- saasframe-expand:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
 
 

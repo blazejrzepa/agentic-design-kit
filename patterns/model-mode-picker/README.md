@@ -63,6 +63,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![hugging-face-model-details-and-inference-widget.webp](../../assets/screenshots/external/saasframe/hugging-face-model-details-and-inference-widget.webp)
+
+![hume-ai-text-to-speech-playground.webp](../../assets/screenshots/external/saasframe/hume-ai-text-to-speech-playground.webp)
+
+![hume-ai-voice-conversion-playground.webp](../../assets/screenshots/external/saasframe/hume-ai-voice-conversion-playground.webp)
+
+![openai-assistant-created.webp](../../assets/screenshots/external/saasframe/openai-assistant-created.webp)
+
+![openai-create-an-assistant-3628e.webp](../../assets/screenshots/external/saasframe/openai-create-an-assistant-3628e.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 
 

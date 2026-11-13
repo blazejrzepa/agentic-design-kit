@@ -113,7 +113,7 @@
 | External AI (SDK · CopilotKit · SaaSFrame · AI Design Guide) | Mapped in [`TAXONOMY-EXTERNAL.md`](TAXONOMY-EXTERNAL.md) — **74** AI Design Guide captures in `external/aidesign/` |
 | Collect UI · Landbook · Lapa | Visual ref only (not agent patterns) — Part F in external taxonomy |
 | Kit folders | **152** under `patterns/` (core + runtime + Shape of AI stubs + extended) |
-| Screenshots | Shape of AI + Playground teardowns + **AI Design Guide** + SaaSFrame + kit mockups — [`GALLERY.md`](GALLERY.md) |
+| Screenshots | Shape of AI + Playground + AI Design Guide + **SaaSFrame (~860)** + CopilotKit — [`GALLERY.md`](GALLERY.md) |
 | README depth | All patterns include When / Purpose / Snippet (+ Do-Don't) |
 
 Extended IDs: `TAXONOMY-PLAYGROUND.md` · `TAXONOMY-EXTERNAL.md` · matching slug.

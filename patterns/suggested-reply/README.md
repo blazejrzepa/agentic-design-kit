@@ -38,6 +38,14 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![front-ai-suggested-reply.webp](../../assets/screenshots/external/saasframe/front-ai-suggested-reply.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 
 ## Source references (external)

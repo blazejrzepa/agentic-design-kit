@@ -36,6 +36,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![assembly-empty-inbox.webp](../../assets/screenshots/external/saasframe/assembly-empty-inbox.webp)
+
+![cake-equity-empty-inbox.webp](../../assets/screenshots/external/saasframe/cake-equity-empty-inbox.webp)
+
+![claude-new-chat.webp](../../assets/screenshots/external/saasframe/claude-new-chat.webp)
+
+![eigenpal-agents-empty-state.webp](../../assets/screenshots/external/saasframe/eigenpal-agents-empty-state.webp)
+
+![eigenpal-api-keys-empty-state.webp](../../assets/screenshots/external/saasframe/eigenpal-api-keys-empty-state.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 

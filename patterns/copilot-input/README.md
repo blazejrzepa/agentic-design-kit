@@ -56,6 +56,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![claude-chat-feed.webp](../../assets/screenshots/external/saasframe/claude-chat-feed.webp)
+
+![composer-ai-page.webp](../../assets/screenshots/external/saasframe/composer-ai-page.webp)
+
+![dust-chat-interface.webp](../../assets/screenshots/external/saasframe/dust-chat-interface.webp)
+
+![dust-plans.webp](../../assets/screenshots/external/saasframe/dust-plans.webp)
+
+![dust-programmatic-usage.webp](../../assets/screenshots/external/saasframe/dust-programmatic-usage.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 
 

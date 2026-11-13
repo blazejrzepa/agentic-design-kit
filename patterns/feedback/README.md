@@ -6,6 +6,17 @@
 
 ---
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![graphcms-review-ai-generated-content.webp](../../assets/screenshots/external/saasframe/graphcms-review-ai-generated-content.webp)
+
+![graphcms-review-ai-generated-content-2.webp](../../assets/screenshots/external/saasframe/graphcms-review-ai-generated-content-2.webp)
+
+![graphcms-review-ai-generated-content-3.webp](../../assets/screenshots/external/saasframe/graphcms-review-ai-generated-content-3.webp)
+
+<!-- saasframe-expand:end -->
+
 <!-- shapeof-captures:start -->
 **Shape of AI captures** · [source](https://www.shapeof.ai/patterns/rating)
 

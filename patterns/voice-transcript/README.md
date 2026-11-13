@@ -36,6 +36,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![hume-ai-expression-measurement-billing.webp](../../assets/screenshots/external/saasframe/hume-ai-expression-measurement-billing.webp)
+
+![voiceflow-agent-test-run.webp](../../assets/screenshots/external/saasframe/voiceflow-agent-test-run.webp)
+
+![voiceflow-ai-agents-page.webp](../../assets/screenshots/external/saasframe/voiceflow-ai-agents-page.webp)
+
+![voiceflow-chat-widget-installation.webp](../../assets/screenshots/external/saasframe/voiceflow-chat-widget-installation.webp)
+
+![voiceflow-test-builder.webp](../../assets/screenshots/external/saasframe/voiceflow-test-builder.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 ![Kit mockup](../../assets/screenshots/kit/kit-voice-transcript.jpg)
 

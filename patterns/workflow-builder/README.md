@@ -5,6 +5,21 @@
 
 ---
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![cal-com-empty-workflow-dashboard.webp](../../assets/screenshots/external/saasframe/cal-com-empty-workflow-dashboard.webp)
+
+![eigenpal-workflows-empty-state.webp](../../assets/screenshots/external/saasframe/eigenpal-workflows-empty-state.webp)
+
+![tines-onboarding-workflow-runbook.webp](../../assets/screenshots/external/saasframe/tines-onboarding-workflow-runbook.webp)
+
+![tines-personal-workflow-library.webp](../../assets/screenshots/external/saasframe/tines-personal-workflow-library.webp)
+
+![tines-workflow-workspace.webp](../../assets/screenshots/external/saasframe/tines-workflow-workspace.webp)
+
+<!-- saasframe-expand:end -->
+
 <!-- shapeof-captures:start -->
 **Shape of AI captures** · [source](https://www.shapeof.ai/patterns/workflow)
 

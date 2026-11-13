@@ -27,6 +27,18 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![claude-recent-chats.webp](../../assets/screenshots/external/saasframe/claude-recent-chats.webp)
+
+![claude-recent-chats-2.webp](../../assets/screenshots/external/saasframe/claude-recent-chats-2.webp)
+
+![claude-recent-chats-3.webp](../../assets/screenshots/external/saasframe/claude-recent-chats-3.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 ## Source references (external)
 

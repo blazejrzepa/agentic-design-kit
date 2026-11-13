@@ -15,6 +15,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![claude-usage-settings.webp](../../assets/screenshots/external/saasframe/claude-usage-settings.webp)
+
+![eigenpal-credit-and-usage-analytics.webp](../../assets/screenshots/external/saasframe/eigenpal-credit-and-usage-analytics.webp)
+
+![eigenpal-generate-an-agent-from-instructions.webp](../../assets/screenshots/external/saasframe/eigenpal-generate-an-agent-from-instructions.webp)
+
+![front-ai-generated-support-reply-draft.webp](../../assets/screenshots/external/saasframe/front-ai-generated-support-reply-draft.webp)
+
+![openai-usage-cost.webp](../../assets/screenshots/external/saasframe/openai-usage-cost.webp)
+
+<!-- saasframe-expand:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-rate-limit.jpg)
 
 

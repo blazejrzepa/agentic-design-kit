@@ -54,6 +54,22 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![claude-chat-feed.webp](../../assets/screenshots/external/saasframe/claude-chat-feed.webp)
+
+![intercom-ai-chatbot-overview.webp](../../assets/screenshots/external/saasframe/intercom-ai-chatbot-overview.webp)
+
+![intercom-review-ai-chatbot.webp](../../assets/screenshots/external/saasframe/intercom-review-ai-chatbot.webp)
+
+![intercom-set-ai-chatbot-live.webp](../../assets/screenshots/external/saasframe/intercom-set-ai-chatbot-live.webp)
+
+![intercom-setup-ai-chatbot-fe006.webp](../../assets/screenshots/external/saasframe/intercom-setup-ai-chatbot-fe006.webp)
+
+<!-- saasframe-expand:end -->
+
+
 
 
 ## Source references (external)

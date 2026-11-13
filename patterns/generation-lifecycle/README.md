@@ -8,6 +8,21 @@
 
 ---
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![assembly-ai-generating.webp](../../assets/screenshots/external/saasframe/assembly-ai-generating.webp)
+
+![graphcms-ai-content-generation-prompt.webp](../../assets/screenshots/external/saasframe/graphcms-ai-content-generation-prompt.webp)
+
+![hume-ai-generating-new-voice.webp](../../assets/screenshots/external/saasframe/hume-ai-generating-new-voice.webp)
+
+![profound-loading-screen.webp](../../assets/screenshots/external/saasframe/profound-loading-screen.webp)
+
+![profound-running-prompts.webp](../../assets/screenshots/external/saasframe/profound-running-prompts.webp)
+
+<!-- saasframe-expand:end -->
+
 
 
 

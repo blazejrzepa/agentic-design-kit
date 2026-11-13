@@ -6,6 +6,15 @@
 
 ---
 
+<!-- copilotkit-captures:start -->
+**CopilotKit** · [docs.copilotkit.ai](https://docs.copilotkit.ai/)
+
+![gen-ui-specs-light.webp](../../assets/screenshots/external/copilotkit/gen-ui-specs-light.webp)
+
+![gen-ui-specs-dark.webp](../../assets/screenshots/external/copilotkit/gen-ui-specs-dark.webp)
+
+<!-- copilotkit-captures:end -->
+
 <!-- playground-captures:start -->
 **AI UX Playground teardowns** · [hub](https://aiuxplayground.com/teardowns)
 

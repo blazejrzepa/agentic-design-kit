@@ -116,6 +116,11 @@ Files: [`assets/screenshots/external/aidesign/`](assets/screenshots/external/aid
 
 Wired via `<!-- aidesign-captures -->` into kit patterns (composer, HITL, transparency, async agents, …).
 
+## SaaSFrame AI — expanded library
+
+**860** captures under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) (AI catalogs + collections).  
+See [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Additional CopilotKit refs in [`external/copilotkit/`](assets/screenshots/external/copilotkit/).
+
 ## External product captures (SaaSFrame AI)
 
 **50+** real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — AI Chat · Prompt Input · Copilot · Generation State. Full index: [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Linked from **30+** pattern READMEs as **Source references**.

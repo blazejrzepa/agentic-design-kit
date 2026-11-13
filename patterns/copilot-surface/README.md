@@ -17,6 +17,32 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- saasframe-expand:start -->
+**SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
+
+![claude-chat-feed.webp](../../assets/screenshots/external/saasframe/claude-chat-feed.webp)
+
+![intercom-ai-chatbot-overview.webp](../../assets/screenshots/external/saasframe/intercom-ai-chatbot-overview.webp)
+
+![intercom-review-ai-chatbot.webp](../../assets/screenshots/external/saasframe/intercom-review-ai-chatbot.webp)
+
+![intercom-set-ai-chatbot-live.webp](../../assets/screenshots/external/saasframe/intercom-set-ai-chatbot-live.webp)
+
+![intercom-setup-ai-chatbot-fe006.webp](../../assets/screenshots/external/saasframe/intercom-setup-ai-chatbot-fe006.webp)
+
+<!-- saasframe-expand:end -->
+
+<!-- copilotkit-captures:start -->
+**CopilotKit** · [docs.copilotkit.ai](https://docs.copilotkit.ai/)
+
+![github-og.png](../../assets/screenshots/external/copilotkit/github-og.png)
+
+![coagents-highlevel-overview.png](../../assets/screenshots/external/copilotkit/coagents-highlevel-overview.png)
+
+<!-- copilotkit-captures:end -->
+
+
+
 
 ## Source references (external)
 
