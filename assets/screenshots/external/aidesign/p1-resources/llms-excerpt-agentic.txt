@@ -1,0 +1,61 @@
+# AI Design Guide
+
+> Practical guides, tool reviews, prompts and templates for product designers and design system teams running AI agents on real design work. Written by Romina Kavčič, a freelance (fractional) design system lead with 18+ years in product design and UX. Every guide comes from her own client and product work.
+
+Access: pages marked "public" are open to everyone. "free account" pages need a free sign-up at https://www.aidesign.guide/signup. "members" pages are part of the paid Pro or Master plans (https://www.aidesign.guide/pricing).
+
+Agent-readable summary of the site, access rules and how to cite it: https://www.aidesign.guide/agents
+
+## About the author
+
+- Romina Kavčič: freelance (fractional) design system lead. She consults companies like Lebara, Bosch, Siemens Energy and TÜV SÜD, among others. [LinkedIn](https://www.linkedin.com/in/rominakavcic/), [X](https://x.com/rominakavcic), [The Design System Guide](https://thedesignsystem.guide/)
+- Work with her: [services](https://romina.design/services)
+
+## Original data
+
+- [Design Systems Directory](https://www.aidesign.guide/design-systems) (public): 185 design systems, component libraries and UI toolkits with tech stack, features, component counts, GitHub activity and industry. Refreshed weekly.
+- [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns) (free account): 39 interaction patterns from AI agents in web, mobile and terminal products, each with real screenshots and a note on what it means for a design system. Updated 2026-10-11.
+- [Tool comparisons](https://www.aidesign.guide/compare) (public): 40 side-by-side comparisons of AI and design system tools.
+- [AI Design Dictionary](https://www.aidesign.guide/dictionary) (public): 34 terms, techniques and styles for describing design to AI.
+
+## Start here
+
+- [What is an agentic design system](https://www.aidesign.guide/guides/what-is-an-agentic-design-system) (public)
+- [Agentic design workflows](https://www.aidesign.guide/guides/agentic-design-workflows) (public)
+- [Semantic tokens as prompt engineering](https://www.aidesign.guide/guides/semantic-tokens-as-prompt-engineering) (public)
+- [What is a contextual interface](https://www.aidesign.guide/guides/what-is-a-contextual-interface) (public)
+- [All guides](https://www.aidesign.guide/guides), [All tools](https://www.aidesign.guide/tools), [Pricing](https://www.aidesign.guide/pricing)
+
+## Guides (93)
+
+- [5 GitHub Actions Every Designer Should Automate](https://www.aidesign.guide/guides/5-github-actions-every-designer-should-automate) (members): You do not need to become a DevOps person. Five small workflows that catch broken tokens, build your docs site, lint your code, and turn random scripts into one-click tools.
+- [Advanced Claude Code for Designers (Module 7)](https://www.aidesign.guide/guides/advanced-claude-code-for-designers) (members): The Power User module. Ten lessons that take you from basic Claude Code use to a fully orchestrated design-system workflow: CLAUDE.md, workspace organization, skills, parallelization, auto research, browser automation, security, context management, cloud sessions, and diversification.
+- [Agentic Design Workflows: What They Are and How to Start](https://www.aidesign.guide/guides/agentic-design-workflows) (public): A practical definition of agentic design workflows: what changes when AI agents run real design work under your system, the three parts every workflow needs, and the first one worth building.
+- [AI Anti-Patterns Gallery: 10 Reasons Your AI Website Looks Generic](https://www.aidesign.guide/guides/ai-anti-patterns-gallery) (free account): A visual gallery of the 10 most common AI-generated design clichés, why they happen, and the specific rule you can add to your project rules to prevent each one.
+- [AI for Designers 101](https://www.aidesign.guide/guides/ai-for-designers-101) (free account): What AI tools are, how they differ, which ones matter for designers, and a practical first-week plan for getting started without the hype.
+- [Audit 500 Components in 10 Minutes](https://www.aidesign.guide/guides/component-audit-workflow) (members): A complete workflow for auditing your entire Figma component library using Tidy and Claude. Identifies naming issues, missing descriptions, and inconsistencies.
+- [Audit a Design System in 30 Minutes](https://www.aidesign.guide/guides/design-system-audit-30-minutes) (members): A step-by-step workflow to audit any design system using AI tools. Check token naming, component health, accessibility, and visual consistency in one session.
+- [Automate Browser Testing Without Writing Code](https://www.aidesign.guide/guides/playwright-for-designers) (members): Screenshot your whole design system, catch visual bugs before they ship, and audit every page automatically, using Playwright without touching a test file.
+- [Automate Component Screenshots with Playwright](https://www.aidesign.guide/guides/playwright-visual-testing) (members): Screenshot every component automatically. Catch visual bugs before they ship, without clicking through pages manually.
+- [Automate Design Token Publishing with GitHub Actions](https://www.aidesign.guide/guides/github-actions-token-sync) (members): Auto-publish your design tokens on every push. No more manual exports, no more out-of-sync code.
+- [Automate the Boring Parts of Your Design System](https://www.aidesign.guide/guides/github-actions-for-design-systems) (members): Most design system problems are not caused by lack of intention. They are caused by inconsistent execution. GitHub Actions fix that by running the boring parts every single time.
+- [Browser Automation for Design QA](https://www.aidesign.guide/guides/browser-automation-for-design-qa) (members): Delegate the mechanical parts of design QA to an AI agent that drives a real browser. Token usage, contrast, dark mode, responsive, and focus state checks that run on every PR without you clicking through every page.
+- [Build a Component Audit Skill for Claude Code](https://www.aidesign.guide/guides/component-audit-skill) (members): A Claude Code skill that audits every component in your library. Checks docs, props, accessibility, and token usage in one slash command.
+- [Build a Design System Pitch Deck with AI](https://www.aidesign.guide/guides/ds-pitch-deck-with-ai) (members): Use Claude to generate a compelling pitch deck that gets leadership buy-in for your design system investment.
+- [Build a Token Naming Audit Skill for Claude Code](https://www.aidesign.guide/guides/token-naming-skill) (members): A reusable Claude Code skill that checks every token in your design system against your naming convention. One slash command, instant audit.
+- [Build a Token Parity Check Skill for Claude Code](https://www.aidesign.guide/guides/token-parity-check-skill) (members): A Claude Code skill that compares your tokens between Figma and code. Catches drift before it ships, with one slash command.
+- [Build a Token Pipeline with Style Dictionary](https://www.aidesign.guide/guides/style-dictionary-pipeline) (members): Transform design tokens from JSON to CSS, iOS, Android in one command. One source of truth, every platform covered.
+- [Build Free Design System Docs with Astro Starlight](https://www.aidesign.guide/guides/astro-starlight-design-system-docs) (members): Mintlify is $120 a month. Supernova is enterprise pricing. Astro Starlight is free, fast, and good enough for most design system teams. Here is the full setup, the styling, the Figma embeds, and the AI-assisted automation.
+- [Build Your Design Team's Operating System in a Repo](https://www.aidesign.guide/guides/design-team-operating-system-in-a-repo) (members): Your team's operating knowledge (how you name tokens, review work, and decide what good is) lives in people's heads. Put it in a repo of skills and playbooks and your least AI-fluent teammate works like your best one, while agents execute against the same source. This guide builds it, with the maturity ladder and review model that keep it honest.
+- [Build Your Own MCP Server for Your Design System](https://www.aidesign.guide/guides/build-mcp-server-for-your-design-system) (members): Stop pasting token tables into prompts. In about 100 lines of TypeScript, give every AI tool on your team live, queryable access to your tokens and components, and a lint tool that maps raw values back to the system.
+- [Build Your Own Taste Skill: Turn Your Design Preferences Into Reusable AI Rules](https://www.aidesign.guide/guides/build-your-own-taste-skill) (members): A hands-on workshop to convert your personal design taste into a /taste-skill command. By the end, Claude will generate UI that looks like yours, not like everyone else's.
+- [Building the Agentic Operating Model (Part 5)](https://www.aidesign.guide/guides/building-the-agentic-operating-model) (members): Part 5 and the capstone of the Agentic Design Systems series. Tools and loops are not an operating model. This is how the people, the process, and the governance fit together so a team of humans and a fleet of agents can run a design system sustainably, without the whole thing depending on the one person who understands the agents.
+- [Claude Code: App vs Extension vs Terminal (Which One to Use When)](https://www.aidesign.guide/guides/claude-code-app-vs-extension-vs-terminal) (members): Claude Code comes in three flavors: a web/desktop app, a VS Code or Cursor extension, and a terminal CLI. Each one is designed for a different moment in your day. Here is which to pick.
+- [Claude Fable 5 for Designers: What Actually Changes](https://www.aidesign.guide/guides/fable-5-for-designers) (free account): Fable 5 reads screenshots better, runs longer, and dispatches parallel agents on its own. Here is what that means for design reviews, audits, and your existing skills, and the three settings to change on day one.
+- [Claude Opus 5.5 for Designers: What Changed in My Daily Work](https://www.aidesign.guide/guides/opus-5-5-for-designers) (members): Opus 5.5 is faster, reads design intent better, and builds in Figma through Tidy MCP in about half the time it used to take me. Here is what I noticed, what I switched to it for, and where Fable 5 still wins.
+- [Claude Sessions, Offline and Online: Keep Working Even If You Lose Your Laptop](https://www.aidesign.guide/guides/claude-sessions-offline-and-online) (free account): Set up Claude so your work lives in two places at once: locally on your machine and in the cloud. Pick up the same project from your phone, a borrowed laptop, or a fresh install, with nothing lost.
+- [Claude Skills vs Cowork: What's the Difference?](https://www.aidesign.guide/guides/claude-skills-vs-cowork) (members): Skills teach Claude how to do design work. Cowork runs Claude on more work at once. Here's when to reach for each, with five copy-paste skills designers actually use.
+- [CLAUDE.md + tools.md: The Two Files Every AI Project Needs](https://www.aidesign.guide/guides/claude-md-tools-md-ai-project-files) (members): Why AI coding tools need both a project rules file and a tools file, what belongs in each one, and how to connect them so agents stop guessing your stack.
+- [CLAUDE.md: Teaching Claude Your Design System](https://www.aidesign.guide/guides/claude-md-for-design-systems) (members): The single highest-leverage file in your repo. Compress your design system into a CLAUDE.md so Claude Code stops hallucinating tokens, inventing components, and forgetting your conventions every session. Includes a fill-in template and a before/after that you can run yourself.
+- [Codex Skills vs Plugins: What Designers Actually Need](https://www.aidesign.guide/guides/codex-skills-vs-plugins) (members): Skills teach Codex how to run your workflow. Plugins connect Codex to tools and package reusable setups. Here is the practical designer version, with examples for design QA, docs, inbox triage, and design-system audits.
+- [Codex Subagents for Design Review](https://www.aidesign.guide/guides/c

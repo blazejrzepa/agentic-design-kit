@@ -1,0 +1,176 @@
+{
+  "gated": [
+    {
+      "url": "https://www.aidesign.guide/guides/ai-anti-patterns-gallery",
+      "title": "Log in | The AI Design Guide",
+      "access": "free account / login"
+    }
+  ],
+  "public_pages": {
+    "https://www.aidesign.guide/guides/what-is-an-agentic-design-system": {
+      "images": [
+        {
+          "file": "what-is-an-agentic-design-system__what-is-an-agentic-design-system.png",
+          "src": "https://www.aidesign.guide/images/guides/featured/what-is-an-agentic-design-system.png"
+        },
+        {
+          "file": "what-is-an-agentic-design-system__what-is-an-agentic-design-system.png",
+          "src": "https://www.aidesign.guide/images/social/pages/guides/what-is-an-agentic-design-system.png"
+        },
+        {
+          "file": "what-is-an-agentic-design-system__agent-examples.png",
+          "src": "https://www.aidesign.guide/images/unordered/agent-examples.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/guides/agentic-design-workflows": {
+      "images": [
+        {
+          "file": "agentic-design-workflows__agentic-design-workflows.png",
+          "src": "https://www.aidesign.guide/images/social/pages/guides/agentic-design-workflows.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/guides/semantic-tokens-as-prompt-engineering": {
+      "images": [
+        {
+          "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-delete-button-runs.png",
+          "src": "https://www.aidesign.guide/images/guides/semantic-tokens-delete-button-runs.png"
+        },
+        {
+          "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-labeling-experiment.png",
+          "src": "https://www.aidesign.guide/images/guides/semantic-tokens-labeling-experiment.png"
+        },
+        {
+          "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-as-prompt-engineering.png",
+          "src": "https://www.aidesign.guide/images/social/pages/guides/semantic-tokens-as-prompt-engineering.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/guides/what-is-a-contextual-interface": {
+      "images": [
+        {
+          "file": "what-is-a-contextual-interface__what-is-a-contextual-interface.png",
+          "src": "https://www.aidesign.guide/images/social/pages/guides/what-is-a-contextual-interface.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/dictionary/trust-levels": {
+      "images": [
+        {
+          "file": "trust-levels__trust-levels.png",
+          "src": "https://www.aidesign.guide/images/social/pages/dictionary/trust-levels.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/tools/trust-levels-playground": {
+      "images": [
+        {
+          "file": "trust-levels-playground__trust-levels-playground.png",
+          "src": "https://www.aidesign.guide/images/social/pages/tools/trust-levels-playground.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/resources": {
+      "images": [
+        {
+          "file": "resources__resources.png",
+          "src": "https://www.aidesign.guide/images/social/pages/resources.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/agents": {
+      "images": [
+        {
+          "file": "agents__agents.png",
+          "src": "https://www.aidesign.guide/images/social/pages/agents.png"
+        }
+      ]
+    },
+    "https://www.aidesign.guide/guides/paths/agentic-design-systems": {
+      "images": [
+        {
+          "file": "agentic-design-systems__agentic-design-systems.png",
+          "src": "https://www.aidesign.guide/images/social/pages/guides/paths/agentic-design-systems.png"
+        }
+      ]
+    }
+  },
+  "files": [
+    {
+      "file": "anti-patterns__ai-anti-patterns-gallery.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/ai-anti-patterns-gallery.png",
+      "kind": "anti-patterns-probe"
+    },
+    {
+      "file": "anti-patterns__ai-anti-patterns-gallery.png",
+      "src": "https://www.aidesign.guide/images/guides/ai-anti-patterns-gallery.png",
+      "kind": "anti-patterns-probe"
+    },
+    {
+      "file": "what-is-an-agentic-design-system__what-is-an-agentic-design-system.png",
+      "src": "https://www.aidesign.guide/images/guides/featured/what-is-an-agentic-design-system.png",
+      "page": "https://www.aidesign.guide/guides/what-is-an-agentic-design-system"
+    },
+    {
+      "file": "what-is-an-agentic-design-system__what-is-an-agentic-design-system.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/what-is-an-agentic-design-system.png",
+      "page": "https://www.aidesign.guide/guides/what-is-an-agentic-design-system"
+    },
+    {
+      "file": "what-is-an-agentic-design-system__agent-examples.png",
+      "src": "https://www.aidesign.guide/images/unordered/agent-examples.png",
+      "page": "https://www.aidesign.guide/guides/what-is-an-agentic-design-system"
+    },
+    {
+      "file": "agentic-design-workflows__agentic-design-workflows.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/agentic-design-workflows.png",
+      "page": "https://www.aidesign.guide/guides/agentic-design-workflows"
+    },
+    {
+      "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-delete-button-runs.png",
+      "src": "https://www.aidesign.guide/images/guides/semantic-tokens-delete-button-runs.png",
+      "page": "https://www.aidesign.guide/guides/semantic-tokens-as-prompt-engineering"
+    },
+    {
+      "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-labeling-experiment.png",
+      "src": "https://www.aidesign.guide/images/guides/semantic-tokens-labeling-experiment.png",
+      "page": "https://www.aidesign.guide/guides/semantic-tokens-as-prompt-engineering"
+    },
+    {
+      "file": "semantic-tokens-as-prompt-engineering__semantic-tokens-as-prompt-engineering.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/semantic-tokens-as-prompt-engineering.png",
+      "page": "https://www.aidesign.guide/guides/semantic-tokens-as-prompt-engineering"
+    },
+    {
+      "file": "what-is-a-contextual-interface__what-is-a-contextual-interface.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/what-is-a-contextual-interface.png",
+      "page": "https://www.aidesign.guide/guides/what-is-a-contextual-interface"
+    },
+    {
+      "file": "trust-levels__trust-levels.png",
+      "src": "https://www.aidesign.guide/images/social/pages/dictionary/trust-levels.png",
+      "page": "https://www.aidesign.guide/dictionary/trust-levels"
+    },
+    {
+      "file": "trust-levels-playground__trust-levels-playground.png",
+      "src": "https://www.aidesign.guide/images/social/pages/tools/trust-levels-playground.png",
+      "page": "https://www.aidesign.guide/tools/trust-levels-playground"
+    },
+    {
+      "file": "resources__resources.png",
+      "src": "https://www.aidesign.guide/images/social/pages/resources.png",
+      "page": "https://www.aidesign.guide/resources"
+    },
+    {
+      "file": "agents__agents.png",
+      "src": "https://www.aidesign.guide/images/social/pages/agents.png",
+      "page": "https://www.aidesign.guide/agents"
+    },
+    {
+      "file": "agentic-design-systems__agentic-design-systems.png",
+      "src": "https://www.aidesign.guide/images/social/pages/guides/paths/agentic-design-systems.png",
+      "page": "https://www.aidesign.guide/guides/paths/agentic-design-systems"
+    }
+  ]
+}

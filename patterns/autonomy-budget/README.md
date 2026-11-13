@@ -7,6 +7,13 @@
 
 ---
 
+<!-- aidesign-p1:start -->
+**AI Design Guide · P1 resources** · [resources](https://www.aidesign.guide/resources) · anti-patterns gallery is login-gated
+
+![trust-levels__trust-levels.png](../../assets/screenshots/external/aidesign/p1-resources/trust-levels__trust-levels.png)
+
+<!-- aidesign-p1:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-autonomy-budget.jpg)
 
 

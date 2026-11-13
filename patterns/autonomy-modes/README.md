@@ -8,6 +8,15 @@
 
 ---
 
+<!-- aidesign-p1:start -->
+**AI Design Guide · P1 resources** · [resources](https://www.aidesign.guide/resources) · anti-patterns gallery is login-gated
+
+![trust-levels__trust-levels.png](../../assets/screenshots/external/aidesign/p1-resources/trust-levels__trust-levels.png)
+
+![trust-levels-playground__trust-levels-playground.png](../../assets/screenshots/external/aidesign/p1-resources/trust-levels-playground__trust-levels-playground.png)
+
+<!-- aidesign-p1:end -->
+
 
 ## Source references (external)
 

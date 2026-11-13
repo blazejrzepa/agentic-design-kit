@@ -199,14 +199,17 @@ Non-AI SaaSFrame patterns (Modal, Table, Pricing…) stay **out of kit** unless 
 
 Source: [aidesign.guide/resources](https://www.aidesign.guide/resources) · [agents](https://www.aidesign.guide/agents)
 
-| Resource | Kit use |
-|----------|---------|
-| Agentic UX Patterns (39) | Part A above |
-| Five Patterns for Agentic UI | → `scoped-approval`, `streaming-thought-state`, `project-instructions`, `copilot-input`, `failure-disclosure` |
-| Trust Levels (Observer→Autonomous) | → `autonomy-modes` · `autonomy-budget` |
-| AI Anti-Patterns Gallery | Reinforces kit visual doctrine (no purple AI chrome) |
-| Agentic Design System Defaults / CLAUDE.md packs | Host wiring via `CONSUMING.md` · `project-instructions` |
-| Design inspiration bookmarks | Part F only |
+| Resource | Access | Kit use |
+|----------|--------|---------|
+| Agentic UX Patterns (39) | Public page + captures | Part A · `external/aidesign/` |
+| Five Patterns for Agentic UI | Varies | → `scoped-approval`, `streaming-thought-state`, `project-instructions`, `copilot-input`, `failure-disclosure` |
+| Trust Levels (Observer→Autonomous) | Public dictionary + playground | → `autonomy-modes` · `autonomy-budget` · `p1-resources/` |
+| **AI Anti-Patterns Gallery** | **Free account (login wall)** | Doctrine only — see `.cursorrules` / `AI-INSTRUCTIONS.md`; OG in `external/aidesign/p1-resources/` |
+| Agentic design system / workflows guides | Public | `p1-resources/` heroes + figures |
+| Agentic Design System Defaults / CLAUDE.md packs | Members / packs | Host wiring via `CONSUMING.md` · `project-instructions` |
+| Design inspiration bookmarks | — | Part F only |
+
+**P1 visuals:** [`assets/screenshots/external/aidesign/p1-resources/`](assets/screenshots/external/aidesign/p1-resources/) · `MANIFEST` via `manifest.json`.
 
 ---
 

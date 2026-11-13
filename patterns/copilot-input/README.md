@@ -56,6 +56,14 @@
 
 <!-- aidesign-captures:end -->
 
+<!-- aidesign-p1:start -->
+**AI Design Guide · P1 resources** · [resources](https://www.aidesign.guide/resources) · anti-patterns gallery is login-gated
+
+![what-is-a-contextual-interface__what-is-a-contextual-interface.png](../../assets/screenshots/external/aidesign/p1-resources/what-is-a-contextual-interface__what-is-a-contextual-interface.png)
+
+<!-- aidesign-p1:end -->
+
+
 <!-- saasframe-expand:start -->
 **SaaSFrame AI captures** (expanded) · [saasframe.io](https://www.saasframe.io/patterns)
 

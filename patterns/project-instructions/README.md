@@ -8,6 +8,13 @@
 
 ---
 
+<!-- aidesign-p1:start -->
+**AI Design Guide · P1 resources** · [resources](https://www.aidesign.guide/resources) · anti-patterns gallery is login-gated
+
+![semantic-tokens-as-prompt-engineering__semantic-tokens-as-prompt-engineering.png](../../assets/screenshots/external/aidesign/p1-resources/semantic-tokens-as-prompt-engineering__semantic-tokens-as-prompt-engineering.png)
+
+<!-- aidesign-p1:end -->
+
 
 ## Source references (external)
 

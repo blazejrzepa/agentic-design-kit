@@ -7,3 +7,5 @@ Real product captures from [Agentic UX Patterns](https://www.aidesign.guide/agen
 - Kit READMEs embed via `<!-- aidesign-captures -->`
 
 Do not load the whole folder into agent context.
+
+Also: [`p1-resources/`](p1-resources/) — Part E public guides + anti-patterns access notes.

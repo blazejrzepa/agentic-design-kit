@@ -7,6 +7,13 @@
 
 ---
 
+<!-- aidesign-p1:start -->
+**AI Design Guide · P1 resources** · [resources](https://www.aidesign.guide/resources) · anti-patterns gallery is login-gated
+
+![what-is-an-agentic-design-system__agent-examples.png](../../assets/screenshots/external/aidesign/p1-resources/what-is-an-agentic-design-system__agent-examples.png)
+
+<!-- aidesign-p1:end -->
+
 <!-- shapeof-captures:start -->
 **Shape of AI captures** · [source](https://www.shapeof.ai/patterns/disclosure)
 

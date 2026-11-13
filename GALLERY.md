@@ -109,6 +109,11 @@ Example teardown: [Qwen composer](https://aiuxplayground.com/teardowns/qwen/comp
 
 Wired into kit READMEs via `<!-- playground-captures -->` (composer, citations, HITL, artifacts, onboarding, …).
 
+## AI Design Guide — P1 resources / anti-patterns
+
+Public guide OGs + figures in [`assets/screenshots/external/aidesign/p1-resources/`](assets/screenshots/external/aidesign/p1-resources/).  
+**Anti-Patterns Gallery** itself is login-gated — kit doctrine already encodes the bans; drop account exports into that folder when available.
+
 ## AI Design Guide — Agentic UX Patterns
 
 **73** captures from [aidesign.guide/agentic-ux-patterns](https://www.aidesign.guide/agentic-ux-patterns).  
