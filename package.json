@@ -1,0 +1,23 @@
+{
+  "name": "agentic-design-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-optimized design system — centralized UI and AI-native UX patterns for agentic products.",
+  "license": "UNLICENSED",
+  "files": [
+    "INDEX.md",
+    "AI-INSTRUCTIONS.md",
+    ".cursorrules",
+    "tokens",
+    "patterns",
+    "assets"
+  ],
+  "keywords": [
+    "design-system",
+    "ai-ux",
+    "agentic",
+    "patterns",
+    "react",
+    "tailwind"
+  ]
+}

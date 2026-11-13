@@ -1,0 +1,40 @@
+# Agentic Design Kit — Cursor Rules
+
+You are implementing UI from the Agentic Design Kit. Follow these rules strictly.
+
+## Lookup
+
+1. Always start at `INDEX.md`.
+2. Open only the matched `patterns/<id>/README.md`.
+3. Use `tokens/tailwind.config.stub.js` for color, type, space, radius.
+4. Follow `AI-INSTRUCTIONS.md` for the full protocol.
+
+## Visual doctrine (Linear / Raycast density)
+
+- **Dense by default:** tight vertical rhythm, compact rows (28–36px), small type scale, high information per pixel.
+- **No soft SaaS chrome:** avoid large empty cards, airy hero padding, decorative blobs, glow stacks, emoji as UI.
+- **No generic AI look:** ban purple-on-white gradients, glassmorphism for its own sake, oversized rounded-full pills as primary chrome.
+- **Keyboard first:** every primary action has a shortcut; show shortcut badges; `↵` = primary, `⌘K` / secondary panel = progressive disclosure.
+- **One composition:** panels and bars are structural, not nested card-in-card.
+- **Surfaces:** use subtle borders + slight elevation; prefer hairlines over drop shadows.
+- **Typography:** monospace for diffs, IDs, tool args; sans for UI chrome; never default Inter/Roboto marketing stacks in kit demos — use the token font stack.
+- **Motion:** short, purposeful (120–200ms); stream text and step reveals — no bounce-heavy loaders.
+- **Status over decoration:** prefer live counters, step indices, budgets, diffs over illustrations.
+
+## AI-native UX
+
+- Never represent agent work with a lone spinner — use Streaming Thought State.
+- Never execute irreversible / costly tools without Mandate Approval Card (or an explicit user mandate).
+- Prefer Dual-Speed Layout for agent workspaces (chat ≠ execution canvas).
+- Copilot Input is the default intent entry for agent launchers and global commands.
+
+## Code
+
+- React function components + Tailwind utility classes mapped to kit tokens.
+- Explicit props for stream / interrupt / budget / selection state.
+- Accessible: focus rings, `role="listbox"` / `option` where relevant, Escape closes overlays.
+- Do not invent parallel design tokens in the host without updating the stub.
+
+## Refusal
+
+If asked for a loose, marketing-style, or “friendly chatbot bubble farm” UI that conflicts with density rules: push back once, propose the kit pattern, then implement the dense version unless the user overrides explicitly.
