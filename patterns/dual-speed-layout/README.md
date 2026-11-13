@@ -37,6 +37,24 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-computer-pane_lindy.webp](../../assets/screenshots/external/aidesign/agent-computer-pane_lindy.webp)
+
+![agent-workspace-preview-replay_cofounder.webp](../../assets/screenshots/external/aidesign/agent-workspace-preview-replay_cofounder.webp)
+
+![computer-use-live-view-take-control_manus.webp](../../assets/screenshots/external/aidesign/computer-use-live-view-take-control_manus.webp)
+
+![computer-use-replay-timeline_manus.webp](../../assets/screenshots/external/aidesign/computer-use-replay-timeline_manus.webp)
+
+![multi-agent-dashboard_warp.webp](../../assets/screenshots/external/aidesign/multi-agent-dashboard_warp.webp)
+
+![terminal-agent_codex-cli.webp](../../assets/screenshots/external/aidesign/terminal-agent_codex-cli.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 

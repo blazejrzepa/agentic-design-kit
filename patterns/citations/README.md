@@ -55,6 +55,14 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![citations-sources-panel_notebooklm.webp](../../assets/screenshots/external/aidesign/citations-sources-panel_notebooklm.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 

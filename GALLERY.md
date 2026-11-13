@@ -109,6 +109,13 @@ Example teardown: [Qwen composer](https://aiuxplayground.com/teardowns/qwen/comp
 
 Wired into kit READMEs via `<!-- playground-captures -->` (composer, citations, HITL, artifacts, onboarding, …).
 
+## AI Design Guide — Agentic UX Patterns
+
+**73** captures from [aidesign.guide/agentic-ux-patterns](https://www.aidesign.guide/agentic-ux-patterns).  
+Files: [`assets/screenshots/external/aidesign/`](assets/screenshots/external/aidesign/) · [`MANIFEST.md`](assets/screenshots/external/aidesign/MANIFEST.md).
+
+Wired via `<!-- aidesign-captures -->` into kit patterns (composer, HITL, transparency, async agents, …).
+
 ## External product captures (SaaSFrame AI)
 
 **50+** real screenshots under [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — AI Chat · Prompt Input · Copilot · Generation State. Full index: [`saasframe/README.md`](assets/screenshots/external/saasframe/README.md). Linked from **30+** pattern READMEs as **Source references**.

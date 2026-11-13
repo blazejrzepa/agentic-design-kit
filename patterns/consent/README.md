@@ -28,6 +28,16 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-behavior-settings_clay.webp](../../assets/screenshots/external/aidesign/agent-behavior-settings_clay.webp)
+
+![agent-consent-screen-view_quicken.webp](../../assets/screenshots/external/aidesign/agent-consent-screen-view_quicken.webp)
+
+<!-- aidesign-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-trust-consent.jpg)
 
 ## Purpose

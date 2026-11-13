@@ -27,7 +27,7 @@
 | **Real SaaSFrame AI captures** | [`assets/screenshots/external/saasframe/`](assets/screenshots/external/saasframe/) — linked from pattern READMEs |
 | Source OG cards | [`assets/screenshots/external/`](assets/screenshots/external/) (AI Design Guide / AI SDK / CopilotKit) |
 
-**Gap:** AI Design Guide’s 74 Mobbin screenshots are account-gated — use guide text + SaaSFrame equivalents until a licensed export is available.
+**Visuals:** **74** product captures hosted on aidesign.guide at [`assets/screenshots/external/aidesign/`](assets/screenshots/external/aidesign/) (wired into pattern READMEs). Separate Mobbin deep-links may still need an account.
 
 ---
 

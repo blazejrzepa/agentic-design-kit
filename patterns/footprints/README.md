@@ -32,6 +32,24 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![action-log-chips_lightfield.webp](../../assets/screenshots/external/aidesign/action-log-chips_lightfield.webp)
+
+![agent-computer-pane_lindy.webp](../../assets/screenshots/external/aidesign/agent-computer-pane_lindy.webp)
+
+![agent-run-trace_browserbase.webp](../../assets/screenshots/external/aidesign/agent-run-trace_browserbase.webp)
+
+![agent-workspace-preview-replay_cofounder.webp](../../assets/screenshots/external/aidesign/agent-workspace-preview-replay_cofounder.webp)
+
+![citations-tool-reasoning_cohere.webp](../../assets/screenshots/external/aidesign/citations-tool-reasoning_cohere.webp)
+
+![computer-use-live-view-take-control_manus.webp](../../assets/screenshots/external/aidesign/computer-use-live-view-take-control_manus.webp)
+
+<!-- aidesign-captures:end -->
+
+
 ## Purpose
 
 Visible + machine-readable trail of how AI participated: prompts, params, tools, sources, approvals, model version. Enables **branch / replay** (generative) and **audit** (verifying).

@@ -27,6 +27,16 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![diff-keep-undo-hunks_vscode-copilot.webp](../../assets/screenshots/external/aidesign/diff-keep-undo-hunks_vscode-copilot.webp)
+
+![diff-review-apply_replit.webp](../../assets/screenshots/external/aidesign/diff-review-apply_replit.webp)
+
+<!-- aidesign-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-smart-diff.jpg)
 
 ## Purpose

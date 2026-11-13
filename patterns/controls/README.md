@@ -53,6 +53,16 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![voice-mode-live-transcript_meta-ai-ios.webp](../../assets/screenshots/external/aidesign/voice-mode-live-transcript_meta-ai-ios.webp)
+
+![voice-mode-orb_chatgpt-ios.webp](../../assets/screenshots/external/aidesign/voice-mode-orb_chatgpt-ios.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 ## Source references (external)

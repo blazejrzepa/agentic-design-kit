@@ -27,6 +27,20 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![generative-ui-inline-chart_langdock.webp](../../assets/screenshots/external/aidesign/generative-ui-inline-chart_langdock.webp)
+
+![generative-ui-preference-card_chatgpt.webp](../../assets/screenshots/external/aidesign/generative-ui-preference-card_chatgpt.webp)
+
+![generated-interactive-report_rox.webp](../../assets/screenshots/external/aidesign/generated-interactive-report_rox.webp)
+
+![in-chat-app-widgets_chatgpt-apps-sdk.webp](../../assets/screenshots/external/aidesign/in-chat-app-widgets_chatgpt-apps-sdk.webp)
+
+<!-- aidesign-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-generative-ui.jpg)
 
 

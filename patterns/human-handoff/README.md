@@ -6,6 +6,17 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![bot-to-sales-team-handoff_pipedrive.webp](../../assets/screenshots/external/aidesign/bot-to-sales-team-handoff_pipedrive.webp)
+
+![fin-hands-over-or-escalates_intercom.webp](../../assets/screenshots/external/aidesign/fin-hands-over-or-escalates_intercom.webp)
+
+![talk-to-someone-escalation_klook.webp](../../assets/screenshots/external/aidesign/talk-to-someone-escalation_klook.webp)
+
+<!-- aidesign-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-failure-handoff.jpg)
 
 

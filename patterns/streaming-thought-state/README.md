@@ -34,6 +34,28 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![action-log-chips_lightfield.webp](../../assets/screenshots/external/aidesign/action-log-chips_lightfield.webp)
+
+![agent-run-trace_browserbase.webp](../../assets/screenshots/external/aidesign/agent-run-trace_browserbase.webp)
+
+![citations-tool-reasoning_cohere.webp](../../assets/screenshots/external/aidesign/citations-tool-reasoning_cohere.webp)
+
+![terminal-tool-calls_claude-code.webp](../../assets/screenshots/external/aidesign/terminal-tool-calls_claude-code.webp)
+
+![tool-call-rows-agent-running_emergent.webp](../../assets/screenshots/external/aidesign/tool-call-rows-agent-running_emergent.webp)
+
+![terminal-agent-tasks_warp.webp](../../assets/screenshots/external/aidesign/terminal-agent-tasks_warp.webp)
+
+![terminal-agent_codex-cli.webp](../../assets/screenshots/external/aidesign/terminal-agent_codex-cli.webp)
+
+![terminal-agent_gemini-cli.webp](../../assets/screenshots/external/aidesign/terminal-agent_gemini-cli.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 ## Source references (external)

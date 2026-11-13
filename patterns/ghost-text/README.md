@@ -8,6 +8,15 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![ghost-text-completion_vscode-copilot.webp](../../assets/screenshots/external/aidesign/ghost-text-completion_vscode-copilot.webp)
+
+![next-edit-suggestion_vscode-copilot.webp](../../assets/screenshots/external/aidesign/next-edit-suggestion_vscode-copilot.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

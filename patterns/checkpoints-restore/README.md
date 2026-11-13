@@ -6,6 +6,15 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![checkpoint-restore_vscode-copilot.webp](../../assets/screenshots/external/aidesign/checkpoint-restore_vscode-copilot.webp)
+
+![checkpoint-rollback_replit.webp](../../assets/screenshots/external/aidesign/checkpoint-rollback_replit.webp)
+
+<!-- aidesign-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-smart-diff.jpg)
 
 

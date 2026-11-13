@@ -32,6 +32,16 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![context-cost-statusline_claude-code.webp](../../assets/screenshots/external/aidesign/context-cost-statusline_claude-code.webp)
+
+![model-effort-picker_claude.webp](../../assets/screenshots/external/aidesign/model-effort-picker_claude.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 

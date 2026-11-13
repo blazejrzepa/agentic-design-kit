@@ -28,6 +28,18 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-plan-steps_manus.webp](../../assets/screenshots/external/aidesign/agent-plan-steps_manus.webp)
+
+![agent-todo-list_relevance-ai.webp](../../assets/screenshots/external/aidesign/agent-todo-list_relevance-ai.webp)
+
+![terminal-agent-tasks_warp.webp](../../assets/screenshots/external/aidesign/terminal-agent-tasks_warp.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 

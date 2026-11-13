@@ -49,6 +49,14 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![cmdk-ask-ai-or-navigate_figma.webp](../../assets/screenshots/external/aidesign/cmdk-ask-ai-or-navigate_figma.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 

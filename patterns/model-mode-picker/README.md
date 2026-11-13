@@ -54,6 +54,16 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![model-effort-picker_claude.webp](../../assets/screenshots/external/aidesign/model-effort-picker_claude.webp)
+
+![multi-agent-subagents_replit.webp](../../assets/screenshots/external/aidesign/multi-agent-subagents_replit.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 

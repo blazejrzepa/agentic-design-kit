@@ -29,6 +29,16 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![clarifying-choices-after-thinking_whop.webp](../../assets/screenshots/external/aidesign/clarifying-choices-after-thinking_whop.webp)
+
+![hitl-structured-question_gumloop.webp](../../assets/screenshots/external/aidesign/hitl-structured-question_gumloop.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 

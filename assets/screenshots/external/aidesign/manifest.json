@@ -1,0 +1,370 @@
+{
+  "source": "https://www.aidesign.guide/agentic-ux-patterns",
+  "files": [
+    {
+      "file": "action-log-chips_lightfield.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/action-log-chips_lightfield.webp",
+      "bytes": 14414
+    },
+    {
+      "file": "agent-automation-triggers-mcp_devin.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-automation-triggers-mcp_devin.webp",
+      "bytes": 49012
+    },
+    {
+      "file": "agent-behavior-settings_clay.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-behavior-settings_clay.webp",
+      "bytes": 26206
+    },
+    {
+      "file": "agent-computer-pane_lindy.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-computer-pane_lindy.webp",
+      "bytes": 51904
+    },
+    {
+      "file": "agent-consent-screen-view_quicken.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-consent-screen-view_quicken.webp",
+      "bytes": 22276
+    },
+    {
+      "file": "agent-inbox-needs-input_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-inbox-needs-input_claude-code.webp",
+      "bytes": 32972
+    },
+    {
+      "file": "agent-on-standby-for-assignment_plain.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-on-standby-for-assignment_plain.webp",
+      "bytes": 34608
+    },
+    {
+      "file": "agent-plan-steps_manus.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-plan-steps_manus.webp",
+      "bytes": 52176
+    },
+    {
+      "file": "agent-pr-review-comment_cursor-bugbot.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-pr-review-comment_cursor-bugbot.webp",
+      "bytes": 81538
+    },
+    {
+      "file": "agent-run-trace_browserbase.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-run-trace_browserbase.webp",
+      "bytes": 31642
+    },
+    {
+      "file": "agent-todo-list_relevance-ai.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-todo-list_relevance-ai.webp",
+      "bytes": 20458
+    },
+    {
+      "file": "agent-working-composer_chatgpt.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-working-composer_chatgpt.webp",
+      "bytes": 4204
+    },
+    {
+      "file": "agent-workspace-preview-replay_cofounder.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/agent-workspace-preview-replay_cofounder.webp",
+      "bytes": 68886
+    },
+    {
+      "file": "assign-issue-to-copilot_github.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/assign-issue-to-copilot_github.webp",
+      "bytes": 17542
+    },
+    {
+      "file": "background-agent-sessions_devin.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/background-agent-sessions_devin.webp",
+      "bytes": 40338
+    },
+    {
+      "file": "bot-to-sales-team-handoff_pipedrive.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/bot-to-sales-team-handoff_pipedrive.webp",
+      "bytes": 72970
+    },
+    {
+      "file": "canvas-artifact_langdock.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/canvas-artifact_langdock.webp",
+      "bytes": 58996
+    },
+    {
+      "file": "canvas-artifact_mistral-lechat.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/canvas-artifact_mistral-lechat.webp",
+      "bytes": 33972
+    },
+    {
+      "file": "checkpoint-restore_vscode-copilot.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/checkpoint-restore_vscode-copilot.webp",
+      "bytes": 10586
+    },
+    {
+      "file": "checkpoint-rollback_replit.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/checkpoint-rollback_replit.webp",
+      "bytes": 26696
+    },
+    {
+      "file": "choose-your-favorite-of-four_linktree.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/choose-your-favorite-of-four_linktree.webp",
+      "bytes": 74538
+    },
+    {
+      "file": "citations-sources-panel_notebooklm.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/citations-sources-panel_notebooklm.webp",
+      "bytes": 74184
+    },
+    {
+      "file": "citations-tool-reasoning_cohere.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/citations-tool-reasoning_cohere.webp",
+      "bytes": 106544
+    },
+    {
+      "file": "clarifying-choices-after-thinking_whop.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/clarifying-choices-after-thinking_whop.webp",
+      "bytes": 42584
+    },
+    {
+      "file": "cloud-agent-notify-files-changed_cursor.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/cloud-agent-notify-files-changed_cursor.webp",
+      "bytes": 15936
+    },
+    {
+      "file": "cmdk-ask-ai-or-navigate_figma.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/cmdk-ask-ai-or-navigate_figma.webp",
+      "bytes": 10892
+    },
+    {
+      "file": "codex-sessions-on-phone_codex.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/codex-sessions-on-phone_codex.webp",
+      "bytes": 26880
+    },
+    {
+      "file": "composer-tools-menu_claude.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/composer-tools-menu_claude.webp",
+      "bytes": 12576
+    },
+    {
+      "file": "computer-use-live-view-take-control_manus.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/computer-use-live-view-take-control_manus.webp",
+      "bytes": 39544
+    },
+    {
+      "file": "computer-use-replay-timeline_manus.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/computer-use-replay-timeline_manus.webp",
+      "bytes": 12608
+    },
+    {
+      "file": "connectors-catalog_claude.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/connectors-catalog_claude.webp",
+      "bytes": 74602
+    },
+    {
+      "file": "context-attach-connectors_notion.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/context-attach-connectors_notion.webp",
+      "bytes": 25930
+    },
+    {
+      "file": "context-cost-statusline_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/context-cost-statusline_claude-code.webp",
+      "bytes": 7400
+    },
+    {
+      "file": "context-mentions_clickup.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/context-mentions_clickup.webp",
+      "bytes": 34148
+    },
+    {
+      "file": "deep-research-activity-sources_chatgpt.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/deep-research-activity-sources_chatgpt.webp",
+      "bytes": 65858
+    },
+    {
+      "file": "delegate-issue-to-agent_linear.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/delegate-issue-to-agent_linear.webp",
+      "bytes": 32418
+    },
+    {
+      "file": "diff-keep-undo-hunks_vscode-copilot.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/diff-keep-undo-hunks_vscode-copilot.webp",
+      "bytes": 39874
+    },
+    {
+      "file": "diff-pr-review_devin.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/diff-pr-review_devin.webp",
+      "bytes": 53564
+    },
+    {
+      "file": "diff-review-apply_replit.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/diff-review-apply_replit.webp",
+      "bytes": 60652
+    },
+    {
+      "file": "fin-hands-over-or-escalates_intercom.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/fin-hands-over-or-escalates_intercom.webp",
+      "bytes": 65248
+    },
+    {
+      "file": "generate-variations-options_stitch.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/generate-variations-options_stitch.webp",
+      "bytes": 66400
+    },
+    {
+      "file": "generated-interactive-report_rox.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/generated-interactive-report_rox.webp",
+      "bytes": 28724
+    },
+    {
+      "file": "generative-ui-inline-chart_langdock.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/generative-ui-inline-chart_langdock.webp",
+      "bytes": 25014
+    },
+    {
+      "file": "generative-ui-preference-card_chatgpt.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/generative-ui-preference-card_chatgpt.webp",
+      "bytes": 28880
+    },
+    {
+      "file": "ghost-text-completion_vscode-copilot.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/ghost-text-completion_vscode-copilot.webp",
+      "bytes": 13540
+    },
+    {
+      "file": "hitl-structured-question_gumloop.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/hitl-structured-question_gumloop.webp",
+      "bytes": 21322
+    },
+    {
+      "file": "in-chat-app-widgets_chatgpt-apps-sdk.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/in-chat-app-widgets_chatgpt-apps-sdk.webp",
+      "bytes": 123078
+    },
+    {
+      "file": "inline-ai-replace-refine_confluence.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/inline-ai-replace-refine_confluence.webp",
+      "bytes": 43514
+    },
+    {
+      "file": "inline-ai-sparkle-menu_coda.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/inline-ai-sparkle-menu_coda.webp",
+      "bytes": 34194
+    },
+    {
+      "file": "memory-manager_claude.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/memory-manager_claude.webp",
+      "bytes": 44886
+    },
+    {
+      "file": "model-effort-picker_claude.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/model-effort-picker_claude.webp",
+      "bytes": 55320
+    },
+    {
+      "file": "multi-agent-dashboard_warp.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/multi-agent-dashboard_warp.webp",
+      "bytes": 50852
+    },
+    {
+      "file": "multi-agent-subagents_replit.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/multi-agent-subagents_replit.webp",
+      "bytes": 49252
+    },
+    {
+      "file": "next-edit-suggestion_vscode-copilot.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/next-edit-suggestion_vscode-copilot.webp",
+      "bytes": 20440
+    },
+    {
+      "file": "permission-modes-cycle_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/permission-modes-cycle_claude-code.webp",
+      "bytes": 25506
+    },
+    {
+      "file": "permission-prompt-terminal_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/permission-prompt-terminal_claude-code.webp",
+      "bytes": 35024
+    },
+    {
+      "file": "prompt-starters_claude.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/prompt-starters_claude.webp",
+      "bytes": 12278
+    },
+    {
+      "file": "scheduled-actions_gemini.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/scheduled-actions_gemini.webp",
+      "bytes": 34426
+    },
+    {
+      "file": "side-panel-copilot_fabric.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/side-panel-copilot_fabric.webp",
+      "bytes": 45974
+    },
+    {
+      "file": "side-panel-copilot_semrush.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/side-panel-copilot_semrush.webp",
+      "bytes": 67396
+    },
+    {
+      "file": "sparkle-cmdk-ai-edit_strut.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/sparkle-cmdk-ai-edit_strut.webp",
+      "bytes": 15782
+    },
+    {
+      "file": "talk-to-someone-escalation_klook.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/talk-to-someone-escalation_klook.webp",
+      "bytes": 75942
+    },
+    {
+      "file": "terminal-agent-tasks_warp.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-agent-tasks_warp.webp",
+      "bytes": 66460
+    },
+    {
+      "file": "terminal-agent_codex-cli.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-agent_codex-cli.webp",
+      "bytes": 90448
+    },
+    {
+      "file": "terminal-agent_gemini-cli.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-agent_gemini-cli.webp",
+      "bytes": 22790
+    },
+    {
+      "file": "terminal-agent_opencode.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-agent_opencode.webp",
+      "bytes": 89352
+    },
+    {
+      "file": "terminal-spinner-thinking_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-spinner-thinking_claude-code.webp",
+      "bytes": 9228
+    },
+    {
+      "file": "terminal-tool-calls_claude-code.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/terminal-tool-calls_claude-code.webp",
+      "bytes": 56768
+    },
+    {
+      "file": "tool-call-rows-agent-running_emergent.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/tool-call-rows-agent-running_emergent.webp",
+      "bytes": 20590
+    },
+    {
+      "file": "versioned-artifact-card_klaviyo.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/versioned-artifact-card_klaviyo.webp",
+      "bytes": 14104
+    },
+    {
+      "file": "voice-mode-live-transcript_meta-ai-ios.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/voice-mode-live-transcript_meta-ai-ios.webp",
+      "bytes": 89442
+    },
+    {
+      "file": "voice-mode-orb_chatgpt-ios.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/voice-mode-orb_chatgpt-ios.webp",
+      "bytes": 19330
+    },
+    {
+      "file": "worked-for-disclosure_chatgpt.webp",
+      "src": "https://www.aidesign.guide/images/agentic-ux-patterns/worked-for-disclosure_chatgpt.webp",
+      "bytes": 1054
+    }
+  ]
+}

@@ -8,6 +8,15 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![choose-your-favorite-of-four_linktree.webp](../../assets/screenshots/external/aidesign/choose-your-favorite-of-four_linktree.webp)
+
+![generate-variations-options_stitch.webp](../../assets/screenshots/external/aidesign/generate-variations-options_stitch.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

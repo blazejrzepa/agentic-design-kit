@@ -5,6 +5,15 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-automation-triggers-mcp_devin.webp](../../assets/screenshots/external/aidesign/agent-automation-triggers-mcp_devin.webp)
+
+![scheduled-actions_gemini.webp](../../assets/screenshots/external/aidesign/scheduled-actions_gemini.webp)
+
+<!-- aidesign-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-misc-chrome.jpg)
 
 ## Purpose

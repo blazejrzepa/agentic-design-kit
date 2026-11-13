@@ -8,6 +8,13 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![deep-research-activity-sources_chatgpt.webp](../../assets/screenshots/external/aidesign/deep-research-activity-sources_chatgpt.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

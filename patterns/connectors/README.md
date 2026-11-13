@@ -35,6 +35,20 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![composer-tools-menu_claude.webp](../../assets/screenshots/external/aidesign/composer-tools-menu_claude.webp)
+
+![connectors-catalog_claude.webp](../../assets/screenshots/external/aidesign/connectors-catalog_claude.webp)
+
+![context-attach-connectors_notion.webp](../../assets/screenshots/external/aidesign/context-attach-connectors_notion.webp)
+
+![context-mentions_clickup.webp](../../assets/screenshots/external/aidesign/context-mentions_clickup.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 

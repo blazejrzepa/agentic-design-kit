@@ -8,6 +8,21 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-pr-review-comment_cursor-bugbot.webp](../../assets/screenshots/external/aidesign/agent-pr-review-comment_cursor-bugbot.webp)
+
+![background-agent-sessions_devin.webp](../../assets/screenshots/external/aidesign/background-agent-sessions_devin.webp)
+
+![cloud-agent-notify-files-changed_cursor.webp](../../assets/screenshots/external/aidesign/cloud-agent-notify-files-changed_cursor.webp)
+
+![codex-sessions-on-phone_codex.webp](../../assets/screenshots/external/aidesign/codex-sessions-on-phone_codex.webp)
+
+![diff-pr-review_devin.webp](../../assets/screenshots/external/aidesign/diff-pr-review_devin.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

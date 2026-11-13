@@ -50,6 +50,18 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-behavior-settings_clay.webp](../../assets/screenshots/external/aidesign/agent-behavior-settings_clay.webp)
+
+![agent-consent-screen-view_quicken.webp](../../assets/screenshots/external/aidesign/agent-consent-screen-view_quicken.webp)
+
+![memory-manager_claude.webp](../../assets/screenshots/external/aidesign/memory-manager_claude.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 
 ## Source references (external)

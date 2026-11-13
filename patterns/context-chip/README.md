@@ -8,6 +8,19 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![context-attach-connectors_notion.webp](../../assets/screenshots/external/aidesign/context-attach-connectors_notion.webp)
+
+![context-mentions_clickup.webp](../../assets/screenshots/external/aidesign/context-mentions_clickup.webp)
+
+![side-panel-copilot_fabric.webp](../../assets/screenshots/external/aidesign/side-panel-copilot_fabric.webp)
+
+![side-panel-copilot_semrush.webp](../../assets/screenshots/external/aidesign/side-panel-copilot_semrush.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

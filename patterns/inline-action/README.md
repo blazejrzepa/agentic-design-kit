@@ -34,6 +34,18 @@
 
 <!-- shapeof-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![inline-ai-sparkle-menu_coda.webp](../../assets/screenshots/external/aidesign/inline-ai-sparkle-menu_coda.webp)
+
+![sparkle-cmdk-ai-edit_strut.webp](../../assets/screenshots/external/aidesign/sparkle-cmdk-ai-edit_strut.webp)
+
+![inline-ai-replace-refine_confluence.webp](../../assets/screenshots/external/aidesign/inline-ai-replace-refine_confluence.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 

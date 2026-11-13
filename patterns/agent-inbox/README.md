@@ -8,6 +8,25 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![agent-inbox-needs-input_claude-code.webp](../../assets/screenshots/external/aidesign/agent-inbox-needs-input_claude-code.webp)
+
+![agent-on-standby-for-assignment_plain.webp](../../assets/screenshots/external/aidesign/agent-on-standby-for-assignment_plain.webp)
+
+![agent-working-composer_chatgpt.webp](../../assets/screenshots/external/aidesign/agent-working-composer_chatgpt.webp)
+
+![assign-issue-to-copilot_github.webp](../../assets/screenshots/external/aidesign/assign-issue-to-copilot_github.webp)
+
+![delegate-issue-to-agent_linear.webp](../../assets/screenshots/external/aidesign/delegate-issue-to-agent_linear.webp)
+
+![multi-agent-subagents_replit.webp](../../assets/screenshots/external/aidesign/multi-agent-subagents_replit.webp)
+
+![multi-agent-dashboard_warp.webp](../../assets/screenshots/external/aidesign/multi-agent-dashboard_warp.webp)
+
+<!-- aidesign-captures:end -->
+
 
 ## Source references (external)
 

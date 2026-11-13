@@ -29,6 +29,14 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![prompt-starters_claude.webp](../../assets/screenshots/external/aidesign/prompt-starters_claude.webp)
+
+<!-- aidesign-captures:end -->
+
+
 ![Kit mockup](../../assets/screenshots/kit/kit-suggestions-onboarding.jpg)
 
 

@@ -6,6 +6,15 @@
 
 ---
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![context-cost-statusline_claude-code.webp](../../assets/screenshots/external/aidesign/context-cost-statusline_claude-code.webp)
+
+![terminal-agent_opencode.webp](../../assets/screenshots/external/aidesign/terminal-agent_opencode.webp)
+
+<!-- aidesign-captures:end -->
+
 ![Kit mockup](../../assets/screenshots/kit/kit-rate-limit.jpg)
 
 

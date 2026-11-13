@@ -30,6 +30,18 @@
 
 <!-- playground-captures:end -->
 
+<!-- aidesign-captures:start -->
+**AI Design Guide** · [Agentic UX Patterns](https://www.aidesign.guide/agentic-ux-patterns)
+
+![canvas-artifact_langdock.webp](../../assets/screenshots/external/aidesign/canvas-artifact_langdock.webp)
+
+![canvas-artifact_mistral-lechat.webp](../../assets/screenshots/external/aidesign/canvas-artifact_mistral-lechat.webp)
+
+![versioned-artifact-card_klaviyo.webp](../../assets/screenshots/external/aidesign/versioned-artifact-card_klaviyo.webp)
+
+<!-- aidesign-captures:end -->
+
+
 
 ## Source references (external)
 
