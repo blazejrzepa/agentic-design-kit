@@ -17,9 +17,12 @@ When the user asks to **design, build, or refine** an AI UI element:
 1. **Open [`INDEX.md`](INDEX.md) first** — never start by grepping the whole tree.
 2. **Match intent** using the Quick routing table (or pattern ID).
 3. **Open only** `patterns/<id>/README.md` for that match.
-4. **Read** anatomy, states, do/don't, and the snippet.
+4. **Read** anatomy, states, do/don't, snippet, and linked preview images if doing visual QA.
 5. **Apply** [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) and [`.cursorrules`](.cursorrules).
 6. **Implement** in the host app (MyOS, macOS shell, web). Prefer adapting the snippet over inventing a parallel component.
+
+If the user names a **Shape of AI** pattern: open [`TAXONOMY.md`](TAXONOMY.md) Part A once.  
+If the user names an **AI UX Playground** slug/teardown: open [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) once (or Part B summary in `TAXONOMY.md`), map to kit ID(s), then implement.
 
 If no pattern fits: say so, propose the closest pattern, or ask before inventing a new folder under `patterns/`.
 

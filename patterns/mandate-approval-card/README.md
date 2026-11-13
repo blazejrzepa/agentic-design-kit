@@ -1,8 +1,16 @@
 # Mandate Approval Card — Human-in-the-Loop
 
 **ID:** `mandate-approval-card`  
-**Family:** Governors ([shapeof.ai](https://www.shapeof.ai/) Action plan / oversight)  
-**Inspired by:** LangGraph HITL interrupts, Cursor/agent permission cards, Beamline Approval card, Supabase operator confirmations
+**Family:** Governors ([shapeof.ai](https://www.shapeof.ai/))  
+**Maps to:** Verification · Sample response · Cost estimates (budget) · Action plan (contractual gate)  
+**Source:** [Verification](https://www.shapeof.ai/patterns/verification) · [Action plan](https://www.shapeof.ai/patterns/action-plan)  
+**Inspired by:** LangGraph HITL, Cursor permission cards, Cofounder “Always Ask”  
+**Teardowns:** [HITL](https://aiuxplayground.com/teardowns/compare/human-in-the-loop) — Gemini Send gate · ChatGPT draft card · Perplexity per-tool Allow  
+**Precede with:** `clarify-before-act` when intent is incomplete; pair with `connectors` for standing permissions
+
+![Kit mockup](../../assets/screenshots/kit/kit-mandate-approval.jpg)
+
+![Shape of AI — Verification](../../assets/screenshots/shapeof/verification-og.png)
 
 ---
 

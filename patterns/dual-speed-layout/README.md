@@ -1,8 +1,14 @@
 # Dual-Speed Layout — Conversation + Live Execution
 
 **ID:** `dual-speed-layout`  
-**Family:** Composition pattern (chat transcript × execution governors)  
-**Inspired by:** Cursor agent + diff pane, Atrium chat pane, Linear-style split workspaces, Vercel AI playgrounds
+**Family:** Composition · Governors  
+**Maps to:** [Shared vision](https://www.shapeof.ai/patterns/shared-vision) (Operator / Comet-style live oversight)  
+**Compose with:** `streaming-thought-state`, `artifact-pane`, `mandate-approval-card`, `citations`, `controls`, `disclosure`  
+**Teardowns:** [Output & artifacts](https://aiuxplayground.com/teardowns/compare/output-artifacts-refinement) — Claude artifact split · Manus files/deliverables · Gemini Maps/Workspace handoff
+
+![Kit mockup](../../assets/screenshots/kit/kit-dual-speed.jpg)
+
+![Shape of AI — Shared vision](../../assets/screenshots/shapeof/shared-vision-og.png)
 
 ---
 

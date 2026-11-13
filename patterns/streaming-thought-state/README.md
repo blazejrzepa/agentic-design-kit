@@ -1,8 +1,13 @@
 # Streaming Thought State — Agent Cognition UI
 
 **ID:** `streaming-thought-state`  
-**Family:** Trust builders · Footprints · Prompt details ([shapeof.ai](https://www.shapeof.ai/))  
-**Inspired by:** Vercel AI SDK Reasoning UI, ChatGPT “Thought for Ns”, Cursor agent todos, Beautiful UI Thinking traces
+**Family:** Governors · Trust builders ([shapeof.ai](https://www.shapeof.ai/))  
+**Maps to:** [Stream of Thought](https://www.shapeof.ai/patterns/stream-of-thought) · Prompt details · Footprints (live)  
+**Compose with:** `controls`, `action-plan`, `footprints`
+
+![Kit mockup](../../assets/screenshots/kit/kit-streaming-thought.jpg)
+
+![Shape of AI — Stream of Thought](../../assets/screenshots/shapeof/stream-of-thought-og.png)
 
 ---
 

@@ -1,0 +1,114 @@
+# AI UX Playground
+
+> Practical reference for designing AI products: patterns, frameworks, product teardowns, prompts and prompt packs, skills, tools, glossary, and guides.
+
+Canonical site: https://aiuxplayground.com
+Sitemap: https://aiuxplayground.com/sitemap.xml
+
+## Primary sections
+
+- Patterns (catalog + interactive examples): https://aiuxplayground.com/patterns
+- Agentic UX framework: https://aiuxplayground.com/frameworks/agentic
+- Chat UX framework: https://aiuxplayground.com/frameworks/chat-ux
+- Trust scaffolding framework: https://aiuxplayground.com/frameworks/trust-scaffolding
+- Teardowns (job-first product UX case studies): https://aiuxplayground.com/teardowns
+- Composer teardowns (every product, one topic): https://aiuxplayground.com/teardowns/design-the-composer
+- Output & artifacts teardowns: https://aiuxplayground.com/teardowns/output-artifacts-refinement
+- Human-in-the-loop teardowns: https://aiuxplayground.com/teardowns/human-in-the-loop
+- Model & mode selection teardowns: https://aiuxplayground.com/teardowns/model-mode-selection
+- Onboarding & first-value teardowns: https://aiuxplayground.com/teardowns/ai-onboarding-first-value
+- Trust & citations teardowns: https://aiuxplayground.com/teardowns/trust-privacy-settings
+- Personalization & memory teardowns: https://aiuxplayground.com/teardowns/personalization-memory
+- Pricing & upgrade teardowns: https://aiuxplayground.com/teardowns/pricing-upgrade
+- AI shopping teardowns: https://aiuxplayground.com/teardowns/commerce-shopping
+- Local search teardowns: https://aiuxplayground.com/teardowns/local-search-planning
+- Video discovery teardowns: https://aiuxplayground.com/teardowns/video-discovery
+- Composer UX comparison (ChatGPT vs Claude vs Perplexity vs Gemini): https://aiuxplayground.com/teardowns/compare/design-the-composer
+- Output & artifacts UX comparison: https://aiuxplayground.com/teardowns/compare/output-artifacts-refinement
+- Onboarding & first-value UX comparison: https://aiuxplayground.com/teardowns/compare/ai-onboarding-first-value
+- Human-in-the-loop UX comparison: https://aiuxplayground.com/teardowns/compare/human-in-the-loop
+- Citations & sources UX comparison (ChatGPT vs Perplexity): https://aiuxplayground.com/teardowns/compare/trust-privacy-settings
+- Personalization & memory UX comparison (ChatGPT vs Claude vs Perplexity): https://aiuxplayground.com/teardowns/compare/personalization-memory
+- Model & mode selection UX comparison: https://aiuxplayground.com/teardowns/compare/model-mode-selection
+- Pricing & upgrade UX comparison: https://aiuxplayground.com/teardowns/compare/pricing-upgrade
+- Prompts: https://aiuxplayground.com/prompts
+- AI prompts for designers: https://aiuxplayground.com/prompts/for-designers
+- AI prompts for product managers: https://aiuxplayground.com/prompts/for-pms
+- AI prompts for user researchers: https://aiuxplayground.com/prompts/for-researchers
+- AI prompts for marketers: https://aiuxplayground.com/prompts/for-marketers
+- AI prompts for startup founders: https://aiuxplayground.com/prompts/for-founders
+- Prompt packs (multi-step prompt chains, e.g. design sprint): https://aiuxplayground.com/prompts/for-design-sprint
+- Skills (SKILL.md for agents): https://aiuxplayground.com/skills
+- UI Kits (free kits for vibe coding and AI prototypes: iOS and wireframe): https://aiuxplayground.com/kits
+- iOS UI Kit (iOS 26 system UI in plain HTML and CSS for AI prototypes): https://aiuxplayground.com/kits/ios-26
+- Wireframe UI Kit (47 free hand-drawn components for AI prototypes and proofs of concept): https://aiuxplayground.com/kits/wireframe
+- Tools (hand-picked stack for designing and shipping AI products): https://aiuxplayground.com/tools
+- How to install an agent skill: https://aiuxplayground.com/guides/how-to-install-an-agent-skill
+- Skill vs prompt (when to use each): https://aiuxplayground.com/guides/skill-vs-prompt
+- Agent skills for startup founders: https://aiuxplayground.com/skills/for-founders
+- Agent skills for designers: https://aiuxplayground.com/skills/for-designers
+- Agent skills for copywriters: https://aiuxplayground.com/skills/for-copywriters
+- Agent skills for product managers: https://aiuxplayground.com/skills/for-pms
+- Agent skills for marketers: https://aiuxplayground.com/skills/for-marketers
+- Agent skills for engineers: https://aiuxplayground.com/skills/for-engineers
+- Inspirations (60+ AI UX references for vibe coding): https://aiuxplayground.com/inspirations
+- Inspirations shaders & WebGPU: https://aiuxplayground.com/inspirations/shaders
+- Inspirations motion & interaction: https://aiuxplayground.com/inspirations/motion
+- Inspirations tools: https://aiuxplayground.com/inspirations/tools
+- Inspirations components & kits: https://aiuxplayground.com/inspirations/components
+- Inspirations Framer: https://aiuxplayground.com/inspirations/framer
+- Inspirations portfolios & craft: https://aiuxplayground.com/inspirations/portfolios
+- Example: Thinking orbs (AI loading indicators): https://aiuxplayground.com/inspirations/thinking-orbs
+- Example: Bible Strong Avatar Lab (procedural 2D avatars): https://aiuxplayground.com/inspirations/bible-strong-avatar-lab
+- Example: vgpu (WebGPU library for agents): https://aiuxplayground.com/inspirations/vgpu
+- Example: Liquid Orb Editor (WebGPU glass orb): https://aiuxplayground.com/inspirations/liquid-orb-editor
+- Guides: https://aiuxplayground.com/guides
+- The eight states every AI feature needs before launch (checklist): https://aiuxplayground.com/guides/ai-feature-launch-states
+- What is human-in-the-loop UX (2026 guide): https://aiuxplayground.com/guides/how-to-design-human-in-the-loop
+- How to design AI citations & sources UX: https://aiuxplayground.com/guides/how-to-design-ai-citations
+- How to design AI chat composer UX: https://aiuxplayground.com/guides/how-to-design-ai-chat-composer
+- How to design AI output, artifacts & refinement UX: https://aiuxplayground.com/guides/how-to-design-ai-output-artifacts
+- How to design AI memory & personalization UX: https://aiuxplayground.com/guides/how-to-design-ai-memory-personalization
+- How to design AI onboarding & first-value UX: https://aiuxplayground.com/guides/how-to-design-ai-onboarding
+- AI for designers hub: https://aiuxplayground.com/ai-for-designers
+- How to design an AI feature: https://aiuxplayground.com/guides/how-to-design-an-ai-feature
+- ChatGPT vs Claude UX comparison: https://aiuxplayground.com/compare/chatgpt-vs-claude-ux
+- AI trust design hub: https://aiuxplayground.com/ai-trust-design
+- Generative UI patterns hub: https://aiuxplayground.com/generative-ui-patterns
+- AI failure states UX hub: https://aiuxplayground.com/ai-failure-states
+- Human-in-the-loop AI design hub: https://aiuxplayground.com/human-in-the-loop-ai
+- About: https://aiuxplayground.com/about
+- FAQ index: https://aiuxplayground.com/faq
+- Access (free, no account): https://aiuxplayground.com/access.md
+
+## Audience
+
+Product designers, UX researchers, PMs, design engineers, and founders shipping chat, agents, copilots, and multimodal AI.
+
+## Access
+
+Free to browse. No account required. See https://aiuxplayground.com/access.md
+
+## Contact
+
+- Newsletter: https://aiuxplayground.substack.com
+- LinkedIn: https://www.linkedin.com/company/aiuxplayground/
+
+## Notes for crawlers
+
+- FAQPage JSON-LD is only emitted where the Q&A is visible on the page (`#faq`): the home page, every hub (patterns, teardowns, guides, glossary, prompts, skills, inspirations) and its category or lane pages, plus pattern, prompt pack, glossary, teardown, comparison, and how-to guide pages, /faq, and /about. Hub search results (`?q=`) hide the FAQ and omit the schema.
+- Teardown comparisons (/teardowns/compare/{jobSlug}) open with a Bottom line summary and an At a glance table (dimension × product) before the screenshot sections.
+- /inspirations is a CollectionPage with ItemList JSON-LD; each /inspirations/{id} page has CreativeWork schema and an At a glance block.
+- Inspirations lanes (/inspirations/shaders, /inspirations/motion, etc.) are CollectionPage routes with filtered ItemList JSON-LD.
+- Inspirations detail breadcrumbs include the parent lane (Home → Inspirations → Lane → Project).
+- Teardown topic hubs live at /teardowns/{jobSlug}: a CollectionPage with an ItemList of every teardown for that job, linked to its comparison.
+- Teardown job comparisons live at /teardowns/compare/{jobSlug} (composer, output, onboarding, human-in-the-loop, citations, personalization, model selection, pricing); product teardowns remain at /teardowns/{product}/{guide}.
+- Product teardown guides and glossary terms include visible FAQs with matching FAQPage JSON-LD; glossary terms also emit DefinedTerm schema.
+- Prompt packs (/prompts/for-*) emit HowTo JSON-LD from their step lists. Workflows live at /workflows and /workflows/{id}; /playbooks and /playbooks/{id} 301 to the matching workflow URL.
+- Gallery (/gallery, /gallery/{id}) is noindex, follow — screenshot assets used by teardowns; each item links to its teardown. Filter URLs (?product=) canonicalize to /gallery.
+- Binder how-to guides (`/guides/how-to-design-*`) include a visible FAQ (`#faq`) with FAQPage JSON-LD and HowTo JSON-LD from their ship-next steps.
+- Pattern detail pages include live UI demos inline; there is no separate /demos section.
+- Pattern topic hub URLs and /frameworks redirect to /patterns; /design-md redirects to /skills/stitch-design-md.
+- Canonical host is https://aiuxplayground.com (non-www); URLs are slashless.
+- /search?* is noindex.
+- Bingbot and msnbot are allowed; IndexNow ownership key is published at site root for faster Bing/ChatGPT discovery after content updates.

@@ -2,13 +2,27 @@
 
 **ID:** `copilot-input`  
 **Family:** Wayfinders · Prompt actions · Tuners ([shapeof.ai](https://www.shapeof.ai/))  
-**Inspired by:** Raycast command bar, Linear `⌘K`, Vercel AI SDK Prompt input, Beautiful UI Prompt Bar
+**Maps to:** Open input · Initial CTA · Modes · Model management · Attachments  
+**Inspired by:** Raycast command bar, Linear `⌘K`, Vercel AI SDK Prompt input  
+**Compose with:** `suggestions`, `connectors`, `model-mode-picker`, `cost-estimates`, `controls`  
+**Teardowns:** [Design the composer](https://aiuxplayground.com/teardowns/compare/design-the-composer) (ChatGPT calm bar · Claude cost-on-bar · Perplexity mode chips · Gemini Drive-first +)
+
+![Kit mockup](../../assets/screenshots/kit/kit-copilot-input.jpg)
 
 ---
 
 ## Purpose
 
-Floating, keyboard-first **intent bar** for launching agent actions: natural language, fuzzy commands, `@` context sources, `/` slash commands. Primary path is instant; secondary actions hide behind progressive disclosure.
+Floating, keyboard-first **intent bar** (and docked chat composer) for launching agent actions: natural language, fuzzy commands, `@` context, `/` slash, removable **scope chips**. Primary path is instant; secondary actions hide behind progressive disclosure (`+` / `⌘K`).
+
+### Composer product bets (playground)
+
+| Bet | Default bar | Power disclosure |
+|-----|-------------|------------------|
+| Mass-market habit (ChatGPT) | Empty + starter pills | One `+` menu; removable chips |
+| Cost visible (Claude) | Starters + model/effort on rail | Web search on by default |
+| Research depth (Perplexity) | Mode chips primary | Attach/connectors secondary |
+| Ecosystem (Gemini) | Empty pill | Drive on first `+` screen |
 
 ## When to use
 

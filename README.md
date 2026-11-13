@@ -9,22 +9,22 @@ Built so a coding agent can resolve the right pattern in **one index read + one 
 | File | Role |
 |------|------|
 | [`INDEX.md`](INDEX.md) | Pattern map (always open first) |
+| [`TAXONOMY.md`](TAXONOMY.md) | Full [shapeof.ai](https://www.shapeof.ai/) → kit mapping |
 | [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) | Agent operating protocol |
 | [`.cursorrules`](.cursorrules) | Visual + implementation law |
 | [`tokens/tailwind.config.stub.js`](tokens/tailwind.config.stub.js) | Shared design tokens |
 
-## Patterns
+## Implemented patterns
 
-| Pattern | Path |
-|---------|------|
-| Copilot Input | [`patterns/copilot-input/`](patterns/copilot-input/) |
-| Mandate Approval Card | [`patterns/mandate-approval-card/`](patterns/mandate-approval-card/) |
-| Streaming Thought State | [`patterns/streaming-thought-state/`](patterns/streaming-thought-state/) |
-| Dual-Speed Layout | [`patterns/dual-speed-layout/`](patterns/dual-speed-layout/) |
+See [`INDEX.md`](INDEX.md) (~30 kit patterns).  
+**Full Playground coverage:** [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) maps all **160** [aiuxplayground.com/pattern/…](https://aiuxplayground.com/patterns) slugs → kit (`implemented` / `composed` / `catalog`).
 
-## References
+## References & images
 
-Market UX alignment: [shapeof.ai](https://www.shapeof.ai/), Raycast command bar, Linear density, Vercel AI SDK UI, Supabase-style operator consoles. Visual captures live in [`assets/screenshots/`](assets/screenshots/).
+- [shapeof.ai](https://www.shapeof.ai/) · [aiuxplayground.com/patterns](https://aiuxplayground.com/patterns) · [teardowns](https://aiuxplayground.com/teardowns)
+- Slug list: [`assets/references/playground-pattern-slugs.txt`](assets/references/playground-pattern-slugs.txt)
+- Kit mockups: [`assets/screenshots/kit/`](assets/screenshots/kit/)
+- External refs: [`shapeof/`](assets/screenshots/shapeof/) · [`playground/`](assets/screenshots/playground/)
 
 ## Consume from another project
 
