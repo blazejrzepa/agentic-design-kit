@@ -82,6 +82,8 @@
 
 | Source | Status |
 |--------|--------|
-| AI UX Playground | **160/160** slugs mapped in `TAXONOMY-PLAYGROUND.md` |
-| Shape of AI | Full category map in `TAXONOMY.md` |
-| Implemented kit folders | See tables above (~30) |
+| AI UX Playground | **160/160** in [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) — **0 catalog**; direct + composed |
+| Shape of AI | Wayfinders / tuners / governors / trust / identifiers folded into kit folders |
+| Kit folders | **103** under `patterns/` (core tables above + extended catalog) |
+
+Extended IDs (commerce, design, audio, wayfinders, etc.) live as `patterns/<id>/README.md` — look up via `TAXONOMY-PLAYGROUND.md` or folder name matching the Playground slug.

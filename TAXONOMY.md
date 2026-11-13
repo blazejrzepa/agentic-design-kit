@@ -30,26 +30,26 @@ Help users construct their first prompt and get started.
 
 | Shape of AI | Kit ID / mapping | Status | Source |
 |-------------|------------------|--------|--------|
-| Example gallery | `example-gallery` (catalog) · compose with `suggestions` | catalog | [shapeof](https://www.shapeof.ai/pattern-types/wayfinders) |
-| Follow up | `follow-up` (catalog) · often after `suggestions` | catalog | wayfinders |
+| Example gallery | `example-gallery` (catalog) · compose with `suggestions` | implemented | [shapeof](https://www.shapeof.ai/pattern-types/wayfinders) |
+| Follow up | `follow-up` (catalog) · often after `suggestions` | implemented | wayfinders |
 | Initial CTA | composed → `copilot-input` / open composer | composed | wayfinders |
-| Nudges | `nudges` (catalog) | catalog | wayfinders |
+| Nudges | `nudges` (catalog) | implemented | wayfinders |
 | Prompt details | composed → `streaming-thought-state` + `footprints` | composed | wayfinders |
-| Randomize | `randomize` (catalog) | catalog | wayfinders |
+| Randomize | `randomize` (catalog) | implemented | wayfinders |
 | Suggestions | `suggestions` | implemented | [patterns/suggestions](https://www.shapeof.ai/patterns/suggestions) |
-| Templates | `templates` (catalog) · madlibs-adjacent | catalog | wayfinders |
+| Templates | `templates` (catalog) · madlibs-adjacent | implemented | wayfinders |
 
 ## Prompt actions
 
 | Shape of AI | Kit ID / mapping | Status | Source |
 |-------------|------------------|--------|--------|
-| Auto-fill | `auto-fill` (catalog) | catalog | homepage |
+| Auto-fill | `auto-fill` (catalog) | implemented | homepage |
 | Chained action | composed → `action-plan` + agent run | composed | homepage |
-| Describe | `describe` (catalog) | catalog | homepage |
+| Describe | `describe` (catalog) | implemented | homepage |
 | Lengthen | via `inline-action` presets | composed | homepage |
 | Inline Action | `inline-action` | implemented | [patterns/inline-action](https://www.shapeof.ai/patterns/inline-action) |
-| Inpainting | `inpainting` (catalog) · media selection | catalog | homepage |
-| Madlibs | `madlibs` (catalog) · structured slots | catalog | homepage |
+| Inpainting | `inpainting` (catalog) · media selection | implemented | homepage |
+| Madlibs | `madlibs` (catalog) · structured slots | implemented | homepage |
 | Open input | composed → `copilot-input` | composed | homepage |
 | Regenerate | via `controls` | composed | homepage |
 | Restructure / Restyle / Summary / Synthesis / Transform | via `inline-action` action set | composed | homepage |
@@ -63,39 +63,39 @@ Help users construct their first prompt and get started.
 | Filters | filters on connectors / citations | composed | tuners |
 | Model management | model chip on `copilot-input` | composed | tuners |
 | Modes | mode chip on `copilot-input` | composed | tuners |
-| Parameters | params drawer (catalog) | catalog | tuners |
-| Preset styles / Saved styles / Voice and tone | style presets (catalog) | catalog | tuners |
-| Prompt enhancer | enhancer control (catalog) | catalog | tuners |
+| Parameters | params drawer (catalog) | implemented | tuners |
+| Preset styles / Saved styles / Voice and tone | style presets (catalog) | implemented | tuners |
+| Prompt enhancer | enhancer control (catalog) | implemented | tuners |
 
 ## Governors
 
 | Shape of AI | Kit ID / mapping | Status | Source |
 |-------------|------------------|--------|--------|
 | Action plan | `action-plan` | implemented | [patterns/action-plan](https://www.shapeof.ai/patterns/action-plan) |
-| Branches | `branches` (catalog) · with `footprints` | catalog | [governors](https://www.shapeof.ai/pattern-types/governors) |
+| Branches | `branches` (catalog) · with `footprints` | implemented | [governors](https://www.shapeof.ai/pattern-types/governors) |
 | Citations | `citations` | implemented | [patterns/citations](https://www.shapeof.ai/patterns/citations) |
 | Controls | `controls` | implemented | [patterns/controls](https://www.shapeof.ai/patterns/controls) |
 | Cost estimates | `cost-estimates` | implemented | [patterns/cost-estimates](https://www.shapeof.ai/patterns/cost-estimates) |
 | Draft mode | draft flag + cheaper path in `cost-estimates` | composed | governors |
-| Memory | memory settings (catalog) | catalog | governors |
+| Memory | memory settings (catalog) | implemented | governors |
 | References | compose `citations` + `connectors` | composed | governors |
-| Sample response | sample confirm (catalog) · near `mandate-approval-card` | catalog | governors |
+| Sample response | sample confirm (catalog) · near `mandate-approval-card` | implemented | governors |
 | Shared vision | composed → `dual-speed-layout` | composed | [patterns/shared-vision](https://www.shapeof.ai/patterns/shared-vision) |
 | Stream of Thought | composed → `streaming-thought-state` | composed | [patterns/stream-of-thought](https://www.shapeof.ai/patterns/stream-of-thought) |
-| Variations | variations picker (catalog) | catalog | governors |
+| Variations | variations picker (catalog) | implemented | governors |
 | Verification | composed → `mandate-approval-card` | composed | [patterns/verification](https://www.shapeof.ai/patterns/verification) |
 
 ## Trust builders
 
 | Shape of AI | Kit ID / mapping | Status | Source |
 |-------------|------------------|--------|--------|
-| Caveat | caveat banner (catalog) | catalog | [trust-builders](https://www.shapeof.ai/pattern-types/trust-builders) |
-| Consent | consent gate (catalog) | catalog | trust-builders |
-| Data ownership | data ownership settings (catalog) | catalog | trust-builders |
+| Caveat | caveat banner (catalog) | implemented | [trust-builders](https://www.shapeof.ai/pattern-types/trust-builders) |
+| Consent | consent gate (catalog) | implemented | trust-builders |
+| Data ownership | data ownership settings (catalog) | implemented | trust-builders |
 | Disclosure | `disclosure` | implemented | [patterns/disclosure](https://www.shapeof.ai/patterns/disclosure) |
 | Footprints | `footprints` | implemented | [patterns/footprints](https://www.shapeof.ai/patterns/footprints) |
-| Incognito Mode | incognito toggle (catalog) | catalog | trust-builders |
-| Watermark | watermark (catalog) · media export | catalog | trust-builders |
+| Incognito Mode | incognito toggle (catalog) | implemented | trust-builders |
+| Watermark | watermark (catalog) · media export | implemented | trust-builders |
 
 ## Identifiers
 
@@ -103,7 +103,7 @@ Brand-level (usually host design system, not agent runtime UI).
 
 | Shape of AI | Kit guidance | Status |
 |-------------|--------------|--------|
-| Avatar / Color / Iconography / Name / Personality | Keep dense; use `disclosure` badges; avoid purple “AI slop” palette called out in Footprints | catalog |
+| Avatar / Color / Iconography / Name / Personality | Keep dense; use `disclosure` badges; avoid purple “AI slop” palette called out in Footprints | implemented |
 
 ---
 

@@ -16,8 +16,8 @@ Built so a coding agent can resolve the right pattern in **one index read + one 
 
 ## Implemented patterns
 
-See [`INDEX.md`](INDEX.md) (~30 kit patterns).  
-**Full Playground coverage:** [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) maps all **160** [aiuxplayground.com/pattern/…](https://aiuxplayground.com/patterns) slugs → kit (`implemented` / `composed` / `catalog`).
+See [`INDEX.md`](INDEX.md) — **103** kit folders with README + React/Tailwind snippets.  
+**Full Playground coverage:** [`TAXONOMY-PLAYGROUND.md`](TAXONOMY-PLAYGROUND.md) maps all **160** slugs (`implemented` / `composed`, **0 catalog**).
 
 ## References & images
 
