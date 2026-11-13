@@ -112,7 +112,7 @@ Wired into kit READMEs via `<!-- playground-captures -->` (composer, citations, 
 ## AI Design Guide — P1 resources / anti-patterns
 
 Public guide OGs + figures in [`assets/screenshots/external/aidesign/p1-resources/`](assets/screenshots/external/aidesign/p1-resources/).  
-**Anti-Patterns Gallery** itself is login-gated — kit doctrine already encodes the bans; drop account exports into that folder when available.
+**Anti-Patterns Gallery** (authenticated): [`p1-resources/anti-patterns/`](assets/screenshots/external/aidesign/p1-resources/anti-patterns/) — 10 counter-examples + OG + doctrine map.
 
 ## AI Design Guide — Agentic UX Patterns
 

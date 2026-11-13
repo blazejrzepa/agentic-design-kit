@@ -204,7 +204,7 @@ Source: [aidesign.guide/resources](https://www.aidesign.guide/resources) · [age
 | Agentic UX Patterns (39) | Public page + captures | Part A · `external/aidesign/` |
 | Five Patterns for Agentic UI | Varies | → `scoped-approval`, `streaming-thought-state`, `project-instructions`, `copilot-input`, `failure-disclosure` |
 | Trust Levels (Observer→Autonomous) | Public dictionary + playground | → `autonomy-modes` · `autonomy-budget` · `p1-resources/` |
-| **AI Anti-Patterns Gallery** | **Free account (login wall)** | Doctrine only — see `.cursorrules` / `AI-INSTRUCTIONS.md`; OG in `external/aidesign/p1-resources/` |
+| **AI Anti-Patterns Gallery** | Free account | Captures + doctrine map in [`external/aidesign/p1-resources/anti-patterns/`](assets/screenshots/external/aidesign/p1-resources/anti-patterns/) · `.cursorrules` |
 | Agentic design system / workflows guides | Public | `p1-resources/` heroes + figures |
 | Agentic Design System Defaults / CLAUDE.md packs | Members / packs | Host wiring via `CONSUMING.md` · `project-instructions` |
 | Design inspiration bookmarks | — | Part F only |

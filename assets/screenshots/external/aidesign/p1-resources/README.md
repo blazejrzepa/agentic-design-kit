@@ -4,7 +4,7 @@
 
 | Resource | Access | Kit status |
 |----------|--------|------------|
-| [AI Anti-Patterns Gallery](https://www.aidesign.guide/guides/ai-anti-patterns-gallery) | **Free account (login wall)** | Doctrine only until licensed export |
+| [AI Anti-Patterns Gallery](https://www.aidesign.guide/guides/ai-anti-patterns-gallery) | Free account | **Captured** — see [`anti-patterns/`](anti-patterns/) |
 | [Resources](https://www.aidesign.guide/resources) | Mixed / often login | OG + public children |
 | Public guides (agentic DS, workflows, trust levels) | **Public** | Captures in this folder |
 
